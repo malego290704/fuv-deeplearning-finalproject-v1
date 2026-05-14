@@ -1,0 +1,2082 @@
+[
+    {
+        "ticker": "AAA",
+        "filename": "AAA-VNINDEX.csv",
+        "length": 3146
+    },
+    {
+        "ticker": "AAM",
+        "filename": "AAM-VNINDEX.csv",
+        "length": 3352
+    },
+    {
+        "ticker": "AAT",
+        "filename": "AAT-VNINDEX.csv",
+        "length": 483
+    },
+    {
+        "ticker": "ABR",
+        "filename": "ABR-VNINDEX.csv",
+        "length": 1173
+    },
+    {
+        "ticker": "ABS",
+        "filename": "ABS-VNINDEX.csv",
+        "length": 738
+    },
+    {
+        "ticker": "ABT",
+        "filename": "ABT-VNINDEX.csv",
+        "length": 4024
+    },
+    {
+        "ticker": "ACB",
+        "filename": "ACB-VNINDEX.csv",
+        "length": 4052
+    },
+    {
+        "ticker": "ACC",
+        "filename": "ACC-VNINDEX.csv",
+        "length": 3241
+    },
+    {
+        "ticker": "ACG",
+        "filename": "ACG-VNINDEX.csv",
+        "length": 383
+    },
+    {
+        "ticker": "ACL",
+        "filename": "ACL-VNINDEX.csv",
+        "length": 3850
+    },
+    {
+        "ticker": "ADG",
+        "filename": "ADG-VNINDEX.csv",
+        "length": 781
+    },
+    {
+        "ticker": "ADS",
+        "filename": "ADS-VNINDEX.csv",
+        "length": 1669
+    },
+    {
+        "ticker": "AGG",
+        "filename": "AGG-VNINDEX.csv",
+        "length": 781
+    },
+    {
+        "ticker": "AGM",
+        "filename": "AGM-VNINDEX.csv",
+        "length": 2544
+    },
+    {
+        "ticker": "AGR",
+        "filename": "AGR-VNINDEX.csv",
+        "length": 3297
+    },
+    {
+        "ticker": "AMD",
+        "filename": "AMD-VNINDEX.csv",
+        "length": 2069
+    },
+    {
+        "ticker": "ANV",
+        "filename": "ANV-VNINDEX.csv",
+        "length": 3793
+    },
+    {
+        "ticker": "APC",
+        "filename": "APC-VNINDEX.csv",
+        "length": 3257
+    },
+    {
+        "ticker": "APG",
+        "filename": "APG-VNINDEX.csv",
+        "length": 3216
+    },
+    {
+        "ticker": "APH",
+        "filename": "APH-VNINDEX.csv",
+        "length": 647
+    },
+    {
+        "ticker": "ASG",
+        "filename": "ASG-VNINDEX.csv",
+        "length": 600
+    },
+    {
+        "ticker": "ASM",
+        "filename": "ASM-VNINDEX.csv",
+        "length": 3271
+    },
+    {
+        "ticker": "ASP",
+        "filename": "ASP-VNINDEX.csv",
+        "length": 3751
+    },
+    {
+        "ticker": "AST",
+        "filename": "AST-VNINDEX.csv",
+        "length": 1285
+    },
+    {
+        "ticker": "BAF",
+        "filename": "BAF-VNINDEX.csv",
+        "length": 306
+    },
+    {
+        "ticker": "BBC",
+        "filename": "BBC-VNINDEX.csv",
+        "length": 5258
+    },
+    {
+        "ticker": "BCE",
+        "filename": "BCE-VNINDEX.csv",
+        "length": 3164
+    },
+    {
+        "ticker": "BCG",
+        "filename": "BCG-VNINDEX.csv",
+        "length": 1908
+    },
+    {
+        "ticker": "BCM",
+        "filename": "BCM-VNINDEX.csv",
+        "length": 1249
+    },
+    {
+        "ticker": "BFC",
+        "filename": "BFC-VNINDEX.csv",
+        "length": 1850
+    },
+    {
+        "ticker": "BHN",
+        "filename": "BHN-VNINDEX.csv",
+        "length": 1577
+    },
+    {
+        "ticker": "BIC",
+        "filename": "BIC-VNINDEX.csv",
+        "length": 2867
+    },
+    {
+        "ticker": "BID",
+        "filename": "BID-VNINDEX.csv",
+        "length": 2267
+    },
+    {
+        "ticker": "BKG",
+        "filename": "BKG-VNINDEX.csv",
+        "length": 536
+    },
+    {
+        "ticker": "BMC",
+        "filename": "BMC-VNINDEX.csv",
+        "length": 4027
+    },
+    {
+        "ticker": "BMI",
+        "filename": "BMI-VNINDEX.csv",
+        "length": 4041
+    },
+    {
+        "ticker": "BMP",
+        "filename": "BMP-VNINDEX.csv",
+        "length": 4148
+    },
+    {
+        "ticker": "BRC",
+        "filename": "BRC-VNINDEX.csv",
+        "length": 2797
+    },
+    {
+        "ticker": "BSI",
+        "filename": "BSI-VNINDEX.csv",
+        "length": 2895
+    },
+    {
+        "ticker": "BTP",
+        "filename": "BTP-VNINDEX.csv",
+        "length": 3308
+    },
+    {
+        "ticker": "BTT",
+        "filename": "BTT-VNINDEX.csv",
+        "length": 3214
+    },
+    {
+        "ticker": "BVH",
+        "filename": "BVH-VNINDEX.csv",
+        "length": 3416
+    },
+    {
+        "ticker": "BWE",
+        "filename": "BWE-VNINDEX.csv",
+        "length": 1403
+    },
+    {
+        "ticker": "C32",
+        "filename": "C32-VNINDEX.csv",
+        "length": 3084
+    },
+    {
+        "ticker": "C47",
+        "filename": "C47-VNINDEX.csv",
+        "length": 2976
+    },
+    {
+        "ticker": "CAV",
+        "filename": "CAV-VNINDEX.csv",
+        "length": 2047
+    },
+    {
+        "ticker": "CCI",
+        "filename": "CCI-VNINDEX.csv",
+        "length": 3213
+    },
+    {
+        "ticker": "CCL",
+        "filename": "CCL-VNINDEX.csv",
+        "length": 2995
+    },
+    {
+        "ticker": "CDC",
+        "filename": "CDC-VNINDEX.csv",
+        "length": 3111
+    },
+    {
+        "ticker": "CHP",
+        "filename": "CHP-VNINDEX.csv",
+        "length": 3192
+    },
+    {
+        "ticker": "CIG",
+        "filename": "CIG-VNINDEX.csv",
+        "length": 2901
+    },
+    {
+        "ticker": "CII",
+        "filename": "CII-VNINDEX.csv",
+        "length": 4186
+    },
+    {
+        "ticker": "CKG",
+        "filename": "CKG-VNINDEX.csv",
+        "length": 733
+    },
+    {
+        "ticker": "CLC",
+        "filename": "CLC-VNINDEX.csv",
+        "length": 4057
+    },
+    {
+        "ticker": "CLL",
+        "filename": "CLL-VNINDEX.csv",
+        "length": 2161
+    },
+    {
+        "ticker": "CLW",
+        "filename": "CLW-VNINDEX.csv",
+        "length": 3026
+    },
+    {
+        "ticker": "CMG",
+        "filename": "CMG-VNINDEX.csv",
+        "length": 3267
+    },
+    {
+        "ticker": "CMV",
+        "filename": "CMV-VNINDEX.csv",
+        "length": 3169
+    },
+    {
+        "ticker": "CMX",
+        "filename": "CMX-VNINDEX.csv",
+        "length": 3070
+    },
+    {
+        "ticker": "CNG",
+        "filename": "CNG-VNINDEX.csv",
+        "length": 2811
+    },
+    {
+        "ticker": "COM",
+        "filename": "COM-VNINDEX.csv",
+        "length": 4129
+    },
+    {
+        "ticker": "CRC",
+        "filename": "CRC-VNINDEX.csv",
+        "length": 1131
+    },
+    {
+        "ticker": "CRE",
+        "filename": "CRE-VNINDEX.csv",
+        "length": 1120
+    },
+    {
+        "ticker": "CSM",
+        "filename": "CSM-VNINDEX.csv",
+        "length": 3383
+    },
+    {
+        "ticker": "CSV",
+        "filename": "CSV-VNINDEX.csv",
+        "length": 1990
+    },
+    {
+        "ticker": "CTD",
+        "filename": "CTD-VNINDEX.csv",
+        "length": 3269
+    },
+    {
+        "ticker": "CTF",
+        "filename": "CTF-VNINDEX.csv",
+        "length": 1440
+    },
+    {
+        "ticker": "CTG",
+        "filename": "CTG-VNINDEX.csv",
+        "length": 3401
+    },
+    {
+        "ticker": "CTI",
+        "filename": "CTI-VNINDEX.csv",
+        "length": 3232
+    },
+    {
+        "ticker": "CTR",
+        "filename": "CTR-VNINDEX.csv",
+        "length": 1325
+    },
+    {
+        "ticker": "CTS",
+        "filename": "CTS-VNINDEX.csv",
+        "length": 3387
+    },
+    {
+        "ticker": "CVT",
+        "filename": "CVT-VNINDEX.csv",
+        "length": 3318
+    },
+    {
+        "ticker": "D2D",
+        "filename": "D2D-VNINDEX.csv",
+        "length": 3380
+    },
+    {
+        "ticker": "DAG",
+        "filename": "DAG-VNINDEX.csv",
+        "length": 3218
+    },
+    {
+        "ticker": "DAH",
+        "filename": "DAH-VNINDEX.csv",
+        "length": 1597
+    },
+    {
+        "ticker": "DAT",
+        "filename": "DAT-VNINDEX.csv",
+        "length": 1829
+    },
+    {
+        "ticker": "DBC",
+        "filename": "DBC-VNINDEX.csv",
+        "length": 3726
+    },
+    {
+        "ticker": "DBD",
+        "filename": "DBD-VNINDEX.csv",
+        "length": 1523
+    },
+    {
+        "ticker": "DBT",
+        "filename": "DBT-VNINDEX.csv",
+        "length": 3321
+    },
+    {
+        "ticker": "DC4",
+        "filename": "DC4-VNINDEX.csv",
+        "length": 3569
+    },
+    {
+        "ticker": "DCL",
+        "filename": "DCL-VNINDEX.csv",
+        "length": 3608
+    },
+    {
+        "ticker": "DCM",
+        "filename": "DCM-VNINDEX.csv",
+        "length": 1981
+    },
+    {
+        "ticker": "DGC",
+        "filename": "DGC-VNINDEX.csv",
+        "length": 2120
+    },
+    {
+        "ticker": "DGW",
+        "filename": "DGW-VNINDEX.csv",
+        "length": 1896
+    },
+    {
+        "ticker": "DHA",
+        "filename": "DHA-VNINDEX.csv",
+        "length": 4710
+    },
+    {
+        "ticker": "DHC",
+        "filename": "DHC-VNINDEX.csv",
+        "length": 3396
+    },
+    {
+        "ticker": "DHG",
+        "filename": "DHG-VNINDEX.csv",
+        "length": 4032
+    },
+    {
+        "ticker": "DHM",
+        "filename": "DHM-VNINDEX.csv",
+        "length": 2646
+    },
+    {
+        "ticker": "DIG",
+        "filename": "DIG-VNINDEX.csv",
+        "length": 3377
+    },
+    {
+        "ticker": "DLG",
+        "filename": "DLG-VNINDEX.csv",
+        "length": 3168
+    },
+    {
+        "ticker": "DMC",
+        "filename": "DMC-VNINDEX.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "DPG",
+        "filename": "DPG-VNINDEX.csv",
+        "length": 1526
+    },
+    {
+        "ticker": "DPM",
+        "filename": "DPM-VNINDEX.csv",
+        "length": 3817
+    },
+    {
+        "ticker": "DPR",
+        "filename": "DPR-VNINDEX.csv",
+        "length": 3798
+    },
+    {
+        "ticker": "DQC",
+        "filename": "DQC-VNINDEX.csv",
+        "length": 3747
+    },
+    {
+        "ticker": "DRC",
+        "filename": "DRC-VNINDEX.csv",
+        "length": 4026
+    },
+    {
+        "ticker": "DRH",
+        "filename": "DRH-VNINDEX.csv",
+        "length": 3144
+    },
+    {
+        "ticker": "DRL",
+        "filename": "DRL-VNINDEX.csv",
+        "length": 2718
+    },
+    {
+        "ticker": "DSN",
+        "filename": "DSN-VNINDEX.csv",
+        "length": 3080
+    },
+    {
+        "ticker": "DTA",
+        "filename": "DTA-VNINDEX.csv",
+        "length": 3149
+    },
+    {
+        "ticker": "DTL",
+        "filename": "DTL-VNINDEX.csv",
+        "length": 3180
+    },
+    {
+        "ticker": "DTT",
+        "filename": "DTT-VNINDEX.csv",
+        "length": 4031
+    },
+    {
+        "ticker": "DVP",
+        "filename": "DVP-VNINDEX.csv",
+        "length": 3304
+    },
+    {
+        "ticker": "DXG",
+        "filename": "DXG-VNINDEX.csv",
+        "length": 3289
+    },
+    {
+        "ticker": "DXS",
+        "filename": "DXS-VNINDEX.csv",
+        "length": 402
+    },
+    {
+        "ticker": "DXV",
+        "filename": "DXV-VNINDEX.csv",
+        "length": 3744
+    },
+    {
+        "ticker": "E1VFVN30",
+        "filename": "E1VFVN30-VNINDEX.csv",
+        "length": 2099
+    },
+    {
+        "ticker": "EIB",
+        "filename": "EIB-VNINDEX.csv",
+        "length": 3329
+    },
+    {
+        "ticker": "ELC",
+        "filename": "ELC-VNINDEX.csv",
+        "length": 3089
+    },
+    {
+        "ticker": "EMC",
+        "filename": "EMC-VNINDEX.csv",
+        "length": 2555
+    },
+    {
+        "ticker": "EVE",
+        "filename": "EVE-VNINDEX.csv",
+        "length": 3042
+    },
+    {
+        "ticker": "EVF",
+        "filename": "EVF-VNINDEX.csv",
+        "length": 1132
+    },
+    {
+        "ticker": "EVG",
+        "filename": "EVG-VNINDEX.csv",
+        "length": 1433
+    },
+    {
+        "ticker": "FCM",
+        "filename": "FCM-VNINDEX.csv",
+        "length": 2447
+    },
+    {
+        "ticker": "FCN",
+        "filename": "FCN-VNINDEX.csv",
+        "length": 2646
+    },
+    {
+        "ticker": "FDC",
+        "filename": "FDC-VNINDEX.csv",
+        "length": 3271
+    },
+    {
+        "ticker": "FIR",
+        "filename": "FIR-VNINDEX.csv",
+        "length": 1089
+    },
+    {
+        "ticker": "FIT",
+        "filename": "FIT-VNINDEX.csv",
+        "length": 2391
+    },
+    {
+        "ticker": "FMC",
+        "filename": "FMC-VNINDEX.csv",
+        "length": 4042
+    },
+    {
+        "ticker": "FPT",
+        "filename": "FPT-VNINDEX.csv",
+        "length": 4038
+    },
+    {
+        "ticker": "FRT",
+        "filename": "FRT-VNINDEX.csv",
+        "length": 1211
+    },
+    {
+        "ticker": "FTS",
+        "filename": "FTS-VNINDEX.csv",
+        "length": 1529
+    },
+    {
+        "ticker": "FUCTVGF3",
+        "filename": "FUCTVGF3-VNINDEX.csv",
+        "length": 333
+    },
+    {
+        "ticker": "FUCTVGF4",
+        "filename": "FUCTVGF4-VNINDEX.csv",
+        "length": 106
+    },
+    {
+        "ticker": "FUCVREIT",
+        "filename": "FUCVREIT-VNINDEX.csv",
+        "length": 1503
+    },
+    {
+        "ticker": "FUEDCMID",
+        "filename": "FUEDCMID-VNINDEX.csv",
+        "length": 103
+    },
+    {
+        "ticker": "FUEIP100",
+        "filename": "FUEIP100-VNINDEX.csv",
+        "length": 344
+    },
+    {
+        "ticker": "FUEKIV30",
+        "filename": "FUEKIV30-VNINDEX.csv",
+        "length": 282
+    },
+    {
+        "ticker": "FUEKIVFS",
+        "filename": "FUEKIVFS-VNINDEX.csv",
+        "length": 72
+    },
+    {
+        "ticker": "FUEMAV30",
+        "filename": "FUEMAV30-VNINDEX.csv",
+        "length": 553
+    },
+    {
+        "ticker": "FUESSV30",
+        "filename": "FUESSV30-VNINDEX.csv",
+        "length": 632
+    },
+    {
+        "ticker": "FUESSV50",
+        "filename": "FUESSV50-VNINDEX.csv",
+        "length": 1336
+    },
+    {
+        "ticker": "FUESSVFL",
+        "filename": "FUESSVFL-VNINDEX.csv",
+        "length": 738
+    },
+    {
+        "ticker": "FUEVFVND",
+        "filename": "FUEVFVND-VNINDEX.csv",
+        "length": 702
+    },
+    {
+        "ticker": "FUEVN100",
+        "filename": "FUEVN100-VNINDEX.csv",
+        "length": 652
+    },
+    {
+        "ticker": "GAB",
+        "filename": "GAB-VNINDEX.csv",
+        "length": 910
+    },
+    {
+        "ticker": "GAS",
+        "filename": "GAS-VNINDEX.csv",
+        "length": 2692
+    },
+    {
+        "ticker": "GDT",
+        "filename": "GDT-VNINDEX.csv",
+        "length": 3314
+    },
+    {
+        "ticker": "GEG",
+        "filename": "GEG-VNINDEX.csv",
+        "length": 1481
+    },
+    {
+        "ticker": "GEX",
+        "filename": "GEX-VNINDEX.csv",
+        "length": 1834
+    },
+    {
+        "ticker": "GIL",
+        "filename": "GIL-VNINDEX.csv",
+        "length": 5259
+    },
+    {
+        "ticker": "GMC",
+        "filename": "GMC-VNINDEX.csv",
+        "length": 4031
+    },
+    {
+        "ticker": "GMD",
+        "filename": "GMD-VNINDEX.csv",
+        "length": 5201
+    },
+    {
+        "ticker": "GMH",
+        "filename": "GMH-VNINDEX.csv",
+        "length": 279
+    },
+    {
+        "ticker": "GSP",
+        "filename": "GSP-VNINDEX.csv",
+        "length": 2740
+    },
+    {
+        "ticker": "GTA",
+        "filename": "GTA-VNINDEX.csv",
+        "length": 3891
+    },
+    {
+        "ticker": "GVR",
+        "filename": "GVR-VNINDEX.csv",
+        "length": 1230
+    },
+    {
+        "ticker": "HAG",
+        "filename": "HAG-VNINDEX.csv",
+        "length": 3540
+    },
+    {
+        "ticker": "HAH",
+        "filename": "HAH-VNINDEX.csv",
+        "length": 1995
+    },
+    {
+        "ticker": "HAI",
+        "filename": "HAI-VNINDEX.csv",
+        "length": 3210
+    },
+    {
+        "ticker": "HAP",
+        "filename": "HAP-VNINDEX.csv",
+        "length": 5399
+    },
+    {
+        "ticker": "HAR",
+        "filename": "HAR-VNINDEX.csv",
+        "length": 2522
+    },
+    {
+        "ticker": "HAS",
+        "filename": "HAS-VNINDEX.csv",
+        "length": 5032
+    },
+    {
+        "ticker": "HAX",
+        "filename": "HAX-VNINDEX.csv",
+        "length": 4029
+    },
+    {
+        "ticker": "HBC",
+        "filename": "HBC-VNINDEX.csv",
+        "length": 4028
+    },
+    {
+        "ticker": "HCD",
+        "filename": "HCD-VNINDEX.csv",
+        "length": 1666
+    },
+    {
+        "ticker": "HCM",
+        "filename": "HCM-VNINDEX.csv",
+        "length": 3443
+    },
+    {
+        "ticker": "HDB",
+        "filename": "HDB-VNINDEX.csv",
+        "length": 1284
+    },
+    {
+        "ticker": "HDC",
+        "filename": "HDC-VNINDEX.csv",
+        "length": 3837
+    },
+    {
+        "ticker": "HDG",
+        "filename": "HDG-VNINDEX.csv",
+        "length": 3260
+    },
+    {
+        "ticker": "HHP",
+        "filename": "HHP-VNINDEX.csv",
+        "length": 1131
+    },
+    {
+        "ticker": "HHS",
+        "filename": "HHS-VNINDEX.csv",
+        "length": 2757
+    },
+    {
+        "ticker": "HHV",
+        "filename": "HHV-VNINDEX.csv",
+        "length": 1789
+    },
+    {
+        "ticker": "HID",
+        "filename": "HID-VNINDEX.csv",
+        "length": 1661
+    },
+    {
+        "ticker": "HII",
+        "filename": "HII-VNINDEX.csv",
+        "length": 1423
+    },
+    {
+        "ticker": "HMC",
+        "filename": "HMC-VNINDEX.csv",
+        "length": 4032
+    },
+    {
+        "ticker": "HNG",
+        "filename": "HNG-VNINDEX.csv",
+        "length": 1906
+    },
+    {
+        "ticker": "HOT",
+        "filename": "HOT-VNINDEX.csv",
+        "length": 2899
+    },
+    {
+        "ticker": "HPG",
+        "filename": "HPG-VNINDEX.csv",
+        "length": 3809
+    },
+    {
+        "ticker": "HPX",
+        "filename": "HPX-VNINDEX.csv",
+        "length": 1150
+    },
+    {
+        "ticker": "HQC",
+        "filename": "HQC-VNINDEX.csv",
+        "length": 3084
+    },
+    {
+        "ticker": "HRC",
+        "filename": "HRC-VNINDEX.csv",
+        "length": 4029
+    },
+    {
+        "ticker": "HSG",
+        "filename": "HSG-VNINDEX.csv",
+        "length": 3551
+    },
+    {
+        "ticker": "HSL",
+        "filename": "HSL-VNINDEX.csv",
+        "length": 1203
+    },
+    {
+        "ticker": "HT1",
+        "filename": "HT1-VNINDEX.csv",
+        "length": 3811
+    },
+    {
+        "ticker": "HTI",
+        "filename": "HTI-VNINDEX.csv",
+        "length": 3041
+    },
+    {
+        "ticker": "HTL",
+        "filename": "HTL-VNINDEX.csv",
+        "length": 3027
+    },
+    {
+        "ticker": "HTN",
+        "filename": "HTN-VNINDEX.csv",
+        "length": 1072
+    },
+    {
+        "ticker": "HTV",
+        "filename": "HTV-VNINDEX.csv",
+        "length": 4273
+    },
+    {
+        "ticker": "HU1",
+        "filename": "HU1-VNINDEX.csv",
+        "length": 3161
+    },
+    {
+        "ticker": "HU3",
+        "filename": "HU3-VNINDEX.csv",
+        "length": 2984
+    },
+    {
+        "ticker": "HUB",
+        "filename": "HUB-VNINDEX.csv",
+        "length": 1003
+    },
+    {
+        "ticker": "HVH",
+        "filename": "HVH-VNINDEX.csv",
+        "length": 1058
+    },
+    {
+        "ticker": "HVN",
+        "filename": "HVN-VNINDEX.csv",
+        "length": 1530
+    },
+    {
+        "ticker": "HVX",
+        "filename": "HVX-VNINDEX.csv",
+        "length": 3100
+    },
+    {
+        "ticker": "IBC",
+        "filename": "IBC-VNINDEX.csv",
+        "length": 1583
+    },
+    {
+        "ticker": "ICT",
+        "filename": "ICT-VNINDEX.csv",
+        "length": 778
+    },
+    {
+        "ticker": "IDI",
+        "filename": "IDI-VNINDEX.csv",
+        "length": 2914
+    },
+    {
+        "ticker": "IJC",
+        "filename": "IJC-VNINDEX.csv",
+        "length": 3211
+    },
+    {
+        "ticker": "ILB",
+        "filename": "ILB-VNINDEX.csv",
+        "length": 951
+    },
+    {
+        "ticker": "IMP",
+        "filename": "IMP-VNINDEX.csv",
+        "length": 4045
+    },
+    {
+        "ticker": "ITA",
+        "filename": "ITA-VNINDEX.csv",
+        "length": 4058
+    },
+    {
+        "ticker": "ITC",
+        "filename": "ITC-VNINDEX.csv",
+        "length": 3335
+    },
+    {
+        "ticker": "ITD",
+        "filename": "ITD-VNINDEX.csv",
+        "length": 3236
+    },
+    {
+        "ticker": "JVC",
+        "filename": "JVC-VNINDEX.csv",
+        "length": 2921
+    },
+    {
+        "ticker": "KBC",
+        "filename": "KBC-VNINDEX.csv",
+        "length": 3291
+    },
+    {
+        "ticker": "KDC",
+        "filename": "KDC-VNINDEX.csv",
+        "length": 4290
+    },
+    {
+        "ticker": "KDH",
+        "filename": "KDH-VNINDEX.csv",
+        "length": 3261
+    },
+    {
+        "ticker": "KHG",
+        "filename": "KHG-VNINDEX.csv",
+        "length": 400
+    },
+    {
+        "ticker": "KHP",
+        "filename": "KHP-VNINDEX.csv",
+        "length": 4249
+    },
+    {
+        "ticker": "KMR",
+        "filename": "KMR-VNINDEX.csv",
+        "length": 3663
+    },
+    {
+        "ticker": "KOS",
+        "filename": "KOS-VNINDEX.csv",
+        "length": 1298
+    },
+    {
+        "ticker": "KPF",
+        "filename": "KPF-VNINDEX.csv",
+        "length": 1751
+    },
+    {
+        "ticker": "KSB",
+        "filename": "KSB-VNINDEX.csv",
+        "length": 3269
+    },
+    {
+        "ticker": "L10",
+        "filename": "L10-VNINDEX.csv",
+        "length": 3781
+    },
+    {
+        "ticker": "LAF",
+        "filename": "LAF-VNINDEX.csv",
+        "length": 5404
+    },
+    {
+        "ticker": "LBM",
+        "filename": "LBM-VNINDEX.csv",
+        "length": 4033
+    },
+    {
+        "ticker": "LCG",
+        "filename": "LCG-VNINDEX.csv",
+        "length": 3564
+    },
+    {
+        "ticker": "LDG",
+        "filename": "LDG-VNINDEX.csv",
+        "length": 1889
+    },
+    {
+        "ticker": "LEC",
+        "filename": "LEC-VNINDEX.csv",
+        "length": 1429
+    },
+    {
+        "ticker": "LGC",
+        "filename": "LGC-VNINDEX.csv",
+        "length": 4028
+    },
+    {
+        "ticker": "LGL",
+        "filename": "LGL-VNINDEX.csv",
+        "length": 3342
+    },
+    {
+        "ticker": "LHG",
+        "filename": "LHG-VNINDEX.csv",
+        "length": 3230
+    },
+    {
+        "ticker": "LIX",
+        "filename": "LIX-VNINDEX.csv",
+        "length": 3297
+    },
+    {
+        "ticker": "LM8",
+        "filename": "LM8-VNINDEX.csv",
+        "length": 3066
+    },
+    {
+        "ticker": "LPB",
+        "filename": "LPB-VNINDEX.csv",
+        "length": 1339
+    },
+    {
+        "ticker": "LSS",
+        "filename": "LSS-VNINDEX.csv",
+        "length": 3772
+    },
+    {
+        "ticker": "MBB",
+        "filename": "MBB-VNINDEX.csv",
+        "length": 2827
+    },
+    {
+        "ticker": "MCG",
+        "filename": "MCG-VNINDEX.csv",
+        "length": 3352
+    },
+    {
+        "ticker": "MCP",
+        "filename": "MCP-VNINDEX.csv",
+        "length": 4027
+    },
+    {
+        "ticker": "MDG",
+        "filename": "MDG-VNINDEX.csv",
+        "length": 3025
+    },
+    {
+        "ticker": "MHC",
+        "filename": "MHC-VNINDEX.csv",
+        "length": 4477
+    },
+    {
+        "ticker": "MIG",
+        "filename": "MIG-VNINDEX.csv",
+        "length": 1451
+    },
+    {
+        "ticker": "MSB",
+        "filename": "MSB-VNINDEX.csv",
+        "length": 542
+    },
+    {
+        "ticker": "MSH",
+        "filename": "MSH-VNINDEX.csv",
+        "length": 1060
+    },
+    {
+        "ticker": "MSN",
+        "filename": "MSN-VNINDEX.csv",
+        "length": 3322
+    },
+    {
+        "ticker": "MWG",
+        "filename": "MWG-VNINDEX.csv",
+        "length": 2157
+    },
+    {
+        "ticker": "NAF",
+        "filename": "NAF-VNINDEX.csv",
+        "length": 1850
+    },
+    {
+        "ticker": "NAV",
+        "filename": "NAV-VNINDEX.csv",
+        "length": 4031
+    },
+    {
+        "ticker": "NBB",
+        "filename": "NBB-VNINDEX.csv",
+        "length": 3504
+    },
+    {
+        "ticker": "NCT",
+        "filename": "NCT-VNINDEX.csv",
+        "length": 2033
+    },
+    {
+        "ticker": "NHA",
+        "filename": "NHA-VNINDEX.csv",
+        "length": 3147
+    },
+    {
+        "ticker": "NHH",
+        "filename": "NHH-VNINDEX.csv",
+        "length": 1363
+    },
+    {
+        "ticker": "NHT",
+        "filename": "NHT-VNINDEX.csv",
+        "length": 1300
+    },
+    {
+        "ticker": "NKG",
+        "filename": "NKG-VNINDEX.csv",
+        "length": 3023
+    },
+    {
+        "ticker": "NLG",
+        "filename": "NLG-VNINDEX.csv",
+        "length": 2470
+    },
+    {
+        "ticker": "NNC",
+        "filename": "NNC-VNINDEX.csv",
+        "length": 3167
+    },
+    {
+        "ticker": "NO1",
+        "filename": "NO1-VNINDEX.csv",
+        "length": 61
+    },
+    {
+        "ticker": "NSC",
+        "filename": "NSC-VNINDEX.csv",
+        "length": 4024
+    },
+    {
+        "ticker": "NT2",
+        "filename": "NT2-VNINDEX.csv",
+        "length": 3232
+    },
+    {
+        "ticker": "NTL",
+        "filename": "NTL-VNINDEX.csv",
+        "length": 3783
+    },
+    {
+        "ticker": "NVL",
+        "filename": "NVL-VNINDEX.csv",
+        "length": 1540
+    },
+    {
+        "ticker": "NVT",
+        "filename": "NVT-VNINDEX.csv",
+        "length": 3200
+    },
+    {
+        "ticker": "OCB",
+        "filename": "OCB-VNINDEX.csv",
+        "length": 517
+    },
+    {
+        "ticker": "OGC",
+        "filename": "OGC-VNINDEX.csv",
+        "length": 3203
+    },
+    {
+        "ticker": "OPC",
+        "filename": "OPC-VNINDEX.csv",
+        "length": 3577
+    },
+    {
+        "ticker": "ORS",
+        "filename": "ORS-VNINDEX.csv",
+        "length": 3145
+    },
+    {
+        "ticker": "PAC",
+        "filename": "PAC-VNINDEX.csv",
+        "length": 4039
+    },
+    {
+        "ticker": "PAN",
+        "filename": "PAN-VNINDEX.csv",
+        "length": 3037
+    },
+    {
+        "ticker": "PC1",
+        "filename": "PC1-VNINDEX.csv",
+        "length": 1570
+    },
+    {
+        "ticker": "PDN",
+        "filename": "PDN-VNINDEX.csv",
+        "length": 3111
+    },
+    {
+        "ticker": "PDR",
+        "filename": "PDR-VNINDEX.csv",
+        "length": 3140
+    },
+    {
+        "ticker": "PET",
+        "filename": "PET-VNINDEX.csv",
+        "length": 3855
+    },
+    {
+        "ticker": "PGC",
+        "filename": "PGC-VNINDEX.csv",
+        "length": 4051
+    },
+    {
+        "ticker": "PGD",
+        "filename": "PGD-VNINDEX.csv",
+        "length": 3307
+    },
+    {
+        "ticker": "PGI",
+        "filename": "PGI-VNINDEX.csv",
+        "length": 2893
+    },
+    {
+        "ticker": "PGV",
+        "filename": "PGV-VNINDEX.csv",
+        "length": 1228
+    },
+    {
+        "ticker": "PHC",
+        "filename": "PHC-VNINDEX.csv",
+        "length": 3316
+    },
+    {
+        "ticker": "PHR",
+        "filename": "PHR-VNINDEX.csv",
+        "length": 3378
+    },
+    {
+        "ticker": "PIT",
+        "filename": "PIT-VNINDEX.csv",
+        "length": 3761
+    },
+    {
+        "ticker": "PJT",
+        "filename": "PJT-VNINDEX.csv",
+        "length": 4027
+    },
+    {
+        "ticker": "PLP",
+        "filename": "PLP-VNINDEX.csv",
+        "length": 1381
+    },
+    {
+        "ticker": "PLX",
+        "filename": "PLX-VNINDEX.csv",
+        "length": 1465
+    },
+    {
+        "ticker": "PMG",
+        "filename": "PMG-VNINDEX.csv",
+        "length": 1270
+    },
+    {
+        "ticker": "PNC",
+        "filename": "PNC-VNINDEX.csv",
+        "length": 4399
+    },
+    {
+        "ticker": "PNJ",
+        "filename": "PNJ-VNINDEX.csv",
+        "length": 3481
+    },
+    {
+        "ticker": "POM",
+        "filename": "POM-VNINDEX.csv",
+        "length": 3210
+    },
+    {
+        "ticker": "POW",
+        "filename": "POW-VNINDEX.csv",
+        "length": 1238
+    },
+    {
+        "ticker": "PPC",
+        "filename": "PPC-VNINDEX.csv",
+        "length": 4172
+    },
+    {
+        "ticker": "PSH",
+        "filename": "PSH-VNINDEX.csv",
+        "length": 671
+    },
+    {
+        "ticker": "PTB",
+        "filename": "PTB-VNINDEX.csv",
+        "length": 2898
+    },
+    {
+        "ticker": "PTC",
+        "filename": "PTC-VNINDEX.csv",
+        "length": 4015
+    },
+    {
+        "ticker": "PTL",
+        "filename": "PTL-VNINDEX.csv",
+        "length": 3104
+    },
+    {
+        "ticker": "PVD",
+        "filename": "PVD-VNINDEX.csv",
+        "length": 4044
+    },
+    {
+        "ticker": "PVP",
+        "filename": "PVP-VNINDEX.csv",
+        "length": 1540
+    },
+    {
+        "ticker": "PVT",
+        "filename": "PVT-VNINDEX.csv",
+        "length": 3792
+    },
+    {
+        "ticker": "QBS",
+        "filename": "QBS-VNINDEX.csv",
+        "length": 2065
+    },
+    {
+        "ticker": "QCG",
+        "filename": "QCG-VNINDEX.csv",
+        "length": 3134
+    },
+    {
+        "ticker": "RAL",
+        "filename": "RAL-VNINDEX.csv",
+        "length": 4043
+    },
+    {
+        "ticker": "RDP",
+        "filename": "RDP-VNINDEX.csv",
+        "length": 3354
+    },
+    {
+        "ticker": "REE",
+        "filename": "REE-VNINDEX.csv",
+        "length": 5410
+    },
+    {
+        "ticker": "S4A",
+        "filename": "S4A-VNINDEX.csv",
+        "length": 1692
+    },
+    {
+        "ticker": "SAB",
+        "filename": "SAB-VNINDEX.csv",
+        "length": 1556
+    },
+    {
+        "ticker": "SAM",
+        "filename": "SAM-VNINDEX.csv",
+        "length": 5410
+    },
+    {
+        "ticker": "SAV",
+        "filename": "SAV-VNINDEX.csv",
+        "length": 5191
+    },
+    {
+        "ticker": "SBA",
+        "filename": "SBA-VNINDEX.csv",
+        "length": 3183
+    },
+    {
+        "ticker": "SBT",
+        "filename": "SBT-VNINDEX.csv",
+        "length": 3745
+    },
+    {
+        "ticker": "SBV",
+        "filename": "SBV-VNINDEX.csv",
+        "length": 1450
+    },
+    {
+        "ticker": "SC5",
+        "filename": "SC5-VNINDEX.csv",
+        "length": 3829
+    },
+    {
+        "ticker": "SCD",
+        "filename": "SCD-VNINDEX.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "SCR",
+        "filename": "SCR-VNINDEX.csv",
+        "length": 3065
+    },
+    {
+        "ticker": "SCS",
+        "filename": "SCS-VNINDEX.csv",
+        "length": 1403
+    },
+    {
+        "ticker": "SFC",
+        "filename": "SFC-VNINDEX.csv",
+        "length": 4600
+    },
+    {
+        "ticker": "SFG",
+        "filename": "SFG-VNINDEX.csv",
+        "length": 2059
+    },
+    {
+        "ticker": "SFI",
+        "filename": "SFI-VNINDEX.csv",
+        "length": 4026
+    },
+    {
+        "ticker": "SGN",
+        "filename": "SGN-VNINDEX.csv",
+        "length": 1797
+    },
+    {
+        "ticker": "SGR",
+        "filename": "SGR-VNINDEX.csv",
+        "length": 1951
+    },
+    {
+        "ticker": "SGT",
+        "filename": "SGT-VNINDEX.csv",
+        "length": 3765
+    },
+    {
+        "ticker": "SHA",
+        "filename": "SHA-VNINDEX.csv",
+        "length": 2515
+    },
+    {
+        "ticker": "SHB",
+        "filename": "SHB-VNINDEX.csv",
+        "length": 3459
+    },
+    {
+        "ticker": "SHI",
+        "filename": "SHI-VNINDEX.csv",
+        "length": 3283
+    },
+    {
+        "ticker": "SHP",
+        "filename": "SHP-VNINDEX.csv",
+        "length": 3106
+    },
+    {
+        "ticker": "SII",
+        "filename": "SII-VNINDEX.csv",
+        "length": 2611
+    },
+    {
+        "ticker": "SJD",
+        "filename": "SJD-VNINDEX.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "SJF",
+        "filename": "SJF-VNINDEX.csv",
+        "length": 1414
+    },
+    {
+        "ticker": "SJS",
+        "filename": "SJS-VNINDEX.csv",
+        "length": 4151
+    },
+    {
+        "ticker": "SKG",
+        "filename": "SKG-VNINDEX.csv",
+        "length": 2161
+    },
+    {
+        "ticker": "SMA",
+        "filename": "SMA-VNINDEX.csv",
+        "length": 3085
+    },
+    {
+        "ticker": "SMB",
+        "filename": "SMB-VNINDEX.csv",
+        "length": 3099
+    },
+    {
+        "ticker": "SMC",
+        "filename": "SMC-VNINDEX.csv",
+        "length": 4070
+    },
+    {
+        "ticker": "SPM",
+        "filename": "SPM-VNINDEX.csv",
+        "length": 3190
+    },
+    {
+        "ticker": "SRC",
+        "filename": "SRC-VNINDEX.csv",
+        "length": 3343
+    },
+    {
+        "ticker": "SRF",
+        "filename": "SRF-VNINDEX.csv",
+        "length": 3333
+    },
+    {
+        "ticker": "SSB",
+        "filename": "SSB-VNINDEX.csv",
+        "length": 483
+    },
+    {
+        "ticker": "SSC",
+        "filename": "SSC-VNINDEX.csv",
+        "length": 4485
+    },
+    {
+        "ticker": "SSI",
+        "filename": "SSI-VNINDEX.csv",
+        "length": 4026
+    },
+    {
+        "ticker": "ST8",
+        "filename": "ST8-VNINDEX.csv",
+        "length": 3786
+    },
+    {
+        "ticker": "STB",
+        "filename": "STB-VNINDEX.csv",
+        "length": 4147
+    },
+    {
+        "ticker": "STG",
+        "filename": "STG-VNINDEX.csv",
+        "length": 3245
+    },
+    {
+        "ticker": "STK",
+        "filename": "STK-VNINDEX.csv",
+        "length": 1855
+    },
+    {
+        "ticker": "SVC",
+        "filename": "SVC-VNINDEX.csv",
+        "length": 4025
+    },
+    {
+        "ticker": "SVD",
+        "filename": "SVD-VNINDEX.csv",
+        "length": 514
+    },
+    {
+        "ticker": "SVI",
+        "filename": "SVI-VNINDEX.csv",
+        "length": 3531
+    },
+    {
+        "ticker": "SVT",
+        "filename": "SVT-VNINDEX.csv",
+        "length": 2846
+    },
+    {
+        "ticker": "SZC",
+        "filename": "SZC-VNINDEX.csv",
+        "length": 1028
+    },
+    {
+        "ticker": "SZL",
+        "filename": "SZL-VNINDEX.csv",
+        "length": 3614
+    },
+    {
+        "ticker": "TBC",
+        "filename": "TBC-VNINDEX.csv",
+        "length": 3335
+    },
+    {
+        "ticker": "TCB",
+        "filename": "TCB-VNINDEX.csv",
+        "length": 1186
+    },
+    {
+        "ticker": "TCD",
+        "filename": "TCD-VNINDEX.csv",
+        "length": 1442
+    },
+    {
+        "ticker": "TCH",
+        "filename": "TCH-VNINDEX.csv",
+        "length": 1600
+    },
+    {
+        "ticker": "TCL",
+        "filename": "TCL-VNINDEX.csv",
+        "length": 3287
+    },
+    {
+        "ticker": "TCM",
+        "filename": "TCM-VNINDEX.csv",
+        "length": 3832
+    },
+    {
+        "ticker": "TCO",
+        "filename": "TCO-VNINDEX.csv",
+        "length": 3246
+    },
+    {
+        "ticker": "TCR",
+        "filename": "TCR-VNINDEX.csv",
+        "length": 4026
+    },
+    {
+        "ticker": "TCT",
+        "filename": "TCT-VNINDEX.csv",
+        "length": 3338
+    },
+    {
+        "ticker": "TDC",
+        "filename": "TDC-VNINDEX.csv",
+        "length": 3203
+    },
+    {
+        "ticker": "TDG",
+        "filename": "TDG-VNINDEX.csv",
+        "length": 1428
+    },
+    {
+        "ticker": "TDH",
+        "filename": "TDH-VNINDEX.csv",
+        "length": 4037
+    },
+    {
+        "ticker": "TDM",
+        "filename": "TDM-VNINDEX.csv",
+        "length": 1723
+    },
+    {
+        "ticker": "TDP",
+        "filename": "TDP-VNINDEX.csv",
+        "length": 1023
+    },
+    {
+        "ticker": "TDW",
+        "filename": "TDW-VNINDEX.csv",
+        "length": 3068
+    },
+    {
+        "ticker": "TEG",
+        "filename": "TEG-VNINDEX.csv",
+        "length": 1789
+    },
+    {
+        "ticker": "TGG",
+        "filename": "TGG-VNINDEX.csv",
+        "length": 1192
+    },
+    {
+        "ticker": "THG",
+        "filename": "THG-VNINDEX.csv",
+        "length": 2894
+    },
+    {
+        "ticker": "THI",
+        "filename": "THI-VNINDEX.csv",
+        "length": 1421
+    },
+    {
+        "ticker": "TIP",
+        "filename": "TIP-VNINDEX.csv",
+        "length": 1686
+    },
+    {
+        "ticker": "TIX",
+        "filename": "TIX-VNINDEX.csv",
+        "length": 3308
+    },
+    {
+        "ticker": "TLD",
+        "filename": "TLD-VNINDEX.csv",
+        "length": 1304
+    },
+    {
+        "ticker": "TLG",
+        "filename": "TLG-VNINDEX.csv",
+        "length": 3227
+    },
+    {
+        "ticker": "TLH",
+        "filename": "TLH-VNINDEX.csv",
+        "length": 3235
+    },
+    {
+        "ticker": "TMP",
+        "filename": "TMP-VNINDEX.csv",
+        "length": 3421
+    },
+    {
+        "ticker": "TMS",
+        "filename": "TMS-VNINDEX.csv",
+        "length": 5410
+    },
+    {
+        "ticker": "TMT",
+        "filename": "TMT-VNINDEX.csv",
+        "length": 3267
+    },
+    {
+        "ticker": "TN1",
+        "filename": "TN1-VNINDEX.csv",
+        "length": 940
+    },
+    {
+        "ticker": "TNA",
+        "filename": "TNA-VNINDEX.csv",
+        "length": 4392
+    },
+    {
+        "ticker": "TNC",
+        "filename": "TNC-VNINDEX.csv",
+        "length": 3869
+    },
+    {
+        "ticker": "TNH",
+        "filename": "TNH-VNINDEX.csv",
+        "length": 533
+    },
+    {
+        "ticker": "TNI",
+        "filename": "TNI-VNINDEX.csv",
+        "length": 1441
+    },
+    {
+        "ticker": "TNT",
+        "filename": "TNT-VNINDEX.csv",
+        "length": 3190
+    },
+    {
+        "ticker": "TPB",
+        "filename": "TPB-VNINDEX.csv",
+        "length": 1215
+    },
+    {
+        "ticker": "TPC",
+        "filename": "TPC-VNINDEX.csv",
+        "length": 3800
+    },
+    {
+        "ticker": "TRA",
+        "filename": "TRA-VNINDEX.csv",
+        "length": 3558
+    },
+    {
+        "ticker": "TRC",
+        "filename": "TRC-VNINDEX.csv",
+        "length": 3890
+    },
+    {
+        "ticker": "TSC",
+        "filename": "TSC-VNINDEX.csv",
+        "length": 3839
+    },
+    {
+        "ticker": "TTA",
+        "filename": "TTA-VNINDEX.csv",
+        "length": 610
+    },
+    {
+        "ticker": "TTB",
+        "filename": "TTB-VNINDEX.csv",
+        "length": 2014
+    },
+    {
+        "ticker": "TTE",
+        "filename": "TTE-VNINDEX.csv",
+        "length": 1052
+    },
+    {
+        "ticker": "TTF",
+        "filename": "TTF-VNINDEX.csv",
+        "length": 3750
+    },
+    {
+        "ticker": "TV2",
+        "filename": "TV2-VNINDEX.csv",
+        "length": 3332
+    },
+    {
+        "ticker": "TVB",
+        "filename": "TVB-VNINDEX.csv",
+        "length": 1919
+    },
+    {
+        "ticker": "TVS",
+        "filename": "TVS-VNINDEX.csv",
+        "length": 2028
+    },
+    {
+        "ticker": "TVT",
+        "filename": "TVT-VNINDEX.csv",
+        "length": 1406
+    },
+    {
+        "ticker": "TYA",
+        "filename": "TYA-VNINDEX.csv",
+        "length": 4250
+    },
+    {
+        "ticker": "UDC",
+        "filename": "UDC-VNINDEX.csv",
+        "length": 3159
+    },
+    {
+        "ticker": "UIC",
+        "filename": "UIC-VNINDEX.csv",
+        "length": 3812
+    },
+    {
+        "ticker": "VAF",
+        "filename": "VAF-VNINDEX.csv",
+        "length": 1925
+    },
+    {
+        "ticker": "VCA",
+        "filename": "VCA-VNINDEX.csv",
+        "length": 2991
+    },
+    {
+        "ticker": "VCB",
+        "filename": "VCB-VNINDEX.csv",
+        "length": 3413
+    },
+    {
+        "ticker": "VCF",
+        "filename": "VCF-VNINDEX.csv",
+        "length": 3013
+    },
+    {
+        "ticker": "VCG",
+        "filename": "VCG-VNINDEX.csv",
+        "length": 3611
+    },
+    {
+        "ticker": "VCI",
+        "filename": "VCI-VNINDEX.csv",
+        "length": 1412
+    },
+    {
+        "ticker": "VDP",
+        "filename": "VDP-VNINDEX.csv",
+        "length": 1385
+    },
+    {
+        "ticker": "VDS",
+        "filename": "VDS-VNINDEX.csv",
+        "length": 3345
+    },
+    {
+        "ticker": "VFG",
+        "filename": "VFG-VNINDEX.csv",
+        "length": 3286
+    },
+    {
+        "ticker": "VGC",
+        "filename": "VGC-VNINDEX.csv",
+        "length": 1833
+    },
+    {
+        "ticker": "VHC",
+        "filename": "VHC-VNINDEX.csv",
+        "length": 3782
+    },
+    {
+        "ticker": "VHM",
+        "filename": "VHM-VNINDEX.csv",
+        "length": 1198
+    },
+    {
+        "ticker": "VIB",
+        "filename": "VIB-VNINDEX.csv",
+        "length": 1526
+    },
+    {
+        "ticker": "VIC",
+        "filename": "VIC-VNINDEX.csv",
+        "length": 3850
+    },
+    {
+        "ticker": "VID",
+        "filename": "VID-VNINDEX.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "VIP",
+        "filename": "VIP-VNINDEX.csv",
+        "length": 4032
+    },
+    {
+        "ticker": "VIX",
+        "filename": "VIX-VNINDEX.csv",
+        "length": 3277
+    },
+    {
+        "ticker": "VJC",
+        "filename": "VJC-VNINDEX.csv",
+        "length": 1502
+    },
+    {
+        "ticker": "VMD",
+        "filename": "VMD-VNINDEX.csv",
+        "length": 3098
+    },
+    {
+        "ticker": "VND",
+        "filename": "VND-VNINDEX.csv",
+        "length": 3215
+    },
+    {
+        "ticker": "VNE",
+        "filename": "VNE-VNINDEX.csv",
+        "length": 3878
+    },
+    {
+        "ticker": "VNG",
+        "filename": "VNG-VNINDEX.csv",
+        "length": 3292
+    },
+    {
+        "ticker": "VNL",
+        "filename": "VNL-VNINDEX.csv",
+        "length": 3379
+    },
+    {
+        "ticker": "VNM",
+        "filename": "VNM-VNINDEX.csv",
+        "length": 4264
+    },
+    {
+        "ticker": "VNS",
+        "filename": "VNS-VNINDEX.csv",
+        "length": 3642
+    },
+    {
+        "ticker": "VOS",
+        "filename": "VOS-VNINDEX.csv",
+        "length": 3114
+    },
+    {
+        "ticker": "VPB",
+        "filename": "VPB-VNINDEX.csv",
+        "length": 1383
+    },
+    {
+        "ticker": "VPD",
+        "filename": "VPD-VNINDEX.csv",
+        "length": 1717
+    },
+    {
+        "ticker": "VPG",
+        "filename": "VPG-VNINDEX.csv",
+        "length": 1275
+    },
+    {
+        "ticker": "VPH",
+        "filename": "VPH-VNINDEX.csv",
+        "length": 3363
+    },
+    {
+        "ticker": "VPI",
+        "filename": "VPI-VNINDEX.csv",
+        "length": 1304
+    },
+    {
+        "ticker": "VPS",
+        "filename": "VPS-VNINDEX.csv",
+        "length": 1884
+    },
+    {
+        "ticker": "VRC",
+        "filename": "VRC-VNINDEX.csv",
+        "length": 3144
+    },
+    {
+        "ticker": "VRE",
+        "filename": "VRE-VNINDEX.csv",
+        "length": 1327
+    },
+    {
+        "ticker": "VSC",
+        "filename": "VSC-VNINDEX.csv",
+        "length": 3772
+    },
+    {
+        "ticker": "VSH",
+        "filename": "VSH-VNINDEX.csv",
+        "length": 4297
+    },
+    {
+        "ticker": "VSI",
+        "filename": "VSI-VNINDEX.csv",
+        "length": 3037
+    },
+    {
+        "ticker": "VTB",
+        "filename": "VTB-VNINDEX.csv",
+        "length": 4028
+    },
+    {
+        "ticker": "VTO",
+        "filename": "VTO-VNINDEX.csv",
+        "length": 3836
+    },
+    {
+        "ticker": "YBM",
+        "filename": "YBM-VNINDEX.csv",
+        "length": 1130
+    },
+    {
+        "ticker": "YEG",
+        "filename": "YEG-VNINDEX.csv",
+        "length": 1170
+    }
+]

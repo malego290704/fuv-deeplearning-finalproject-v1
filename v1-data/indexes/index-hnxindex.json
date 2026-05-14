@@ -1,0 +1,1712 @@
+[
+    {
+        "ticker": "AAV",
+        "filename": "AAV-HNXINDEX.csv",
+        "length": 1171
+    },
+    {
+        "ticker": "ADC",
+        "filename": "ADC-HNXINDEX.csv",
+        "length": 3037
+    },
+    {
+        "ticker": "ALT",
+        "filename": "ALT-HNXINDEX.csv",
+        "length": 3424
+    },
+    {
+        "ticker": "AMC",
+        "filename": "AMC-HNXINDEX.csv",
+        "length": 2757
+    },
+    {
+        "ticker": "AME",
+        "filename": "AME-HNXINDEX.csv",
+        "length": 3182
+    },
+    {
+        "ticker": "AMV",
+        "filename": "AMV-HNXINDEX.csv",
+        "length": 3283
+    },
+    {
+        "ticker": "API",
+        "filename": "API-HNXINDEX.csv",
+        "length": 3264
+    },
+    {
+        "ticker": "APS",
+        "filename": "APS-HNXINDEX.csv",
+        "length": 3349
+    },
+    {
+        "ticker": "ARM",
+        "filename": "ARM-HNXINDEX.csv",
+        "length": 3080
+    },
+    {
+        "ticker": "ART",
+        "filename": "ART-HNXINDEX.csv",
+        "length": 1390
+    },
+    {
+        "ticker": "ATS",
+        "filename": "ATS-HNXINDEX.csv",
+        "length": 1732
+    },
+    {
+        "ticker": "BAB",
+        "filename": "BAB-HNXINDEX.csv",
+        "length": 1285
+    },
+    {
+        "ticker": "BAX",
+        "filename": "BAX-HNXINDEX.csv",
+        "length": 1484
+    },
+    {
+        "ticker": "BBS",
+        "filename": "BBS-HNXINDEX.csv",
+        "length": 4242
+    },
+    {
+        "ticker": "BCC",
+        "filename": "BCC-HNXINDEX.csv",
+        "length": 4054
+    },
+    {
+        "ticker": "BCF",
+        "filename": "BCF-HNXINDEX.csv",
+        "length": 740
+    },
+    {
+        "ticker": "BDB",
+        "filename": "BDB-HNXINDEX.csv",
+        "length": 3262
+    },
+    {
+        "ticker": "BED",
+        "filename": "BED-HNXINDEX.csv",
+        "length": 3333
+    },
+    {
+        "ticker": "BII",
+        "filename": "BII-HNXINDEX.csv",
+        "length": 2109
+    },
+    {
+        "ticker": "BKC",
+        "filename": "BKC-HNXINDEX.csv",
+        "length": 3378
+    },
+    {
+        "ticker": "BLF",
+        "filename": "BLF-HNXINDEX.csv",
+        "length": 3683
+    },
+    {
+        "ticker": "BNA",
+        "filename": "BNA-HNXINDEX.csv",
+        "length": 594
+    },
+    {
+        "ticker": "BPC",
+        "filename": "BPC-HNXINDEX.csv",
+        "length": 3429
+    },
+    {
+        "ticker": "BSC",
+        "filename": "BSC-HNXINDEX.csv",
+        "length": 3030
+    },
+    {
+        "ticker": "BST",
+        "filename": "BST-HNXINDEX.csv",
+        "length": 3542
+    },
+    {
+        "ticker": "BTS",
+        "filename": "BTS-HNXINDEX.csv",
+        "length": 4047
+    },
+    {
+        "ticker": "BTW",
+        "filename": "BTW-HNXINDEX.csv",
+        "length": 3229
+    },
+    {
+        "ticker": "BVS",
+        "filename": "BVS-HNXINDEX.csv",
+        "length": 4038
+    },
+    {
+        "ticker": "BXH",
+        "filename": "BXH-HNXINDEX.csv",
+        "length": 3308
+    },
+    {
+        "ticker": "C69",
+        "filename": "C69-HNXINDEX.csv",
+        "length": 1465
+    },
+    {
+        "ticker": "CAG",
+        "filename": "CAG-HNXINDEX.csv",
+        "length": 1307
+    },
+    {
+        "ticker": "CAN",
+        "filename": "CAN-HNXINDEX.csv",
+        "length": 3426
+    },
+    {
+        "ticker": "CAP",
+        "filename": "CAP-HNXINDEX.csv",
+        "length": 3775
+    },
+    {
+        "ticker": "CCR",
+        "filename": "CCR-HNXINDEX.csv",
+        "length": 1852
+    },
+    {
+        "ticker": "CDN",
+        "filename": "CDN-HNXINDEX.csv",
+        "length": 1728
+    },
+    {
+        "ticker": "CEO",
+        "filename": "CEO-HNXINDEX.csv",
+        "length": 2104
+    },
+    {
+        "ticker": "CET",
+        "filename": "CET-HNXINDEX.csv",
+        "length": 1397
+    },
+    {
+        "ticker": "CIA",
+        "filename": "CIA-HNXINDEX.csv",
+        "length": 1310
+    },
+    {
+        "ticker": "CJC",
+        "filename": "CJC-HNXINDEX.csv",
+        "length": 4040
+    },
+    {
+        "ticker": "CKV",
+        "filename": "CKV-HNXINDEX.csv",
+        "length": 3237
+    },
+    {
+        "ticker": "CLH",
+        "filename": "CLH-HNXINDEX.csv",
+        "length": 1685
+    },
+    {
+        "ticker": "CLM",
+        "filename": "CLM-HNXINDEX.csv",
+        "length": 1719
+    },
+    {
+        "ticker": "CMC",
+        "filename": "CMC-HNXINDEX.csv",
+        "length": 4043
+    },
+    {
+        "ticker": "CMS",
+        "filename": "CMS-HNXINDEX.csv",
+        "length": 3056
+    },
+    {
+        "ticker": "CPC",
+        "filename": "CPC-HNXINDEX.csv",
+        "length": 3271
+    },
+    {
+        "ticker": "CSC",
+        "filename": "CSC-HNXINDEX.csv",
+        "length": 3323
+    },
+    {
+        "ticker": "CTB",
+        "filename": "CTB-HNXINDEX.csv",
+        "length": 4087
+    },
+    {
+        "ticker": "CTC",
+        "filename": "CTC-HNXINDEX.csv",
+        "length": 3649
+    },
+    {
+        "ticker": "CTP",
+        "filename": "CTP-HNXINDEX.csv",
+        "length": 1648
+    },
+    {
+        "ticker": "CTT",
+        "filename": "CTT-HNXINDEX.csv",
+        "length": 1908
+    },
+    {
+        "ticker": "CTX",
+        "filename": "CTX-HNXINDEX.csv",
+        "length": 2689
+    },
+    {
+        "ticker": "CVN",
+        "filename": "CVN-HNXINDEX.csv",
+        "length": 3135
+    },
+    {
+        "ticker": "CX8",
+        "filename": "CX8-HNXINDEX.csv",
+        "length": 3192
+    },
+    {
+        "ticker": "D11",
+        "filename": "D11-HNXINDEX.csv",
+        "length": 2998
+    },
+    {
+        "ticker": "DAD",
+        "filename": "DAD-HNXINDEX.csv",
+        "length": 3377
+    },
+    {
+        "ticker": "DAE",
+        "filename": "DAE-HNXINDEX.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "DC2",
+        "filename": "DC2-HNXINDEX.csv",
+        "length": 3160
+    },
+    {
+        "ticker": "DDG",
+        "filename": "DDG-HNXINDEX.csv",
+        "length": 1046
+    },
+    {
+        "ticker": "DHP",
+        "filename": "DHP-HNXINDEX.csv",
+        "length": 2482
+    },
+    {
+        "ticker": "DHT",
+        "filename": "DHT-HNXINDEX.csv",
+        "length": 3553
+    },
+    {
+        "ticker": "DIH",
+        "filename": "DIH-HNXINDEX.csv",
+        "length": 2958
+    },
+    {
+        "ticker": "DL1",
+        "filename": "DL1-HNXINDEX.csv",
+        "length": 3239
+    },
+    {
+        "ticker": "DNC",
+        "filename": "DNC-HNXINDEX.csv",
+        "length": 3288
+    },
+    {
+        "ticker": "DNM",
+        "filename": "DNM-HNXINDEX.csv",
+        "length": 3006
+    },
+    {
+        "ticker": "DNP",
+        "filename": "DNP-HNXINDEX.csv",
+        "length": 3414
+    },
+    {
+        "ticker": "DP3",
+        "filename": "DP3-HNXINDEX.csv",
+        "length": 1907
+    },
+    {
+        "ticker": "DPC",
+        "filename": "DPC-HNXINDEX.csv",
+        "length": 3428
+    },
+    {
+        "ticker": "DS3",
+        "filename": "DS3-HNXINDEX.csv",
+        "length": 1381
+    },
+    {
+        "ticker": "DST",
+        "filename": "DST-HNXINDEX.csv",
+        "length": 3834
+    },
+    {
+        "ticker": "DTC",
+        "filename": "DTC-HNXINDEX.csv",
+        "length": 4008
+    },
+    {
+        "ticker": "DTD",
+        "filename": "DTD-HNXINDEX.csv",
+        "length": 1319
+    },
+    {
+        "ticker": "DTK",
+        "filename": "DTK-HNXINDEX.csv",
+        "length": 1543
+    },
+    {
+        "ticker": "DVG",
+        "filename": "DVG-HNXINDEX.csv",
+        "length": 527
+    },
+    {
+        "ticker": "DVM",
+        "filename": "DVM-HNXINDEX.csv",
+        "length": 153
+    },
+    {
+        "ticker": "DXP",
+        "filename": "DXP-HNXINDEX.csv",
+        "length": 3429
+    },
+    {
+        "ticker": "DZM",
+        "filename": "DZM-HNXINDEX.csv",
+        "length": 3426
+    },
+    {
+        "ticker": "EBS",
+        "filename": "EBS-HNXINDEX.csv",
+        "length": 4035
+    },
+    {
+        "ticker": "ECI",
+        "filename": "ECI-HNXINDEX.csv",
+        "length": 3423
+    },
+    {
+        "ticker": "EID",
+        "filename": "EID-HNXINDEX.csv",
+        "length": 3383
+    },
+    {
+        "ticker": "EVS",
+        "filename": "EVS-HNXINDEX.csv",
+        "length": 1136
+    },
+    {
+        "ticker": "FID",
+        "filename": "FID-HNXINDEX.csv",
+        "length": 1949
+    },
+    {
+        "ticker": "GDW",
+        "filename": "GDW-HNXINDEX.csv",
+        "length": 3161
+    },
+    {
+        "ticker": "GIC",
+        "filename": "GIC-HNXINDEX.csv",
+        "length": 575
+    },
+    {
+        "ticker": "GKM",
+        "filename": "GKM-HNXINDEX.csv",
+        "length": 1406
+    },
+    {
+        "ticker": "GLT",
+        "filename": "GLT-HNXINDEX.csv",
+        "length": 3307
+    },
+    {
+        "ticker": "GMA",
+        "filename": "GMA-HNXINDEX.csv",
+        "length": 558
+    },
+    {
+        "ticker": "GMX",
+        "filename": "GMX-HNXINDEX.csv",
+        "length": 2860
+    },
+    {
+        "ticker": "HAD",
+        "filename": "HAD-HNXINDEX.csv",
+        "length": 3328
+    },
+    {
+        "ticker": "HAT",
+        "filename": "HAT-HNXINDEX.csv",
+        "length": 3077
+    },
+    {
+        "ticker": "HBS",
+        "filename": "HBS-HNXINDEX.csv",
+        "length": 3150
+    },
+    {
+        "ticker": "HCC",
+        "filename": "HCC-HNXINDEX.csv",
+        "length": 3785
+    },
+    {
+        "ticker": "HCT",
+        "filename": "HCT-HNXINDEX.csv",
+        "length": 3804
+    },
+    {
+        "ticker": "HDA",
+        "filename": "HDA-HNXINDEX.csv",
+        "length": 3036
+    },
+    {
+        "ticker": "HEV",
+        "filename": "HEV-HNXINDEX.csv",
+        "length": 3794
+    },
+    {
+        "ticker": "HGM",
+        "filename": "HGM-HNXINDEX.csv",
+        "length": 3290
+    },
+    {
+        "ticker": "HHC",
+        "filename": "HHC-HNXINDEX.csv",
+        "length": 3809
+    },
+    {
+        "ticker": "HHG",
+        "filename": "HHG-HNXINDEX.csv",
+        "length": 3142
+    },
+    {
+        "ticker": "HJS",
+        "filename": "HJS-HNXINDEX.csv",
+        "length": 4036
+    },
+    {
+        "ticker": "HKT",
+        "filename": "HKT-HNXINDEX.csv",
+        "length": 1530
+    },
+    {
+        "ticker": "HLC",
+        "filename": "HLC-HNXINDEX.csv",
+        "length": 3493
+    },
+    {
+        "ticker": "HLD",
+        "filename": "HLD-HNXINDEX.csv",
+        "length": 2479
+    },
+    {
+        "ticker": "HMH",
+        "filename": "HMH-HNXINDEX.csv",
+        "length": 3142
+    },
+    {
+        "ticker": "HMR",
+        "filename": "HMR-HNXINDEX.csv",
+        "length": 278
+    },
+    {
+        "ticker": "HOM",
+        "filename": "HOM-HNXINDEX.csv",
+        "length": 3406
+    },
+    {
+        "ticker": "HTC",
+        "filename": "HTC-HNXINDEX.csv",
+        "length": 3200
+    },
+    {
+        "ticker": "HTP",
+        "filename": "HTP-HNXINDEX.csv",
+        "length": 4040
+    },
+    {
+        "ticker": "HUT",
+        "filename": "HUT-HNXINDEX.csv",
+        "length": 3714
+    },
+    {
+        "ticker": "HVT",
+        "filename": "HVT-HNXINDEX.csv",
+        "length": 3450
+    },
+    {
+        "ticker": "ICG",
+        "filename": "ICG-HNXINDEX.csv",
+        "length": 3461
+    },
+    {
+        "ticker": "IDC",
+        "filename": "IDC-HNXINDEX.csv",
+        "length": 1307
+    },
+    {
+        "ticker": "IDJ",
+        "filename": "IDJ-HNXINDEX.csv",
+        "length": 3111
+    },
+    {
+        "ticker": "IDV",
+        "filename": "IDV-HNXINDEX.csv",
+        "length": 3183
+    },
+    {
+        "ticker": "INC",
+        "filename": "INC-HNXINDEX.csv",
+        "length": 2904
+    },
+    {
+        "ticker": "INN",
+        "filename": "INN-HNXINDEX.csv",
+        "length": 3267
+    },
+    {
+        "ticker": "IPA",
+        "filename": "IPA-HNXINDEX.csv",
+        "length": 1672
+    },
+    {
+        "ticker": "ITQ",
+        "filename": "ITQ-HNXINDEX.csv",
+        "length": 2598
+    },
+    {
+        "ticker": "IVS",
+        "filename": "IVS-HNXINDEX.csv",
+        "length": 2892
+    },
+    {
+        "ticker": "KDM",
+        "filename": "KDM-HNXINDEX.csv",
+        "length": 1732
+    },
+    {
+        "ticker": "KHS",
+        "filename": "KHS-HNXINDEX.csv",
+        "length": 1291
+    },
+    {
+        "ticker": "KKC",
+        "filename": "KKC-HNXINDEX.csv",
+        "length": 3625
+    },
+    {
+        "ticker": "KLF",
+        "filename": "KLF-HNXINDEX.csv",
+        "length": 2355
+    },
+    {
+        "ticker": "KMT",
+        "filename": "KMT-HNXINDEX.csv",
+        "length": 3307
+    },
+    {
+        "ticker": "KSD",
+        "filename": "KSD-HNXINDEX.csv",
+        "length": 3205
+    },
+    {
+        "ticker": "KSF",
+        "filename": "KSF-HNXINDEX.csv",
+        "length": 348
+    },
+    {
+        "ticker": "KSQ",
+        "filename": "KSQ-HNXINDEX.csv",
+        "length": 2395
+    },
+    {
+        "ticker": "KST",
+        "filename": "KST-HNXINDEX.csv",
+        "length": 3034
+    },
+    {
+        "ticker": "KSV",
+        "filename": "KSV-HNXINDEX.csv",
+        "length": 1641
+    },
+    {
+        "ticker": "KTS",
+        "filename": "KTS-HNXINDEX.csv",
+        "length": 3032
+    },
+    {
+        "ticker": "KTT",
+        "filename": "KTT-HNXINDEX.csv",
+        "length": 3078
+    },
+    {
+        "ticker": "KVC",
+        "filename": "KVC-HNXINDEX.csv",
+        "length": 1971
+    },
+    {
+        "ticker": "L14",
+        "filename": "L14-HNXINDEX.csv",
+        "length": 2862
+    },
+    {
+        "ticker": "L18",
+        "filename": "L18-HNXINDEX.csv",
+        "length": 3708
+    },
+    {
+        "ticker": "L35",
+        "filename": "L35-HNXINDEX.csv",
+        "length": 3228
+    },
+    {
+        "ticker": "L40",
+        "filename": "L40-HNXINDEX.csv",
+        "length": 518
+    },
+    {
+        "ticker": "L43",
+        "filename": "L43-HNXINDEX.csv",
+        "length": 3676
+    },
+    {
+        "ticker": "L61",
+        "filename": "L61-HNXINDEX.csv",
+        "length": 3563
+    },
+    {
+        "ticker": "L62",
+        "filename": "L62-HNXINDEX.csv",
+        "length": 3710
+    },
+    {
+        "ticker": "LAS",
+        "filename": "LAS-HNXINDEX.csv",
+        "length": 2746
+    },
+    {
+        "ticker": "LBE",
+        "filename": "LBE-HNXINDEX.csv",
+        "length": 3749
+    },
+    {
+        "ticker": "LCD",
+        "filename": "LCD-HNXINDEX.csv",
+        "length": 3066
+    },
+    {
+        "ticker": "LCS",
+        "filename": "LCS-HNXINDEX.csv",
+        "length": 3158
+    },
+    {
+        "ticker": "LDP",
+        "filename": "LDP-HNXINDEX.csv",
+        "length": 3148
+    },
+    {
+        "ticker": "LHC",
+        "filename": "LHC-HNXINDEX.csv",
+        "length": 3274
+    },
+    {
+        "ticker": "LIG",
+        "filename": "LIG-HNXINDEX.csv",
+        "length": 3208
+    },
+    {
+        "ticker": "LM7",
+        "filename": "LM7-HNXINDEX.csv",
+        "length": 3078
+    },
+    {
+        "ticker": "LUT",
+        "filename": "LUT-HNXINDEX.csv",
+        "length": 3778
+    },
+    {
+        "ticker": "MAC",
+        "filename": "MAC-HNXINDEX.csv",
+        "length": 3287
+    },
+    {
+        "ticker": "MAS",
+        "filename": "MAS-HNXINDEX.csv",
+        "length": 3295
+    },
+    {
+        "ticker": "MBG",
+        "filename": "MBG-HNXINDEX.csv",
+        "length": 1814
+    },
+    {
+        "ticker": "MBS",
+        "filename": "MBS-HNXINDEX.csv",
+        "length": 1733
+    },
+    {
+        "ticker": "MCC",
+        "filename": "MCC-HNXINDEX.csv",
+        "length": 3207
+    },
+    {
+        "ticker": "MCF",
+        "filename": "MCF-HNXINDEX.csv",
+        "length": 3008
+    },
+    {
+        "ticker": "MCO",
+        "filename": "MCO-HNXINDEX.csv",
+        "length": 4035
+    },
+    {
+        "ticker": "MDC",
+        "filename": "MDC-HNXINDEX.csv",
+        "length": 3396
+    },
+    {
+        "ticker": "MED",
+        "filename": "MED-HNXINDEX.csv",
+        "length": 738
+    },
+    {
+        "ticker": "MEL",
+        "filename": "MEL-HNXINDEX.csv",
+        "length": 1355
+    },
+    {
+        "ticker": "MHL",
+        "filename": "MHL-HNXINDEX.csv",
+        "length": 3307
+    },
+    {
+        "ticker": "MIM",
+        "filename": "MIM-HNXINDEX.csv",
+        "length": 3129
+    },
+    {
+        "ticker": "MKV",
+        "filename": "MKV-HNXINDEX.csv",
+        "length": 3561
+    },
+    {
+        "ticker": "MST",
+        "filename": "MST-HNXINDEX.csv",
+        "length": 1705
+    },
+    {
+        "ticker": "MVB",
+        "filename": "MVB-HNXINDEX.csv",
+        "length": 1588
+    },
+    {
+        "ticker": "NAG",
+        "filename": "NAG-HNXINDEX.csv",
+        "length": 3354
+    },
+    {
+        "ticker": "NAP",
+        "filename": "NAP-HNXINDEX.csv",
+        "length": 1651
+    },
+    {
+        "ticker": "NBC",
+        "filename": "NBC-HNXINDEX.csv",
+        "length": 4031
+    },
+    {
+        "ticker": "NBP",
+        "filename": "NBP-HNXINDEX.csv",
+        "length": 3386
+    },
+    {
+        "ticker": "NBW",
+        "filename": "NBW-HNXINDEX.csv",
+        "length": 3191
+    },
+    {
+        "ticker": "NDN",
+        "filename": "NDN-HNXINDEX.csv",
+        "length": 2962
+    },
+    {
+        "ticker": "NDX",
+        "filename": "NDX-HNXINDEX.csv",
+        "length": 2402
+    },
+    {
+        "ticker": "NET",
+        "filename": "NET-HNXINDEX.csv",
+        "length": 3109
+    },
+    {
+        "ticker": "NFC",
+        "filename": "NFC-HNXINDEX.csv",
+        "length": 2248
+    },
+    {
+        "ticker": "NHC",
+        "filename": "NHC-HNXINDEX.csv",
+        "length": 3422
+    },
+    {
+        "ticker": "NRC",
+        "filename": "NRC-HNXINDEX.csv",
+        "length": 1225
+    },
+    {
+        "ticker": "NSH",
+        "filename": "NSH-HNXINDEX.csv",
+        "length": 1396
+    },
+    {
+        "ticker": "NST",
+        "filename": "NST-HNXINDEX.csv",
+        "length": 4029
+    },
+    {
+        "ticker": "NTH",
+        "filename": "NTH-HNXINDEX.csv",
+        "length": 926
+    },
+    {
+        "ticker": "NTP",
+        "filename": "NTP-HNXINDEX.csv",
+        "length": 4043
+    },
+    {
+        "ticker": "NVB",
+        "filename": "NVB-HNXINDEX.csv",
+        "length": 3111
+    },
+    {
+        "ticker": "OCH",
+        "filename": "OCH-HNXINDEX.csv",
+        "length": 3097
+    },
+    {
+        "ticker": "ONE",
+        "filename": "ONE-HNXINDEX.csv",
+        "length": 3666
+    },
+    {
+        "ticker": "PBP",
+        "filename": "PBP-HNXINDEX.csv",
+        "length": 2020
+    },
+    {
+        "ticker": "PCE",
+        "filename": "PCE-HNXINDEX.csv",
+        "length": 1903
+    },
+    {
+        "ticker": "PCG",
+        "filename": "PCG-HNXINDEX.csv",
+        "length": 3034
+    },
+    {
+        "ticker": "PCH",
+        "filename": "PCH-HNXINDEX.csv",
+        "length": 146
+    },
+    {
+        "ticker": "PCT",
+        "filename": "PCT-HNXINDEX.csv",
+        "length": 3129
+    },
+    {
+        "ticker": "PDB",
+        "filename": "PDB-HNXINDEX.csv",
+        "length": 1896
+    },
+    {
+        "ticker": "PEN",
+        "filename": "PEN-HNXINDEX.csv",
+        "length": 2106
+    },
+    {
+        "ticker": "PGN",
+        "filename": "PGN-HNXINDEX.csv",
+        "length": 915
+    },
+    {
+        "ticker": "PGS",
+        "filename": "PGS-HNXINDEX.csv",
+        "length": 3812
+    },
+    {
+        "ticker": "PGT",
+        "filename": "PGT-HNXINDEX.csv",
+        "length": 3286
+    },
+    {
+        "ticker": "PHN",
+        "filename": "PHN-HNXINDEX.csv",
+        "length": 992
+    },
+    {
+        "ticker": "PIA",
+        "filename": "PIA-HNXINDEX.csv",
+        "length": 1501
+    },
+    {
+        "ticker": "PIC",
+        "filename": "PIC-HNXINDEX.csv",
+        "length": 1889
+    },
+    {
+        "ticker": "PJC",
+        "filename": "PJC-HNXINDEX.csv",
+        "length": 4033
+    },
+    {
+        "ticker": "PLC",
+        "filename": "PLC-HNXINDEX.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "PMB",
+        "filename": "PMB-HNXINDEX.csv",
+        "length": 1850
+    },
+    {
+        "ticker": "PMC",
+        "filename": "PMC-HNXINDEX.csv",
+        "length": 3341
+    },
+    {
+        "ticker": "PMP",
+        "filename": "PMP-HNXINDEX.csv",
+        "length": 1861
+    },
+    {
+        "ticker": "PMS",
+        "filename": "PMS-HNXINDEX.csv",
+        "length": 3459
+    },
+    {
+        "ticker": "POT",
+        "filename": "POT-HNXINDEX.csv",
+        "length": 4036
+    },
+    {
+        "ticker": "PPE",
+        "filename": "PPE-HNXINDEX.csv",
+        "length": 2856
+    },
+    {
+        "ticker": "PPP",
+        "filename": "PPP-HNXINDEX.csv",
+        "length": 3342
+    },
+    {
+        "ticker": "PPS",
+        "filename": "PPS-HNXINDEX.csv",
+        "length": 3028
+    },
+    {
+        "ticker": "PPY",
+        "filename": "PPY-HNXINDEX.csv",
+        "length": 1751
+    },
+    {
+        "ticker": "PRC",
+        "filename": "PRC-HNXINDEX.csv",
+        "length": 3056
+    },
+    {
+        "ticker": "PRE",
+        "filename": "PRE-HNXINDEX.csv",
+        "length": 541
+    },
+    {
+        "ticker": "PSC",
+        "filename": "PSC-HNXINDEX.csv",
+        "length": 4029
+    },
+    {
+        "ticker": "PSD",
+        "filename": "PSD-HNXINDEX.csv",
+        "length": 2415
+    },
+    {
+        "ticker": "PSE",
+        "filename": "PSE-HNXINDEX.csv",
+        "length": 1990
+    },
+    {
+        "ticker": "PSI",
+        "filename": "PSI-HNXINDEX.csv",
+        "length": 3147
+    },
+    {
+        "ticker": "PSW",
+        "filename": "PSW-HNXINDEX.csv",
+        "length": 1905
+    },
+    {
+        "ticker": "PTD",
+        "filename": "PTD-HNXINDEX.csv",
+        "length": 3017
+    },
+    {
+        "ticker": "PTI",
+        "filename": "PTI-HNXINDEX.csv",
+        "length": 2996
+    },
+    {
+        "ticker": "PTS",
+        "filename": "PTS-HNXINDEX.csv",
+        "length": 4049
+    },
+    {
+        "ticker": "PV2",
+        "filename": "PV2-HNXINDEX.csv",
+        "length": 3043
+    },
+    {
+        "ticker": "PVB",
+        "filename": "PVB-HNXINDEX.csv",
+        "length": 2289
+    },
+    {
+        "ticker": "PVC",
+        "filename": "PVC-HNXINDEX.csv",
+        "length": 3812
+    },
+    {
+        "ticker": "PVG",
+        "filename": "PVG-HNXINDEX.csv",
+        "length": 3529
+    },
+    {
+        "ticker": "PVI",
+        "filename": "PVI-HNXINDEX.csv",
+        "length": 3880
+    },
+    {
+        "ticker": "PVL",
+        "filename": "PVL-HNXINDEX.csv",
+        "length": 3213
+    },
+    {
+        "ticker": "PVS",
+        "filename": "PVS-HNXINDEX.csv",
+        "length": 3852
+    },
+    {
+        "ticker": "QHD",
+        "filename": "QHD-HNXINDEX.csv",
+        "length": 3208
+    },
+    {
+        "ticker": "QST",
+        "filename": "QST-HNXINDEX.csv",
+        "length": 3506
+    },
+    {
+        "ticker": "QTC",
+        "filename": "QTC-HNXINDEX.csv",
+        "length": 3522
+    },
+    {
+        "ticker": "RCL",
+        "filename": "RCL-HNXINDEX.csv",
+        "length": 3921
+    },
+    {
+        "ticker": "S55",
+        "filename": "S55-HNXINDEX.csv",
+        "length": 4034
+    },
+    {
+        "ticker": "S99",
+        "filename": "S99-HNXINDEX.csv",
+        "length": 4034
+    },
+    {
+        "ticker": "SAF",
+        "filename": "SAF-HNXINDEX.csv",
+        "length": 3442
+    },
+    {
+        "ticker": "SCG",
+        "filename": "SCG-HNXINDEX.csv",
+        "length": 464
+    },
+    {
+        "ticker": "SCI",
+        "filename": "SCI-HNXINDEX.csv",
+        "length": 2161
+    },
+    {
+        "ticker": "SD4",
+        "filename": "SD4-HNXINDEX.csv",
+        "length": 3666
+    },
+    {
+        "ticker": "SD5",
+        "filename": "SD5-HNXINDEX.csv",
+        "length": 4031
+    },
+    {
+        "ticker": "SD6",
+        "filename": "SD6-HNXINDEX.csv",
+        "length": 4033
+    },
+    {
+        "ticker": "SD9",
+        "filename": "SD9-HNXINDEX.csv",
+        "length": 4036
+    },
+    {
+        "ticker": "SDA",
+        "filename": "SDA-HNXINDEX.csv",
+        "length": 4035
+    },
+    {
+        "ticker": "SDC",
+        "filename": "SDC-HNXINDEX.csv",
+        "length": 4033
+    },
+    {
+        "ticker": "SDG",
+        "filename": "SDG-HNXINDEX.csv",
+        "length": 3289
+    },
+    {
+        "ticker": "SDN",
+        "filename": "SDN-HNXINDEX.csv",
+        "length": 3425
+    },
+    {
+        "ticker": "SDT",
+        "filename": "SDT-HNXINDEX.csv",
+        "length": 4040
+    },
+    {
+        "ticker": "SDU",
+        "filename": "SDU-HNXINDEX.csv",
+        "length": 3350
+    },
+    {
+        "ticker": "SEB",
+        "filename": "SEB-HNXINDEX.csv",
+        "length": 3524
+    },
+    {
+        "ticker": "SED",
+        "filename": "SED-HNXINDEX.csv",
+        "length": 3377
+    },
+    {
+        "ticker": "SFN",
+        "filename": "SFN-HNXINDEX.csv",
+        "length": 3433
+    },
+    {
+        "ticker": "SGC",
+        "filename": "SGC-HNXINDEX.csv",
+        "length": 3423
+    },
+    {
+        "ticker": "SGD",
+        "filename": "SGD-HNXINDEX.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "SGH",
+        "filename": "SGH-HNXINDEX.csv",
+        "length": 3394
+    },
+    {
+        "ticker": "SHE",
+        "filename": "SHE-HNXINDEX.csv",
+        "length": 1020
+    },
+    {
+        "ticker": "SHN",
+        "filename": "SHN-HNXINDEX.csv",
+        "length": 3293
+    },
+    {
+        "ticker": "SHS",
+        "filename": "SHS-HNXINDEX.csv",
+        "length": 3416
+    },
+    {
+        "ticker": "SIC",
+        "filename": "SIC-HNXINDEX.csv",
+        "length": 4031
+    },
+    {
+        "ticker": "SJ1",
+        "filename": "SJ1-HNXINDEX.csv",
+        "length": 3429
+    },
+    {
+        "ticker": "SJE",
+        "filename": "SJE-HNXINDEX.csv",
+        "length": 4040
+    },
+    {
+        "ticker": "SLS",
+        "filename": "SLS-HNXINDEX.csv",
+        "length": 2587
+    },
+    {
+        "ticker": "SMN",
+        "filename": "SMN-HNXINDEX.csv",
+        "length": 1910
+    },
+    {
+        "ticker": "SMT",
+        "filename": "SMT-HNXINDEX.csv",
+        "length": 3140
+    },
+    {
+        "ticker": "SPC",
+        "filename": "SPC-HNXINDEX.csv",
+        "length": 3106
+    },
+    {
+        "ticker": "SPI",
+        "filename": "SPI-HNXINDEX.csv",
+        "length": 2601
+    },
+    {
+        "ticker": "SRA",
+        "filename": "SRA-HNXINDEX.csv",
+        "length": 3768
+    },
+    {
+        "ticker": "SSM",
+        "filename": "SSM-HNXINDEX.csv",
+        "length": 3565
+    },
+    {
+        "ticker": "STC",
+        "filename": "STC-HNXINDEX.csv",
+        "length": 4031
+    },
+    {
+        "ticker": "STP",
+        "filename": "STP-HNXINDEX.csv",
+        "length": 4088
+    },
+    {
+        "ticker": "SVN",
+        "filename": "SVN-HNXINDEX.csv",
+        "length": 2896
+    },
+    {
+        "ticker": "SZB",
+        "filename": "SZB-HNXINDEX.csv",
+        "length": 795
+    },
+    {
+        "ticker": "TA9",
+        "filename": "TA9-HNXINDEX.csv",
+        "length": 1897
+    },
+    {
+        "ticker": "TAR",
+        "filename": "TAR-HNXINDEX.csv",
+        "length": 1007
+    },
+    {
+        "ticker": "TBX",
+        "filename": "TBX-HNXINDEX.csv",
+        "length": 3564
+    },
+    {
+        "ticker": "TC6",
+        "filename": "TC6-HNXINDEX.csv",
+        "length": 3665
+    },
+    {
+        "ticker": "TDN",
+        "filename": "TDN-HNXINDEX.csv",
+        "length": 3561
+    },
+    {
+        "ticker": "TDT",
+        "filename": "TDT-HNXINDEX.csv",
+        "length": 1154
+    },
+    {
+        "ticker": "TET",
+        "filename": "TET-HNXINDEX.csv",
+        "length": 3205
+    },
+    {
+        "ticker": "TFC",
+        "filename": "TFC-HNXINDEX.csv",
+        "length": 1809
+    },
+    {
+        "ticker": "THB",
+        "filename": "THB-HNXINDEX.csv",
+        "length": 3563
+    },
+    {
+        "ticker": "THD",
+        "filename": "THD-HNXINDEX.csv",
+        "length": 674
+    },
+    {
+        "ticker": "THS",
+        "filename": "THS-HNXINDEX.csv",
+        "length": 2319
+    },
+    {
+        "ticker": "THT",
+        "filename": "THT-HNXINDEX.csv",
+        "length": 3581
+    },
+    {
+        "ticker": "TIG",
+        "filename": "TIG-HNXINDEX.csv",
+        "length": 3092
+    },
+    {
+        "ticker": "TJC",
+        "filename": "TJC-HNXINDEX.csv",
+        "length": 3790
+    },
+    {
+        "ticker": "TKC",
+        "filename": "TKC-HNXINDEX.csv",
+        "length": 3304
+    },
+    {
+        "ticker": "TKG",
+        "filename": "TKG-HNXINDEX.csv",
+        "length": 463
+    },
+    {
+        "ticker": "TKU",
+        "filename": "TKU-HNXINDEX.csv",
+        "length": 4162
+    },
+    {
+        "ticker": "TMB",
+        "filename": "TMB-HNXINDEX.csv",
+        "length": 1528
+    },
+    {
+        "ticker": "TMC",
+        "filename": "TMC-HNXINDEX.csv",
+        "length": 3429
+    },
+    {
+        "ticker": "TMX",
+        "filename": "TMX-HNXINDEX.csv",
+        "length": 3325
+    },
+    {
+        "ticker": "TNG",
+        "filename": "TNG-HNXINDEX.csv",
+        "length": 3807
+    },
+    {
+        "ticker": "TOT",
+        "filename": "TOT-HNXINDEX.csv",
+        "length": 1398
+    },
+    {
+        "ticker": "TPH",
+        "filename": "TPH-HNXINDEX.csv",
+        "length": 4039
+    },
+    {
+        "ticker": "TPP",
+        "filename": "TPP-HNXINDEX.csv",
+        "length": 3601
+    },
+    {
+        "ticker": "TSB",
+        "filename": "TSB-HNXINDEX.csv",
+        "length": 3020
+    },
+    {
+        "ticker": "TTC",
+        "filename": "TTC-HNXINDEX.csv",
+        "length": 3278
+    },
+    {
+        "ticker": "TTH",
+        "filename": "TTH-HNXINDEX.csv",
+        "length": 1585
+    },
+    {
+        "ticker": "TTL",
+        "filename": "TTL-HNXINDEX.csv",
+        "length": 1275
+    },
+    {
+        "ticker": "TTT",
+        "filename": "TTT-HNXINDEX.csv",
+        "length": 1437
+    },
+    {
+        "ticker": "TTZ",
+        "filename": "TTZ-HNXINDEX.csv",
+        "length": 2514
+    },
+    {
+        "ticker": "TV3",
+        "filename": "TV3-HNXINDEX.csv",
+        "length": 3304
+    },
+    {
+        "ticker": "TV4",
+        "filename": "TV4-HNXINDEX.csv",
+        "length": 3647
+    },
+    {
+        "ticker": "TVC",
+        "filename": "TVC-HNXINDEX.csv",
+        "length": 2108
+    },
+    {
+        "ticker": "TVD",
+        "filename": "TVD-HNXINDEX.csv",
+        "length": 3026
+    },
+    {
+        "ticker": "TXM",
+        "filename": "TXM-HNXINDEX.csv",
+        "length": 4043
+    },
+    {
+        "ticker": "UNI",
+        "filename": "UNI-HNXINDEX.csv",
+        "length": 3429
+    },
+    {
+        "ticker": "V12",
+        "filename": "V12-HNXINDEX.csv",
+        "length": 3280
+    },
+    {
+        "ticker": "V21",
+        "filename": "V21-HNXINDEX.csv",
+        "length": 3209
+    },
+    {
+        "ticker": "VBC",
+        "filename": "VBC-HNXINDEX.csv",
+        "length": 3234
+    },
+    {
+        "ticker": "VC1",
+        "filename": "VC1-HNXINDEX.csv",
+        "length": 3446
+    },
+    {
+        "ticker": "VC2",
+        "filename": "VC2-HNXINDEX.csv",
+        "length": 4043
+    },
+    {
+        "ticker": "VC3",
+        "filename": "VC3-HNXINDEX.csv",
+        "length": 3792
+    },
+    {
+        "ticker": "VC6",
+        "filename": "VC6-HNXINDEX.csv",
+        "length": 3762
+    },
+    {
+        "ticker": "VC7",
+        "filename": "VC7-HNXINDEX.csv",
+        "length": 3781
+    },
+    {
+        "ticker": "VC9",
+        "filename": "VC9-HNXINDEX.csv",
+        "length": 3322
+    },
+    {
+        "ticker": "VCC",
+        "filename": "VCC-HNXINDEX.csv",
+        "length": 3513
+    },
+    {
+        "ticker": "VCM",
+        "filename": "VCM-HNXINDEX.csv",
+        "length": 3198
+    },
+    {
+        "ticker": "VCS",
+        "filename": "VCS-HNXINDEX.csv",
+        "length": 3790
+    },
+    {
+        "ticker": "VDL",
+        "filename": "VDL-HNXINDEX.csv",
+        "length": 3804
+    },
+    {
+        "ticker": "VE1",
+        "filename": "VE1-HNXINDEX.csv",
+        "length": 3617
+    },
+    {
+        "ticker": "VE2",
+        "filename": "VE2-HNXINDEX.csv",
+        "length": 3144
+    },
+    {
+        "ticker": "VE3",
+        "filename": "VE3-HNXINDEX.csv",
+        "length": 3162
+    },
+    {
+        "ticker": "VE4",
+        "filename": "VE4-HNXINDEX.csv",
+        "length": 2587
+    },
+    {
+        "ticker": "VE8",
+        "filename": "VE8-HNXINDEX.csv",
+        "length": 2622
+    },
+    {
+        "ticker": "VGP",
+        "filename": "VGP-HNXINDEX.csv",
+        "length": 3425
+    },
+    {
+        "ticker": "VGS",
+        "filename": "VGS-HNXINDEX.csv",
+        "length": 3552
+    },
+    {
+        "ticker": "VHE",
+        "filename": "VHE-HNXINDEX.csv",
+        "length": 1029
+    },
+    {
+        "ticker": "VHL",
+        "filename": "VHL-HNXINDEX.csv",
+        "length": 3508
+    },
+    {
+        "ticker": "VIF",
+        "filename": "VIF-HNXINDEX.csv",
+        "length": 1524
+    },
+    {
+        "ticker": "VIG",
+        "filename": "VIG-HNXINDEX.csv",
+        "length": 3304
+    },
+    {
+        "ticker": "VIT",
+        "filename": "VIT-HNXINDEX.csv",
+        "length": 3324
+    },
+    {
+        "ticker": "VKC",
+        "filename": "VKC-HNXINDEX.csv",
+        "length": 3049
+    },
+    {
+        "ticker": "VLA",
+        "filename": "VLA-HNXINDEX.csv",
+        "length": 3137
+    },
+    {
+        "ticker": "VMC",
+        "filename": "VMC-HNXINDEX.csv",
+        "length": 4043
+    },
+    {
+        "ticker": "VMS",
+        "filename": "VMS-HNXINDEX.csv",
+        "length": 1841
+    },
+    {
+        "ticker": "VNC",
+        "filename": "VNC-HNXINDEX.csv",
+        "length": 4035
+    },
+    {
+        "ticker": "VNF",
+        "filename": "VNF-HNXINDEX.csv",
+        "length": 3054
+    },
+    {
+        "ticker": "VNR",
+        "filename": "VNR-HNXINDEX.csv",
+        "length": 4213
+    },
+    {
+        "ticker": "VNT",
+        "filename": "VNT-HNXINDEX.csv",
+        "length": 3380
+    },
+    {
+        "ticker": "VSA",
+        "filename": "VSA-HNXINDEX.csv",
+        "length": 1796
+    },
+    {
+        "ticker": "VSM",
+        "filename": "VSM-HNXINDEX.csv",
+        "length": 1406
+    },
+    {
+        "ticker": "VTC",
+        "filename": "VTC-HNXINDEX.csv",
+        "length": 3430
+    },
+    {
+        "ticker": "VTH",
+        "filename": "VTH-HNXINDEX.csv",
+        "length": 2082
+    },
+    {
+        "ticker": "VTJ",
+        "filename": "VTJ-HNXINDEX.csv",
+        "length": 2033
+    },
+    {
+        "ticker": "VTL",
+        "filename": "VTL-HNXINDEX.csv",
+        "length": 4312
+    },
+    {
+        "ticker": "VTV",
+        "filename": "VTV-HNXINDEX.csv",
+        "length": 4038
+    },
+    {
+        "ticker": "VTZ",
+        "filename": "VTZ-HNXINDEX.csv",
+        "length": 312
+    },
+    {
+        "ticker": "WCS",
+        "filename": "WCS-HNXINDEX.csv",
+        "length": 3107
+    },
+    {
+        "ticker": "WSS",
+        "filename": "WSS-HNXINDEX.csv",
+        "length": 3294
+    },
+    {
+        "ticker": "X20",
+        "filename": "X20-HNXINDEX.csv",
+        "length": 1263
+    }
+]

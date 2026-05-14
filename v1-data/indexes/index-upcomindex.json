@@ -1,0 +1,4357 @@
+[
+    {
+        "ticker": "A32",
+        "filename": "A32-UPCOMINDEX.csv",
+        "length": 1086
+    },
+    {
+        "ticker": "AAS",
+        "filename": "AAS-UPCOMINDEX.csv",
+        "length": 650
+    },
+    {
+        "ticker": "ABB",
+        "filename": "ABB-UPCOMINDEX.csv",
+        "length": 539
+    },
+    {
+        "ticker": "ABC",
+        "filename": "ABC-UPCOMINDEX.csv",
+        "length": 1633
+    },
+    {
+        "ticker": "ABI",
+        "filename": "ABI-UPCOMINDEX.csv",
+        "length": 3330
+    },
+    {
+        "ticker": "ACE",
+        "filename": "ACE-UPCOMINDEX.csv",
+        "length": 3256
+    },
+    {
+        "ticker": "ACM",
+        "filename": "ACM-UPCOMINDEX.csv",
+        "length": 1896
+    },
+    {
+        "ticker": "ACS",
+        "filename": "ACS-UPCOMINDEX.csv",
+        "length": 1408
+    },
+    {
+        "ticker": "ACV",
+        "filename": "ACV-UPCOMINDEX.csv",
+        "length": 1567
+    },
+    {
+        "ticker": "ADP",
+        "filename": "ADP-UPCOMINDEX.csv",
+        "length": 3236
+    },
+    {
+        "ticker": "AFX",
+        "filename": "AFX-UPCOMINDEX.csv",
+        "length": 1558
+    },
+    {
+        "ticker": "AG1",
+        "filename": "AG1-UPCOMINDEX.csv",
+        "length": 1281
+    },
+    {
+        "ticker": "AGE",
+        "filename": "AGE-UPCOMINDEX.csv",
+        "length": 134
+    },
+    {
+        "ticker": "AGF",
+        "filename": "AGF-UPCOMINDEX.csv",
+        "length": 5191
+    },
+    {
+        "ticker": "AGP",
+        "filename": "AGP-UPCOMINDEX.csv",
+        "length": 1851
+    },
+    {
+        "ticker": "AGX",
+        "filename": "AGX-UPCOMINDEX.csv",
+        "length": 1867
+    },
+    {
+        "ticker": "AIC",
+        "filename": "AIC-UPCOMINDEX.csv",
+        "length": 531
+    },
+    {
+        "ticker": "ALV",
+        "filename": "ALV-UPCOMINDEX.csv",
+        "length": 3101
+    },
+    {
+        "ticker": "AMP",
+        "filename": "AMP-UPCOMINDEX.csv",
+        "length": 1530
+    },
+    {
+        "ticker": "AMS",
+        "filename": "AMS-UPCOMINDEX.csv",
+        "length": 1518
+    },
+    {
+        "ticker": "ANT",
+        "filename": "ANT-UPCOMINDEX.csv",
+        "length": 1544
+    },
+    {
+        "ticker": "APF",
+        "filename": "APF-UPCOMINDEX.csv",
+        "length": 1433
+    },
+    {
+        "ticker": "APL",
+        "filename": "APL-UPCOMINDEX.csv",
+        "length": 1593
+    },
+    {
+        "ticker": "APP",
+        "filename": "APP-UPCOMINDEX.csv",
+        "length": 3083
+    },
+    {
+        "ticker": "APT",
+        "filename": "APT-UPCOMINDEX.csv",
+        "length": 934
+    },
+    {
+        "ticker": "ASA",
+        "filename": "ASA-UPCOMINDEX.csv",
+        "length": 2732
+    },
+    {
+        "ticker": "ATA",
+        "filename": "ATA-UPCOMINDEX.csv",
+        "length": 3355
+    },
+    {
+        "ticker": "ATB",
+        "filename": "ATB-UPCOMINDEX.csv",
+        "length": 1377
+    },
+    {
+        "ticker": "ATG",
+        "filename": "ATG-UPCOMINDEX.csv",
+        "length": 1622
+    },
+    {
+        "ticker": "AUM",
+        "filename": "AUM-UPCOMINDEX.csv",
+        "length": 1607
+    },
+    {
+        "ticker": "AVC",
+        "filename": "AVC-UPCOMINDEX.csv",
+        "length": 1283
+    },
+    {
+        "ticker": "AVF",
+        "filename": "AVF-UPCOMINDEX.csv",
+        "length": 3054
+    },
+    {
+        "ticker": "B82",
+        "filename": "B82-UPCOMINDEX.csv",
+        "length": 3724
+    },
+    {
+        "ticker": "BAL",
+        "filename": "BAL-UPCOMINDEX.csv",
+        "length": 1279
+    },
+    {
+        "ticker": "BBH",
+        "filename": "BBH-UPCOMINDEX.csv",
+        "length": 700
+    },
+    {
+        "ticker": "BBM",
+        "filename": "BBM-UPCOMINDEX.csv",
+        "length": 1284
+    },
+    {
+        "ticker": "BBT",
+        "filename": "BBT-UPCOMINDEX.csv",
+        "length": 2517
+    },
+    {
+        "ticker": "BCA",
+        "filename": "BCA-UPCOMINDEX.csv",
+        "length": 368
+    },
+    {
+        "ticker": "BCB",
+        "filename": "BCB-UPCOMINDEX.csv",
+        "length": 1082
+    },
+    {
+        "ticker": "BCP",
+        "filename": "BCP-UPCOMINDEX.csv",
+        "length": 1867
+    },
+    {
+        "ticker": "BCV",
+        "filename": "BCV-UPCOMINDEX.csv",
+        "length": 489
+    },
+    {
+        "ticker": "BDG",
+        "filename": "BDG-UPCOMINDEX.csv",
+        "length": 1726
+    },
+    {
+        "ticker": "BDT",
+        "filename": "BDT-UPCOMINDEX.csv",
+        "length": 1370
+    },
+    {
+        "ticker": "BDW",
+        "filename": "BDW-UPCOMINDEX.csv",
+        "length": 1845
+    },
+    {
+        "ticker": "BEL",
+        "filename": "BEL-UPCOMINDEX.csv",
+        "length": 1660
+    },
+    {
+        "ticker": "BGW",
+        "filename": "BGW-UPCOMINDEX.csv",
+        "length": 1331
+    },
+    {
+        "ticker": "BHA",
+        "filename": "BHA-UPCOMINDEX.csv",
+        "length": 1394
+    },
+    {
+        "ticker": "BHC",
+        "filename": "BHC-UPCOMINDEX.csv",
+        "length": 3226
+    },
+    {
+        "ticker": "BHG",
+        "filename": "BHG-UPCOMINDEX.csv",
+        "length": 1081
+    },
+    {
+        "ticker": "BHK",
+        "filename": "BHK-UPCOMINDEX.csv",
+        "length": 1225
+    },
+    {
+        "ticker": "BHP",
+        "filename": "BHP-UPCOMINDEX.csv",
+        "length": 2520
+    },
+    {
+        "ticker": "BHT",
+        "filename": "BHT-UPCOMINDEX.csv",
+        "length": 3021
+    },
+    {
+        "ticker": "BIG",
+        "filename": "BIG-UPCOMINDEX.csv",
+        "length": 281
+    },
+    {
+        "ticker": "BIO",
+        "filename": "BIO-UPCOMINDEX.csv",
+        "length": 1123
+    },
+    {
+        "ticker": "BKH",
+        "filename": "BKH-UPCOMINDEX.csv",
+        "length": 921
+    },
+    {
+        "ticker": "BLI",
+        "filename": "BLI-UPCOMINDEX.csv",
+        "length": 1803
+    },
+    {
+        "ticker": "BLN",
+        "filename": "BLN-UPCOMINDEX.csv",
+        "length": 1618
+    },
+    {
+        "ticker": "BLT",
+        "filename": "BLT-UPCOMINDEX.csv",
+        "length": 1411
+    },
+    {
+        "ticker": "BLW",
+        "filename": "BLW-UPCOMINDEX.csv",
+        "length": 1088
+    },
+    {
+        "ticker": "BMD",
+        "filename": "BMD-UPCOMINDEX.csv",
+        "length": 1429
+    },
+    {
+        "ticker": "BMF",
+        "filename": "BMF-UPCOMINDEX.csv",
+        "length": 1218
+    },
+    {
+        "ticker": "BMG",
+        "filename": "BMG-UPCOMINDEX.csv",
+        "length": 1041
+    },
+    {
+        "ticker": "BMJ",
+        "filename": "BMJ-UPCOMINDEX.csv",
+        "length": 3243
+    },
+    {
+        "ticker": "BMN",
+        "filename": "BMN-UPCOMINDEX.csv",
+        "length": 1726
+    },
+    {
+        "ticker": "BMS",
+        "filename": "BMS-UPCOMINDEX.csv",
+        "length": 1139
+    },
+    {
+        "ticker": "BMV",
+        "filename": "BMV-UPCOMINDEX.csv",
+        "length": 1435
+    },
+    {
+        "ticker": "BNW",
+        "filename": "BNW-UPCOMINDEX.csv",
+        "length": 1038
+    },
+    {
+        "ticker": "BOT",
+        "filename": "BOT-UPCOMINDEX.csv",
+        "length": 1011
+    },
+    {
+        "ticker": "BQB",
+        "filename": "BQB-UPCOMINDEX.csv",
+        "length": 1282
+    },
+    {
+        "ticker": "BRR",
+        "filename": "BRR-UPCOMINDEX.csv",
+        "length": 1427
+    },
+    {
+        "ticker": "BRS",
+        "filename": "BRS-UPCOMINDEX.csv",
+        "length": 1522
+    },
+    {
+        "ticker": "BSA",
+        "filename": "BSA-UPCOMINDEX.csv",
+        "length": 1131
+    },
+    {
+        "ticker": "BSD",
+        "filename": "BSD-UPCOMINDEX.csv",
+        "length": 1460
+    },
+    {
+        "ticker": "BSG",
+        "filename": "BSG-UPCOMINDEX.csv",
+        "length": 1567
+    },
+    {
+        "ticker": "BSH",
+        "filename": "BSH-UPCOMINDEX.csv",
+        "length": 1164
+    },
+    {
+        "ticker": "BSL",
+        "filename": "BSL-UPCOMINDEX.csv",
+        "length": 1427
+    },
+    {
+        "ticker": "BSP",
+        "filename": "BSP-UPCOMINDEX.csv",
+        "length": 1639
+    },
+    {
+        "ticker": "BSQ",
+        "filename": "BSQ-UPCOMINDEX.csv",
+        "length": 1502
+    },
+    {
+        "ticker": "BSR",
+        "filename": "BSR-UPCOMINDEX.csv",
+        "length": 1250
+    },
+    {
+        "ticker": "BT1",
+        "filename": "BT1-UPCOMINDEX.csv",
+        "length": 1575
+    },
+    {
+        "ticker": "BT6",
+        "filename": "BT6-UPCOMINDEX.csv",
+        "length": 4888
+    },
+    {
+        "ticker": "BTB",
+        "filename": "BTB-UPCOMINDEX.csv",
+        "length": 1530
+    },
+    {
+        "ticker": "BTD",
+        "filename": "BTD-UPCOMINDEX.csv",
+        "length": 1500
+    },
+    {
+        "ticker": "BTG",
+        "filename": "BTG-UPCOMINDEX.csv",
+        "length": 3219
+    },
+    {
+        "ticker": "BTH",
+        "filename": "BTH-UPCOMINDEX.csv",
+        "length": 3174
+    },
+    {
+        "ticker": "BTN",
+        "filename": "BTN-UPCOMINDEX.csv",
+        "length": 1284
+    },
+    {
+        "ticker": "BTU",
+        "filename": "BTU-UPCOMINDEX.csv",
+        "length": 1744
+    },
+    {
+        "ticker": "BTV",
+        "filename": "BTV-UPCOMINDEX.csv",
+        "length": 1499
+    },
+    {
+        "ticker": "BVB",
+        "filename": "BVB-UPCOMINDEX.csv",
+        "length": 660
+    },
+    {
+        "ticker": "BVG",
+        "filename": "BVG-UPCOMINDEX.csv",
+        "length": 3004
+    },
+    {
+        "ticker": "BVL",
+        "filename": "BVL-UPCOMINDEX.csv",
+        "length": 429
+    },
+    {
+        "ticker": "BVN",
+        "filename": "BVN-UPCOMINDEX.csv",
+        "length": 2841
+    },
+    {
+        "ticker": "BWA",
+        "filename": "BWA-UPCOMINDEX.csv",
+        "length": 3168
+    },
+    {
+        "ticker": "BWS",
+        "filename": "BWS-UPCOMINDEX.csv",
+        "length": 1311
+    },
+    {
+        "ticker": "C12",
+        "filename": "C12-UPCOMINDEX.csv",
+        "length": 1542
+    },
+    {
+        "ticker": "C21",
+        "filename": "C21-UPCOMINDEX.csv",
+        "length": 2621
+    },
+    {
+        "ticker": "C22",
+        "filename": "C22-UPCOMINDEX.csv",
+        "length": 1193
+    },
+    {
+        "ticker": "C36",
+        "filename": "C36-UPCOMINDEX.csv",
+        "length": 1157
+    },
+    {
+        "ticker": "C4G",
+        "filename": "C4G-UPCOMINDEX.csv",
+        "length": 1052
+    },
+    {
+        "ticker": "C71",
+        "filename": "C71-UPCOMINDEX.csv",
+        "length": 1582
+    },
+    {
+        "ticker": "C92",
+        "filename": "C92-UPCOMINDEX.csv",
+        "length": 3798
+    },
+    {
+        "ticker": "CAB",
+        "filename": "CAB-UPCOMINDEX.csv",
+        "length": 870
+    },
+    {
+        "ticker": "CAD",
+        "filename": "CAD-UPCOMINDEX.csv",
+        "length": 3424
+    },
+    {
+        "ticker": "CAR",
+        "filename": "CAR-UPCOMINDEX.csv",
+        "length": 157
+    },
+    {
+        "ticker": "CAT",
+        "filename": "CAT-UPCOMINDEX.csv",
+        "length": 1234
+    },
+    {
+        "ticker": "CBC",
+        "filename": "CBC-UPCOMINDEX.csv",
+        "length": 356
+    },
+    {
+        "ticker": "CBI",
+        "filename": "CBI-UPCOMINDEX.csv",
+        "length": 1354
+    },
+    {
+        "ticker": "CBS",
+        "filename": "CBS-UPCOMINDEX.csv",
+        "length": 1425
+    },
+    {
+        "ticker": "CC1",
+        "filename": "CC1-UPCOMINDEX.csv",
+        "length": 1403
+    },
+    {
+        "ticker": "CC4",
+        "filename": "CC4-UPCOMINDEX.csv",
+        "length": 1397
+    },
+    {
+        "ticker": "CCA",
+        "filename": "CCA-UPCOMINDEX.csv",
+        "length": 791
+    },
+    {
+        "ticker": "CCM",
+        "filename": "CCM-UPCOMINDEX.csv",
+        "length": 3602
+    },
+    {
+        "ticker": "CCP",
+        "filename": "CCP-UPCOMINDEX.csv",
+        "length": 1490
+    },
+    {
+        "ticker": "CCT",
+        "filename": "CCT-UPCOMINDEX.csv",
+        "length": 1417
+    },
+    {
+        "ticker": "CCV",
+        "filename": "CCV-UPCOMINDEX.csv",
+        "length": 1533
+    },
+    {
+        "ticker": "CDG",
+        "filename": "CDG-UPCOMINDEX.csv",
+        "length": 1503
+    },
+    {
+        "ticker": "CDH",
+        "filename": "CDH-UPCOMINDEX.csv",
+        "length": 1673
+    },
+    {
+        "ticker": "CDO",
+        "filename": "CDO-UPCOMINDEX.csv",
+        "length": 1954
+    },
+    {
+        "ticker": "CDP",
+        "filename": "CDP-UPCOMINDEX.csv",
+        "length": 1157
+    },
+    {
+        "ticker": "CDR",
+        "filename": "CDR-UPCOMINDEX.csv",
+        "length": 1421
+    },
+    {
+        "ticker": "CE1",
+        "filename": "CE1-UPCOMINDEX.csv",
+        "length": 1474
+    },
+    {
+        "ticker": "CEG",
+        "filename": "CEG-UPCOMINDEX.csv",
+        "length": 1449
+    },
+    {
+        "ticker": "CEN",
+        "filename": "CEN-UPCOMINDEX.csv",
+        "length": 1177
+    },
+    {
+        "ticker": "CFM",
+        "filename": "CFM-UPCOMINDEX.csv",
+        "length": 520
+    },
+    {
+        "ticker": "CFV",
+        "filename": "CFV-UPCOMINDEX.csv",
+        "length": 938
+    },
+    {
+        "ticker": "CGV",
+        "filename": "CGV-UPCOMINDEX.csv",
+        "length": 1424
+    },
+    {
+        "ticker": "CH5",
+        "filename": "CH5-UPCOMINDEX.csv",
+        "length": 1429
+    },
+    {
+        "ticker": "CHC",
+        "filename": "CHC-UPCOMINDEX.csv",
+        "length": 1510
+    },
+    {
+        "ticker": "CHS",
+        "filename": "CHS-UPCOMINDEX.csv",
+        "length": 1530
+    },
+    {
+        "ticker": "CI5",
+        "filename": "CI5-UPCOMINDEX.csv",
+        "length": 2911
+    },
+    {
+        "ticker": "CID",
+        "filename": "CID-UPCOMINDEX.csv",
+        "length": 4306
+    },
+    {
+        "ticker": "CIP",
+        "filename": "CIP-UPCOMINDEX.csv",
+        "length": 1355
+    },
+    {
+        "ticker": "CK8",
+        "filename": "CK8-UPCOMINDEX.csv",
+        "length": 33
+    },
+    {
+        "ticker": "CKA",
+        "filename": "CKA-UPCOMINDEX.csv",
+        "length": 1090
+    },
+    {
+        "ticker": "CKD",
+        "filename": "CKD-UPCOMINDEX.csv",
+        "length": 1948
+    },
+    {
+        "ticker": "CLG",
+        "filename": "CLG-UPCOMINDEX.csv",
+        "length": 3127
+    },
+    {
+        "ticker": "CLX",
+        "filename": "CLX-UPCOMINDEX.csv",
+        "length": 1501
+    },
+    {
+        "ticker": "CMD",
+        "filename": "CMD-UPCOMINDEX.csv",
+        "length": 914
+    },
+    {
+        "ticker": "CMF",
+        "filename": "CMF-UPCOMINDEX.csv",
+        "length": 1560
+    },
+    {
+        "ticker": "CMI",
+        "filename": "CMI-UPCOMINDEX.csv",
+        "length": 3161
+    },
+    {
+        "ticker": "CMK",
+        "filename": "CMK-UPCOMINDEX.csv",
+        "length": 1840
+    },
+    {
+        "ticker": "CMM",
+        "filename": "CMM-UPCOMINDEX.csv",
+        "length": 75
+    },
+    {
+        "ticker": "CMN",
+        "filename": "CMN-UPCOMINDEX.csv",
+        "length": 1411
+    },
+    {
+        "ticker": "CMP",
+        "filename": "CMP-UPCOMINDEX.csv",
+        "length": 1762
+    },
+    {
+        "ticker": "CMT",
+        "filename": "CMT-UPCOMINDEX.csv",
+        "length": 3234
+    },
+    {
+        "ticker": "CMW",
+        "filename": "CMW-UPCOMINDEX.csv",
+        "length": 1474
+    },
+    {
+        "ticker": "CNA",
+        "filename": "CNA-UPCOMINDEX.csv",
+        "length": 302
+    },
+    {
+        "ticker": "CNC",
+        "filename": "CNC-UPCOMINDEX.csv",
+        "length": 2170
+    },
+    {
+        "ticker": "CNN",
+        "filename": "CNN-UPCOMINDEX.csv",
+        "length": 1689
+    },
+    {
+        "ticker": "CNT",
+        "filename": "CNT-UPCOMINDEX.csv",
+        "length": 3435
+    },
+    {
+        "ticker": "CPA",
+        "filename": "CPA-UPCOMINDEX.csv",
+        "length": 789
+    },
+    {
+        "ticker": "CPH",
+        "filename": "CPH-UPCOMINDEX.csv",
+        "length": 1516
+    },
+    {
+        "ticker": "CPI",
+        "filename": "CPI-UPCOMINDEX.csv",
+        "length": 1397
+    },
+    {
+        "ticker": "CQN",
+        "filename": "CQN-UPCOMINDEX.csv",
+        "length": 632
+    },
+    {
+        "ticker": "CQT",
+        "filename": "CQT-UPCOMINDEX.csv",
+        "length": 1581
+    },
+    {
+        "ticker": "CSI",
+        "filename": "CSI-UPCOMINDEX.csv",
+        "length": 990
+    },
+    {
+        "ticker": "CST",
+        "filename": "CST-UPCOMINDEX.csv",
+        "length": 461
+    },
+    {
+        "ticker": "CT3",
+        "filename": "CT3-UPCOMINDEX.csv",
+        "length": 3249
+    },
+    {
+        "ticker": "CT6",
+        "filename": "CT6-UPCOMINDEX.csv",
+        "length": 3197
+    },
+    {
+        "ticker": "CTA",
+        "filename": "CTA-UPCOMINDEX.csv",
+        "length": 3092
+    },
+    {
+        "ticker": "CTN",
+        "filename": "CTN-UPCOMINDEX.csv",
+        "length": 4031
+    },
+    {
+        "ticker": "CTW",
+        "filename": "CTW-UPCOMINDEX.csv",
+        "length": 1603
+    },
+    {
+        "ticker": "CVP",
+        "filename": "CVP-UPCOMINDEX.csv",
+        "length": 207
+    },
+    {
+        "ticker": "CYC",
+        "filename": "CYC-UPCOMINDEX.csv",
+        "length": 4127
+    },
+    {
+        "ticker": "DAC",
+        "filename": "DAC-UPCOMINDEX.csv",
+        "length": 4096
+    },
+    {
+        "ticker": "DAN",
+        "filename": "DAN-UPCOMINDEX.csv",
+        "length": 293
+    },
+    {
+        "ticker": "DAP",
+        "filename": "DAP-UPCOMINDEX.csv",
+        "length": 2926
+    },
+    {
+        "ticker": "DAS",
+        "filename": "DAS-UPCOMINDEX.csv",
+        "length": 2106
+    },
+    {
+        "ticker": "DBM",
+        "filename": "DBM-UPCOMINDEX.csv",
+        "length": 3244
+    },
+    {
+        "ticker": "DC1",
+        "filename": "DC1-UPCOMINDEX.csv",
+        "length": 1655
+    },
+    {
+        "ticker": "DCF",
+        "filename": "DCF-UPCOMINDEX.csv",
+        "length": 1530
+    },
+    {
+        "ticker": "DCG",
+        "filename": "DCG-UPCOMINDEX.csv",
+        "length": 1048
+    },
+    {
+        "ticker": "DCH",
+        "filename": "DCH-UPCOMINDEX.csv",
+        "length": 1213
+    },
+    {
+        "ticker": "DCR",
+        "filename": "DCR-UPCOMINDEX.csv",
+        "length": 1097
+    },
+    {
+        "ticker": "DCS",
+        "filename": "DCS-UPCOMINDEX.csv",
+        "length": 3785
+    },
+    {
+        "ticker": "DCT",
+        "filename": "DCT-UPCOMINDEX.csv",
+        "length": 3852
+    },
+    {
+        "ticker": "DDH",
+        "filename": "DDH-UPCOMINDEX.csv",
+        "length": 1668
+    },
+    {
+        "ticker": "DDM",
+        "filename": "DDM-UPCOMINDEX.csv",
+        "length": 3228
+    },
+    {
+        "ticker": "DDN",
+        "filename": "DDN-UPCOMINDEX.csv",
+        "length": 3345
+    },
+    {
+        "ticker": "DDV",
+        "filename": "DDV-UPCOMINDEX.csv",
+        "length": 1934
+    },
+    {
+        "ticker": "DFC",
+        "filename": "DFC-UPCOMINDEX.csv",
+        "length": 1530
+    },
+    {
+        "ticker": "DFF",
+        "filename": "DFF-UPCOMINDEX.csv",
+        "length": 410
+    },
+    {
+        "ticker": "DGT",
+        "filename": "DGT-UPCOMINDEX.csv",
+        "length": 3230
+    },
+    {
+        "ticker": "DHB",
+        "filename": "DHB-UPCOMINDEX.csv",
+        "length": 1399
+    },
+    {
+        "ticker": "DHD",
+        "filename": "DHD-UPCOMINDEX.csv",
+        "length": 1457
+    },
+    {
+        "ticker": "DHN",
+        "filename": "DHN-UPCOMINDEX.csv",
+        "length": 1215
+    },
+    {
+        "ticker": "DIC",
+        "filename": "DIC-UPCOMINDEX.csv",
+        "length": 4021
+    },
+    {
+        "ticker": "DID",
+        "filename": "DID-UPCOMINDEX.csv",
+        "length": 3291
+    },
+    {
+        "ticker": "DKC",
+        "filename": "DKC-UPCOMINDEX.csv",
+        "length": 657
+    },
+    {
+        "ticker": "DLD",
+        "filename": "DLD-UPCOMINDEX.csv",
+        "length": 2968
+    },
+    {
+        "ticker": "DLM",
+        "filename": "DLM-UPCOMINDEX.csv",
+        "length": 33
+    },
+    {
+        "ticker": "DLR",
+        "filename": "DLR-UPCOMINDEX.csv",
+        "length": 3186
+    },
+    {
+        "ticker": "DLT",
+        "filename": "DLT-UPCOMINDEX.csv",
+        "length": 1822
+    },
+    {
+        "ticker": "DM7",
+        "filename": "DM7-UPCOMINDEX.csv",
+        "length": 1092
+    },
+    {
+        "ticker": "DMN",
+        "filename": "DMN-UPCOMINDEX.csv",
+        "length": 315
+    },
+    {
+        "ticker": "DNA",
+        "filename": "DNA-UPCOMINDEX.csv",
+        "length": 1339
+    },
+    {
+        "ticker": "DND",
+        "filename": "DND-UPCOMINDEX.csv",
+        "length": 1575
+    },
+    {
+        "ticker": "DNE",
+        "filename": "DNE-UPCOMINDEX.csv",
+        "length": 1476
+    },
+    {
+        "ticker": "DNH",
+        "filename": "DNH-UPCOMINDEX.csv",
+        "length": 1426
+    },
+    {
+        "ticker": "DNL",
+        "filename": "DNL-UPCOMINDEX.csv",
+        "length": 2878
+    },
+    {
+        "ticker": "DNN",
+        "filename": "DNN-UPCOMINDEX.csv",
+        "length": 1406
+    },
+    {
+        "ticker": "DNT",
+        "filename": "DNT-UPCOMINDEX.csv",
+        "length": 1952
+    },
+    {
+        "ticker": "DNW",
+        "filename": "DNW-UPCOMINDEX.csv",
+        "length": 1741
+    },
+    {
+        "ticker": "DOC",
+        "filename": "DOC-UPCOMINDEX.csv",
+        "length": 1547
+    },
+    {
+        "ticker": "DOP",
+        "filename": "DOP-UPCOMINDEX.csv",
+        "length": 1833
+    },
+    {
+        "ticker": "DP1",
+        "filename": "DP1-UPCOMINDEX.csv",
+        "length": 1180
+    },
+    {
+        "ticker": "DP2",
+        "filename": "DP2-UPCOMINDEX.csv",
+        "length": 1447
+    },
+    {
+        "ticker": "DPH",
+        "filename": "DPH-UPCOMINDEX.csv",
+        "length": 1524
+    },
+    {
+        "ticker": "DPP",
+        "filename": "DPP-UPCOMINDEX.csv",
+        "length": 3183
+    },
+    {
+        "ticker": "DPS",
+        "filename": "DPS-UPCOMINDEX.csv",
+        "length": 1953
+    },
+    {
+        "ticker": "DRG",
+        "filename": "DRG-UPCOMINDEX.csv",
+        "length": 802
+    },
+    {
+        "ticker": "DRI",
+        "filename": "DRI-UPCOMINDEX.csv",
+        "length": 1445
+    },
+    {
+        "ticker": "DSC",
+        "filename": "DSC-UPCOMINDEX.csv",
+        "length": 1284
+    },
+    {
+        "ticker": "DSD",
+        "filename": "DSD-UPCOMINDEX.csv",
+        "length": 198
+    },
+    {
+        "ticker": "DSG",
+        "filename": "DSG-UPCOMINDEX.csv",
+        "length": 1387
+    },
+    {
+        "ticker": "DSP",
+        "filename": "DSP-UPCOMINDEX.csv",
+        "length": 1090
+    },
+    {
+        "ticker": "DSV",
+        "filename": "DSV-UPCOMINDEX.csv",
+        "length": 1558
+    },
+    {
+        "ticker": "DTB",
+        "filename": "DTB-UPCOMINDEX.csv",
+        "length": 903
+    },
+    {
+        "ticker": "DTE",
+        "filename": "DTE-UPCOMINDEX.csv",
+        "length": 536
+    },
+    {
+        "ticker": "DTG",
+        "filename": "DTG-UPCOMINDEX.csv",
+        "length": 1502
+    },
+    {
+        "ticker": "DTH",
+        "filename": "DTH-UPCOMINDEX.csv",
+        "length": 217
+    },
+    {
+        "ticker": "DTI",
+        "filename": "DTI-UPCOMINDEX.csv",
+        "length": 1284
+    },
+    {
+        "ticker": "DTN",
+        "filename": "DTN-UPCOMINDEX.csv",
+        "length": 1585
+    },
+    {
+        "ticker": "DTP",
+        "filename": "DTP-UPCOMINDEX.csv",
+        "length": 675
+    },
+    {
+        "ticker": "DTV",
+        "filename": "DTV-UPCOMINDEX.csv",
+        "length": 3112
+    },
+    {
+        "ticker": "DUS",
+        "filename": "DUS-UPCOMINDEX.csv",
+        "length": 783
+    },
+    {
+        "ticker": "DVC",
+        "filename": "DVC-UPCOMINDEX.csv",
+        "length": 2296
+    },
+    {
+        "ticker": "DVN",
+        "filename": "DVN-UPCOMINDEX.csv",
+        "length": 1447
+    },
+    {
+        "ticker": "DVW",
+        "filename": "DVW-UPCOMINDEX.csv",
+        "length": 1184
+    },
+    {
+        "ticker": "DWC",
+        "filename": "DWC-UPCOMINDEX.csv",
+        "length": 293
+    },
+    {
+        "ticker": "DWS",
+        "filename": "DWS-UPCOMINDEX.csv",
+        "length": 1021
+    },
+    {
+        "ticker": "DXL",
+        "filename": "DXL-UPCOMINDEX.csv",
+        "length": 3160
+    },
+    {
+        "ticker": "E12",
+        "filename": "E12-UPCOMINDEX.csv",
+        "length": 788
+    },
+    {
+        "ticker": "E29",
+        "filename": "E29-UPCOMINDEX.csv",
+        "length": 828
+    },
+    {
+        "ticker": "EFI",
+        "filename": "EFI-UPCOMINDEX.csv",
+        "length": 3343
+    },
+    {
+        "ticker": "EIC",
+        "filename": "EIC-UPCOMINDEX.csv",
+        "length": 1502
+    },
+    {
+        "ticker": "EIN",
+        "filename": "EIN-UPCOMINDEX.csv",
+        "length": 1490
+    },
+    {
+        "ticker": "EME",
+        "filename": "EME-UPCOMINDEX.csv",
+        "length": 1406
+    },
+    {
+        "ticker": "EMG",
+        "filename": "EMG-UPCOMINDEX.csv",
+        "length": 1510
+    },
+    {
+        "ticker": "EMS",
+        "filename": "EMS-UPCOMINDEX.csv",
+        "length": 1284
+    },
+    {
+        "ticker": "EPC",
+        "filename": "EPC-UPCOMINDEX.csv",
+        "length": 1100
+    },
+    {
+        "ticker": "EPH",
+        "filename": "EPH-UPCOMINDEX.csv",
+        "length": 1294
+    },
+    {
+        "ticker": "FBA",
+        "filename": "FBA-UPCOMINDEX.csv",
+        "length": 3003
+    },
+    {
+        "ticker": "FBC",
+        "filename": "FBC-UPCOMINDEX.csv",
+        "length": 1338
+    },
+    {
+        "ticker": "FCC",
+        "filename": "FCC-UPCOMINDEX.csv",
+        "length": 1706
+    },
+    {
+        "ticker": "FCS",
+        "filename": "FCS-UPCOMINDEX.csv",
+        "length": 1499
+    },
+    {
+        "ticker": "FGL",
+        "filename": "FGL-UPCOMINDEX.csv",
+        "length": 1113
+    },
+    {
+        "ticker": "FHN",
+        "filename": "FHN-UPCOMINDEX.csv",
+        "length": 1288
+    },
+    {
+        "ticker": "FHS",
+        "filename": "FHS-UPCOMINDEX.csv",
+        "length": 1079
+    },
+    {
+        "ticker": "FIC",
+        "filename": "FIC-UPCOMINDEX.csv",
+        "length": 1143
+    },
+    {
+        "ticker": "FLC",
+        "filename": "FLC-UPCOMINDEX.csv",
+        "length": 2834
+    },
+    {
+        "ticker": "FOC",
+        "filename": "FOC-UPCOMINDEX.csv",
+        "length": 1052
+    },
+    {
+        "ticker": "FOX",
+        "filename": "FOX-UPCOMINDEX.csv",
+        "length": 1529
+    },
+    {
+        "ticker": "FRC",
+        "filename": "FRC-UPCOMINDEX.csv",
+        "length": 1148
+    },
+    {
+        "ticker": "FRM",
+        "filename": "FRM-UPCOMINDEX.csv",
+        "length": 1313
+    },
+    {
+        "ticker": "FSO",
+        "filename": "FSO-UPCOMINDEX.csv",
+        "length": 1518
+    },
+    {
+        "ticker": "FT1",
+        "filename": "FT1-UPCOMINDEX.csv",
+        "length": 1355
+    },
+    {
+        "ticker": "FTI",
+        "filename": "FTI-UPCOMINDEX.csv",
+        "length": 1333
+    },
+    {
+        "ticker": "FTM",
+        "filename": "FTM-UPCOMINDEX.csv",
+        "length": 1510
+    },
+    {
+        "ticker": "G20",
+        "filename": "G20-UPCOMINDEX.csv",
+        "length": 1988
+    },
+    {
+        "ticker": "G36",
+        "filename": "G36-UPCOMINDEX.csv",
+        "length": 1542
+    },
+    {
+        "ticker": "GCB",
+        "filename": "GCB-UPCOMINDEX.csv",
+        "length": 1540
+    },
+    {
+        "ticker": "GCF",
+        "filename": "GCF-UPCOMINDEX.csv",
+        "length": 45
+    },
+    {
+        "ticker": "GEE",
+        "filename": "GEE-UPCOMINDEX.csv",
+        "length": 245
+    },
+    {
+        "ticker": "GER",
+        "filename": "GER-UPCOMINDEX.csv",
+        "length": 3175
+    },
+    {
+        "ticker": "GGG",
+        "filename": "GGG-UPCOMINDEX.csv",
+        "length": 3280
+    },
+    {
+        "ticker": "GH3",
+        "filename": "GH3-UPCOMINDEX.csv",
+        "length": 391
+    },
+    {
+        "ticker": "GHC",
+        "filename": "GHC-UPCOMINDEX.csv",
+        "length": 2958
+    },
+    {
+        "ticker": "GLC",
+        "filename": "GLC-UPCOMINDEX.csv",
+        "length": 1032
+    },
+    {
+        "ticker": "GLW",
+        "filename": "GLW-UPCOMINDEX.csv",
+        "length": 1283
+    },
+    {
+        "ticker": "GND",
+        "filename": "GND-UPCOMINDEX.csv",
+        "length": 1507
+    },
+    {
+        "ticker": "GPC",
+        "filename": "GPC-UPCOMINDEX.csv",
+        "length": 33
+    },
+    {
+        "ticker": "GSM",
+        "filename": "GSM-UPCOMINDEX.csv",
+        "length": 1975
+    },
+    {
+        "ticker": "GTD",
+        "filename": "GTD-UPCOMINDEX.csv",
+        "length": 1548
+    },
+    {
+        "ticker": "GTH",
+        "filename": "GTH-UPCOMINDEX.csv",
+        "length": 3266
+    },
+    {
+        "ticker": "GTS",
+        "filename": "GTS-UPCOMINDEX.csv",
+        "length": 1588
+    },
+    {
+        "ticker": "GTT",
+        "filename": "GTT-UPCOMINDEX.csv",
+        "length": 3156
+    },
+    {
+        "ticker": "GVT",
+        "filename": "GVT-UPCOMINDEX.csv",
+        "length": 1530
+    },
+    {
+        "ticker": "H11",
+        "filename": "H11-UPCOMINDEX.csv",
+        "length": 2956
+    },
+    {
+        "ticker": "HAC",
+        "filename": "HAC-UPCOMINDEX.csv",
+        "length": 1591
+    },
+    {
+        "ticker": "HAF",
+        "filename": "HAF-UPCOMINDEX.csv",
+        "length": 1401
+    },
+    {
+        "ticker": "HAM",
+        "filename": "HAM-UPCOMINDEX.csv",
+        "length": 1381
+    },
+    {
+        "ticker": "HAN",
+        "filename": "HAN-UPCOMINDEX.csv",
+        "length": 1589
+    },
+    {
+        "ticker": "HAV",
+        "filename": "HAV-UPCOMINDEX.csv",
+        "length": 1309
+    },
+    {
+        "ticker": "HBD",
+        "filename": "HBD-UPCOMINDEX.csv",
+        "length": 3376
+    },
+    {
+        "ticker": "HBH",
+        "filename": "HBH-UPCOMINDEX.csv",
+        "length": 1388
+    },
+    {
+        "ticker": "HC1",
+        "filename": "HC1-UPCOMINDEX.csv",
+        "length": 785
+    },
+    {
+        "ticker": "HC3",
+        "filename": "HC3-UPCOMINDEX.csv",
+        "length": 1410
+    },
+    {
+        "ticker": "HCB",
+        "filename": "HCB-UPCOMINDEX.csv",
+        "length": 797
+    },
+    {
+        "ticker": "HCI",
+        "filename": "HCI-UPCOMINDEX.csv",
+        "length": 3106
+    },
+    {
+        "ticker": "HD2",
+        "filename": "HD2-UPCOMINDEX.csv",
+        "length": 1701
+    },
+    {
+        "ticker": "HD6",
+        "filename": "HD6-UPCOMINDEX.csv",
+        "length": 564
+    },
+    {
+        "ticker": "HD8",
+        "filename": "HD8-UPCOMINDEX.csv",
+        "length": 990
+    },
+    {
+        "ticker": "HDM",
+        "filename": "HDM-UPCOMINDEX.csv",
+        "length": 3239
+    },
+    {
+        "ticker": "HDO",
+        "filename": "HDO-UPCOMINDEX.csv",
+        "length": 3253
+    },
+    {
+        "ticker": "HDP",
+        "filename": "HDP-UPCOMINDEX.csv",
+        "length": 1490
+    },
+    {
+        "ticker": "HDW",
+        "filename": "HDW-UPCOMINDEX.csv",
+        "length": 1328
+    },
+    {
+        "ticker": "HEC",
+        "filename": "HEC-UPCOMINDEX.csv",
+        "length": 1545
+    },
+    {
+        "ticker": "HEJ",
+        "filename": "HEJ-UPCOMINDEX.csv",
+        "length": 1407
+    },
+    {
+        "ticker": "HEM",
+        "filename": "HEM-UPCOMINDEX.csv",
+        "length": 1537
+    },
+    {
+        "ticker": "HEP",
+        "filename": "HEP-UPCOMINDEX.csv",
+        "length": 1298
+    },
+    {
+        "ticker": "HES",
+        "filename": "HES-UPCOMINDEX.csv",
+        "length": 1555
+    },
+    {
+        "ticker": "HFB",
+        "filename": "HFB-UPCOMINDEX.csv",
+        "length": 1480
+    },
+    {
+        "ticker": "HFC",
+        "filename": "HFC-UPCOMINDEX.csv",
+        "length": 3236
+    },
+    {
+        "ticker": "HFX",
+        "filename": "HFX-UPCOMINDEX.csv",
+        "length": 2819
+    },
+    {
+        "ticker": "HGT",
+        "filename": "HGT-UPCOMINDEX.csv",
+        "length": 591
+    },
+    {
+        "ticker": "HGW",
+        "filename": "HGW-UPCOMINDEX.csv",
+        "length": 1531
+    },
+    {
+        "ticker": "HHN",
+        "filename": "HHN-UPCOMINDEX.csv",
+        "length": 1548
+    },
+    {
+        "ticker": "HHR",
+        "filename": "HHR-UPCOMINDEX.csv",
+        "length": 1509
+    },
+    {
+        "ticker": "HIG",
+        "filename": "HIG-UPCOMINDEX.csv",
+        "length": 3346
+    },
+    {
+        "ticker": "HIZ",
+        "filename": "HIZ-UPCOMINDEX.csv",
+        "length": 862
+    },
+    {
+        "ticker": "HJC",
+        "filename": "HJC-UPCOMINDEX.csv",
+        "length": 1845
+    },
+    {
+        "ticker": "HKB",
+        "filename": "HKB-UPCOMINDEX.csv",
+        "length": 1969
+    },
+    {
+        "ticker": "HKP",
+        "filename": "HKP-UPCOMINDEX.csv",
+        "length": 1724
+    },
+    {
+        "ticker": "HLA",
+        "filename": "HLA-UPCOMINDEX.csv",
+        "length": 3549
+    },
+    {
+        "ticker": "HLB",
+        "filename": "HLB-UPCOMINDEX.csv",
+        "length": 1516
+    },
+    {
+        "ticker": "HLG",
+        "filename": "HLG-UPCOMINDEX.csv",
+        "length": 3356
+    },
+    {
+        "ticker": "HLR",
+        "filename": "HLR-UPCOMINDEX.csv",
+        "length": 1562
+    },
+    {
+        "ticker": "HLS",
+        "filename": "HLS-UPCOMINDEX.csv",
+        "length": 1342
+    },
+    {
+        "ticker": "HLT",
+        "filename": "HLT-UPCOMINDEX.csv",
+        "length": 790
+    },
+    {
+        "ticker": "HLY",
+        "filename": "HLY-UPCOMINDEX.csv",
+        "length": 4027
+    },
+    {
+        "ticker": "HMG",
+        "filename": "HMG-UPCOMINDEX.csv",
+        "length": 1618
+    },
+    {
+        "ticker": "HMS",
+        "filename": "HMS-UPCOMINDEX.csv",
+        "length": 1436
+    },
+    {
+        "ticker": "HNA",
+        "filename": "HNA-UPCOMINDEX.csv",
+        "length": 1349
+    },
+    {
+        "ticker": "HNB",
+        "filename": "HNB-UPCOMINDEX.csv",
+        "length": 1839
+    },
+    {
+        "ticker": "HND",
+        "filename": "HND-UPCOMINDEX.csv",
+        "length": 1600
+    },
+    {
+        "ticker": "HNF",
+        "filename": "HNF-UPCOMINDEX.csv",
+        "length": 1831
+    },
+    {
+        "ticker": "HNI",
+        "filename": "HNI-UPCOMINDEX.csv",
+        "length": 1301
+    },
+    {
+        "ticker": "HNM",
+        "filename": "HNM-UPCOMINDEX.csv",
+        "length": 4026
+    },
+    {
+        "ticker": "HNP",
+        "filename": "HNP-UPCOMINDEX.csv",
+        "length": 1546
+    },
+    {
+        "ticker": "HNR",
+        "filename": "HNR-UPCOMINDEX.csv",
+        "length": 1182
+    },
+    {
+        "ticker": "HPB",
+        "filename": "HPB-UPCOMINDEX.csv",
+        "length": 3141
+    },
+    {
+        "ticker": "HPD",
+        "filename": "HPD-UPCOMINDEX.csv",
+        "length": 1933
+    },
+    {
+        "ticker": "HPH",
+        "filename": "HPH-UPCOMINDEX.csv",
+        "length": 1289
+    },
+    {
+        "ticker": "HPI",
+        "filename": "HPI-UPCOMINDEX.csv",
+        "length": 1349
+    },
+    {
+        "ticker": "HPM",
+        "filename": "HPM-UPCOMINDEX.csv",
+        "length": 1766
+    },
+    {
+        "ticker": "HPP",
+        "filename": "HPP-UPCOMINDEX.csv",
+        "length": 3134
+    },
+    {
+        "ticker": "HPT",
+        "filename": "HPT-UPCOMINDEX.csv",
+        "length": 3166
+    },
+    {
+        "ticker": "HPW",
+        "filename": "HPW-UPCOMINDEX.csv",
+        "length": 1567
+    },
+    {
+        "ticker": "HRB",
+        "filename": "HRB-UPCOMINDEX.csv",
+        "length": 1327
+    },
+    {
+        "ticker": "HRT",
+        "filename": "HRT-UPCOMINDEX.csv",
+        "length": 1614
+    },
+    {
+        "ticker": "HSA",
+        "filename": "HSA-UPCOMINDEX.csv",
+        "length": 1523
+    },
+    {
+        "ticker": "HSI",
+        "filename": "HSI-UPCOMINDEX.csv",
+        "length": 3775
+    },
+    {
+        "ticker": "HSM",
+        "filename": "HSM-UPCOMINDEX.csv",
+        "length": 1215
+    },
+    {
+        "ticker": "HSP",
+        "filename": "HSP-UPCOMINDEX.csv",
+        "length": 730
+    },
+    {
+        "ticker": "HSV",
+        "filename": "HSV-UPCOMINDEX.csv",
+        "length": 460
+    },
+    {
+        "ticker": "HTE",
+        "filename": "HTE-UPCOMINDEX.csv",
+        "length": 1401
+    },
+    {
+        "ticker": "HTG",
+        "filename": "HTG-UPCOMINDEX.csv",
+        "length": 1429
+    },
+    {
+        "ticker": "HTM",
+        "filename": "HTM-UPCOMINDEX.csv",
+        "length": 1207
+    },
+    {
+        "ticker": "HTR",
+        "filename": "HTR-UPCOMINDEX.csv",
+        "length": 1506
+    },
+    {
+        "ticker": "HTT",
+        "filename": "HTT-UPCOMINDEX.csv",
+        "length": 1410
+    },
+    {
+        "ticker": "HTW",
+        "filename": "HTW-UPCOMINDEX.csv",
+        "length": 1550
+    },
+    {
+        "ticker": "HU4",
+        "filename": "HU4-UPCOMINDEX.csv",
+        "length": 1769
+    },
+    {
+        "ticker": "HU6",
+        "filename": "HU6-UPCOMINDEX.csv",
+        "length": 1819
+    },
+    {
+        "ticker": "HUG",
+        "filename": "HUG-UPCOMINDEX.csv",
+        "length": 1297
+    },
+    {
+        "ticker": "HVA",
+        "filename": "HVA-UPCOMINDEX.csv",
+        "length": 1892
+    },
+    {
+        "ticker": "HVG",
+        "filename": "HVG-UPCOMINDEX.csv",
+        "length": 3302
+    },
+    {
+        "ticker": "HWS",
+        "filename": "HWS-UPCOMINDEX.csv",
+        "length": 1147
+    },
+    {
+        "ticker": "IBD",
+        "filename": "IBD-UPCOMINDEX.csv",
+        "length": 944
+    },
+    {
+        "ticker": "ICC",
+        "filename": "ICC-UPCOMINDEX.csv",
+        "length": 1689
+    },
+    {
+        "ticker": "ICF",
+        "filename": "ICF-UPCOMINDEX.csv",
+        "length": 3937
+    },
+    {
+        "ticker": "ICI",
+        "filename": "ICI-UPCOMINDEX.csv",
+        "length": 3154
+    },
+    {
+        "ticker": "ICN",
+        "filename": "ICN-UPCOMINDEX.csv",
+        "length": 1932
+    },
+    {
+        "ticker": "IDP",
+        "filename": "IDP-UPCOMINDEX.csv",
+        "length": 532
+    },
+    {
+        "ticker": "IFS",
+        "filename": "IFS-UPCOMINDEX.csv",
+        "length": 3194
+    },
+    {
+        "ticker": "IHK",
+        "filename": "IHK-UPCOMINDEX.csv",
+        "length": 3233
+    },
+    {
+        "ticker": "ILA",
+        "filename": "ILA-UPCOMINDEX.csv",
+        "length": 1311
+    },
+    {
+        "ticker": "ILC",
+        "filename": "ILC-UPCOMINDEX.csv",
+        "length": 3190
+    },
+    {
+        "ticker": "ILS",
+        "filename": "ILS-UPCOMINDEX.csv",
+        "length": 1238
+    },
+    {
+        "ticker": "IME",
+        "filename": "IME-UPCOMINDEX.csv",
+        "length": 3247
+    },
+    {
+        "ticker": "IN4",
+        "filename": "IN4-UPCOMINDEX.csv",
+        "length": 3183
+    },
+    {
+        "ticker": "IRC",
+        "filename": "IRC-UPCOMINDEX.csv",
+        "length": 1273
+    },
+    {
+        "ticker": "ISG",
+        "filename": "ISG-UPCOMINDEX.csv",
+        "length": 1861
+    },
+    {
+        "ticker": "ISH",
+        "filename": "ISH-UPCOMINDEX.csv",
+        "length": 1921
+    },
+    {
+        "ticker": "IST",
+        "filename": "IST-UPCOMINDEX.csv",
+        "length": 1535
+    },
+    {
+        "ticker": "ITS",
+        "filename": "ITS-UPCOMINDEX.csv",
+        "length": 1798
+    },
+    {
+        "ticker": "JOS",
+        "filename": "JOS-UPCOMINDEX.csv",
+        "length": 1397
+    },
+    {
+        "ticker": "KAC",
+        "filename": "KAC-UPCOMINDEX.csv",
+        "length": 3072
+    },
+    {
+        "ticker": "KCB",
+        "filename": "KCB-UPCOMINDEX.csv",
+        "length": 1811
+    },
+    {
+        "ticker": "KCE",
+        "filename": "KCE-UPCOMINDEX.csv",
+        "length": 3011
+    },
+    {
+        "ticker": "KGM",
+        "filename": "KGM-UPCOMINDEX.csv",
+        "length": 1359
+    },
+    {
+        "ticker": "KHA",
+        "filename": "KHA-UPCOMINDEX.csv",
+        "length": 5113
+    },
+    {
+        "ticker": "KHD",
+        "filename": "KHD-UPCOMINDEX.csv",
+        "length": 1544
+    },
+    {
+        "ticker": "KHL",
+        "filename": "KHL-UPCOMINDEX.csv",
+        "length": 2748
+    },
+    {
+        "ticker": "KHW",
+        "filename": "KHW-UPCOMINDEX.csv",
+        "length": 1508
+    },
+    {
+        "ticker": "KIP",
+        "filename": "KIP-UPCOMINDEX.csv",
+        "length": 1722
+    },
+    {
+        "ticker": "KLB",
+        "filename": "KLB-UPCOMINDEX.csv",
+        "length": 1418
+    },
+    {
+        "ticker": "KLM",
+        "filename": "KLM-UPCOMINDEX.csv",
+        "length": 789
+    },
+    {
+        "ticker": "KSH",
+        "filename": "KSH-UPCOMINDEX.csv",
+        "length": 3558
+    },
+    {
+        "ticker": "KSK",
+        "filename": "KSK-UPCOMINDEX.csv",
+        "length": 1995
+    },
+    {
+        "ticker": "KSS",
+        "filename": "KSS-UPCOMINDEX.csv",
+        "length": 1644
+    },
+    {
+        "ticker": "KTC",
+        "filename": "KTC-UPCOMINDEX.csv",
+        "length": 1172
+    },
+    {
+        "ticker": "KTL",
+        "filename": "KTL-UPCOMINDEX.csv",
+        "length": 2029
+    },
+    {
+        "ticker": "KTU",
+        "filename": "KTU-UPCOMINDEX.csv",
+        "length": 676
+    },
+    {
+        "ticker": "L12",
+        "filename": "L12-UPCOMINDEX.csv",
+        "length": 1537
+    },
+    {
+        "ticker": "L44",
+        "filename": "L44-UPCOMINDEX.csv",
+        "length": 3285
+    },
+    {
+        "ticker": "L45",
+        "filename": "L45-UPCOMINDEX.csv",
+        "length": 1589
+    },
+    {
+        "ticker": "L63",
+        "filename": "L63-UPCOMINDEX.csv",
+        "length": 1599
+    },
+    {
+        "ticker": "LAI",
+        "filename": "LAI-UPCOMINDEX.csv",
+        "length": 1891
+    },
+    {
+        "ticker": "LAW",
+        "filename": "LAW-UPCOMINDEX.csv",
+        "length": 1797
+    },
+    {
+        "ticker": "LBC",
+        "filename": "LBC-UPCOMINDEX.csv",
+        "length": 1384
+    },
+    {
+        "ticker": "LCC",
+        "filename": "LCC-UPCOMINDEX.csv",
+        "length": 3192
+    },
+    {
+        "ticker": "LCM",
+        "filename": "LCM-UPCOMINDEX.csv",
+        "length": 2852
+    },
+    {
+        "ticker": "LCW",
+        "filename": "LCW-UPCOMINDEX.csv",
+        "length": 1560
+    },
+    {
+        "ticker": "LDW",
+        "filename": "LDW-UPCOMINDEX.csv",
+        "length": 1239
+    },
+    {
+        "ticker": "LG9",
+        "filename": "LG9-UPCOMINDEX.csv",
+        "length": 1297
+    },
+    {
+        "ticker": "LGM",
+        "filename": "LGM-UPCOMINDEX.csv",
+        "length": 797
+    },
+    {
+        "ticker": "LIC",
+        "filename": "LIC-UPCOMINDEX.csv",
+        "length": 1436
+    },
+    {
+        "ticker": "LKW",
+        "filename": "LKW-UPCOMINDEX.csv",
+        "length": 2660
+    },
+    {
+        "ticker": "LLM",
+        "filename": "LLM-UPCOMINDEX.csv",
+        "length": 1384
+    },
+    {
+        "ticker": "LM3",
+        "filename": "LM3-UPCOMINDEX.csv",
+        "length": 3293
+    },
+    {
+        "ticker": "LMC",
+        "filename": "LMC-UPCOMINDEX.csv",
+        "length": 1359
+    },
+    {
+        "ticker": "LMH",
+        "filename": "LMH-UPCOMINDEX.csv",
+        "length": 1089
+    },
+    {
+        "ticker": "LMI",
+        "filename": "LMI-UPCOMINDEX.csv",
+        "length": 1403
+    },
+    {
+        "ticker": "LNC",
+        "filename": "LNC-UPCOMINDEX.csv",
+        "length": 915
+    },
+    {
+        "ticker": "LO5",
+        "filename": "LO5-UPCOMINDEX.csv",
+        "length": 3284
+    },
+    {
+        "ticker": "LPT",
+        "filename": "LPT-UPCOMINDEX.csv",
+        "length": 472
+    },
+    {
+        "ticker": "LQN",
+        "filename": "LQN-UPCOMINDEX.csv",
+        "length": 1581
+    },
+    {
+        "ticker": "LSG",
+        "filename": "LSG-UPCOMINDEX.csv",
+        "length": 201
+    },
+    {
+        "ticker": "LTC",
+        "filename": "LTC-UPCOMINDEX.csv",
+        "length": 4034
+    },
+    {
+        "ticker": "LTG",
+        "filename": "LTG-UPCOMINDEX.csv",
+        "length": 1401
+    },
+    {
+        "ticker": "LWS",
+        "filename": "LWS-UPCOMINDEX.csv",
+        "length": 1293
+    },
+    {
+        "ticker": "M10",
+        "filename": "M10-UPCOMINDEX.csv",
+        "length": 1281
+    },
+    {
+        "ticker": "MA1",
+        "filename": "MA1-UPCOMINDEX.csv",
+        "length": 668
+    },
+    {
+        "ticker": "MBN",
+        "filename": "MBN-UPCOMINDEX.csv",
+        "length": 1100
+    },
+    {
+        "ticker": "MCD",
+        "filename": "MCD-UPCOMINDEX.csv",
+        "length": 88
+    },
+    {
+        "ticker": "MCH",
+        "filename": "MCH-UPCOMINDEX.csv",
+        "length": 1535
+    },
+    {
+        "ticker": "MCI",
+        "filename": "MCI-UPCOMINDEX.csv",
+        "length": 1871
+    },
+    {
+        "ticker": "MCM",
+        "filename": "MCM-UPCOMINDEX.csv",
+        "length": 545
+    },
+    {
+        "ticker": "MCT",
+        "filename": "MCT-UPCOMINDEX.csv",
+        "length": 1269
+    },
+    {
+        "ticker": "MDA",
+        "filename": "MDA-UPCOMINDEX.csv",
+        "length": 1281
+    },
+    {
+        "ticker": "MDF",
+        "filename": "MDF-UPCOMINDEX.csv",
+        "length": 2998
+    },
+    {
+        "ticker": "MEC",
+        "filename": "MEC-UPCOMINDEX.csv",
+        "length": 4035
+    },
+    {
+        "ticker": "MEF",
+        "filename": "MEF-UPCOMINDEX.csv",
+        "length": 2805
+    },
+    {
+        "ticker": "MES",
+        "filename": "MES-UPCOMINDEX.csv",
+        "length": 1552
+    },
+    {
+        "ticker": "MFS",
+        "filename": "MFS-UPCOMINDEX.csv",
+        "length": 969
+    },
+    {
+        "ticker": "MGC",
+        "filename": "MGC-UPCOMINDEX.csv",
+        "length": 1683
+    },
+    {
+        "ticker": "MGG",
+        "filename": "MGG-UPCOMINDEX.csv",
+        "length": 1327
+    },
+    {
+        "ticker": "MGR",
+        "filename": "MGR-UPCOMINDEX.csv",
+        "length": 209
+    },
+    {
+        "ticker": "MH3",
+        "filename": "MH3-UPCOMINDEX.csv",
+        "length": 1498
+    },
+    {
+        "ticker": "MIC",
+        "filename": "MIC-UPCOMINDEX.csv",
+        "length": 3645
+    },
+    {
+        "ticker": "MIE",
+        "filename": "MIE-UPCOMINDEX.csv",
+        "length": 1298
+    },
+    {
+        "ticker": "MKP",
+        "filename": "MKP-UPCOMINDEX.csv",
+        "length": 1796
+    },
+    {
+        "ticker": "MLC",
+        "filename": "MLC-UPCOMINDEX.csv",
+        "length": 1445
+    },
+    {
+        "ticker": "MLS",
+        "filename": "MLS-UPCOMINDEX.csv",
+        "length": 1535
+    },
+    {
+        "ticker": "MML",
+        "filename": "MML-UPCOMINDEX.csv",
+        "length": 804
+    },
+    {
+        "ticker": "MNB",
+        "filename": "MNB-UPCOMINDEX.csv",
+        "length": 1212
+    },
+    {
+        "ticker": "MND",
+        "filename": "MND-UPCOMINDEX.csv",
+        "length": 1387
+    },
+    {
+        "ticker": "MPC",
+        "filename": "MPC-UPCOMINDEX.csv",
+        "length": 3325
+    },
+    {
+        "ticker": "MPT",
+        "filename": "MPT-UPCOMINDEX.csv",
+        "length": 1773
+    },
+    {
+        "ticker": "MPY",
+        "filename": "MPY-UPCOMINDEX.csv",
+        "length": 1451
+    },
+    {
+        "ticker": "MQB",
+        "filename": "MQB-UPCOMINDEX.csv",
+        "length": 1325
+    },
+    {
+        "ticker": "MQN",
+        "filename": "MQN-UPCOMINDEX.csv",
+        "length": 1172
+    },
+    {
+        "ticker": "MRF",
+        "filename": "MRF-UPCOMINDEX.csv",
+        "length": 1301
+    },
+    {
+        "ticker": "MSR",
+        "filename": "MSR-UPCOMINDEX.csv",
+        "length": 1864
+    },
+    {
+        "ticker": "MTA",
+        "filename": "MTA-UPCOMINDEX.csv",
+        "length": 1840
+    },
+    {
+        "ticker": "MTB",
+        "filename": "MTB-UPCOMINDEX.csv",
+        "length": 551
+    },
+    {
+        "ticker": "MTC",
+        "filename": "MTC-UPCOMINDEX.csv",
+        "length": 2628
+    },
+    {
+        "ticker": "MTG",
+        "filename": "MTG-UPCOMINDEX.csv",
+        "length": 3509
+    },
+    {
+        "ticker": "MTH",
+        "filename": "MTH-UPCOMINDEX.csv",
+        "length": 3009
+    },
+    {
+        "ticker": "MTL",
+        "filename": "MTL-UPCOMINDEX.csv",
+        "length": 1705
+    },
+    {
+        "ticker": "MTP",
+        "filename": "MTP-UPCOMINDEX.csv",
+        "length": 3102
+    },
+    {
+        "ticker": "MTS",
+        "filename": "MTS-UPCOMINDEX.csv",
+        "length": 1460
+    },
+    {
+        "ticker": "MTV",
+        "filename": "MTV-UPCOMINDEX.csv",
+        "length": 1384
+    },
+    {
+        "ticker": "MVC",
+        "filename": "MVC-UPCOMINDEX.csv",
+        "length": 1486
+    },
+    {
+        "ticker": "MVN",
+        "filename": "MVN-UPCOMINDEX.csv",
+        "length": 1097
+    },
+    {
+        "ticker": "NAB",
+        "filename": "NAB-UPCOMINDEX.csv",
+        "length": 595
+    },
+    {
+        "ticker": "NAC",
+        "filename": "NAC-UPCOMINDEX.csv",
+        "length": 1487
+    },
+    {
+        "ticker": "NAS",
+        "filename": "NAS-UPCOMINDEX.csv",
+        "length": 1521
+    },
+    {
+        "ticker": "NAU",
+        "filename": "NAU-UPCOMINDEX.csv",
+        "length": 1167
+    },
+    {
+        "ticker": "NAW",
+        "filename": "NAW-UPCOMINDEX.csv",
+        "length": 1392
+    },
+    {
+        "ticker": "NBE",
+        "filename": "NBE-UPCOMINDEX.csv",
+        "length": 1381
+    },
+    {
+        "ticker": "NBT",
+        "filename": "NBT-UPCOMINDEX.csv",
+        "length": 1689
+    },
+    {
+        "ticker": "NCS",
+        "filename": "NCS-UPCOMINDEX.csv",
+        "length": 1810
+    },
+    {
+        "ticker": "ND2",
+        "filename": "ND2-UPCOMINDEX.csv",
+        "length": 3143
+    },
+    {
+        "ticker": "NDC",
+        "filename": "NDC-UPCOMINDEX.csv",
+        "length": 3228
+    },
+    {
+        "ticker": "NDF",
+        "filename": "NDF-UPCOMINDEX.csv",
+        "length": 2110
+    },
+    {
+        "ticker": "NDP",
+        "filename": "NDP-UPCOMINDEX.csv",
+        "length": 1818
+    },
+    {
+        "ticker": "NDT",
+        "filename": "NDT-UPCOMINDEX.csv",
+        "length": 1116
+    },
+    {
+        "ticker": "NDW",
+        "filename": "NDW-UPCOMINDEX.csv",
+        "length": 932
+    },
+    {
+        "ticker": "NED",
+        "filename": "NED-UPCOMINDEX.csv",
+        "length": 1382
+    },
+    {
+        "ticker": "NGC",
+        "filename": "NGC-UPCOMINDEX.csv",
+        "length": 3734
+    },
+    {
+        "ticker": "NHP",
+        "filename": "NHP-UPCOMINDEX.csv",
+        "length": 1989
+    },
+    {
+        "ticker": "NHV",
+        "filename": "NHV-UPCOMINDEX.csv",
+        "length": 1429
+    },
+    {
+        "ticker": "NJC",
+        "filename": "NJC-UPCOMINDEX.csv",
+        "length": 542
+    },
+    {
+        "ticker": "NLS",
+        "filename": "NLS-UPCOMINDEX.csv",
+        "length": 1647
+    },
+    {
+        "ticker": "NNG",
+        "filename": "NNG-UPCOMINDEX.csv",
+        "length": 1981
+    },
+    {
+        "ticker": "NNT",
+        "filename": "NNT-UPCOMINDEX.csv",
+        "length": 2668
+    },
+    {
+        "ticker": "NOS",
+        "filename": "NOS-UPCOMINDEX.csv",
+        "length": 3025
+    },
+    {
+        "ticker": "NQB",
+        "filename": "NQB-UPCOMINDEX.csv",
+        "length": 1908
+    },
+    {
+        "ticker": "NQN",
+        "filename": "NQN-UPCOMINDEX.csv",
+        "length": 1177
+    },
+    {
+        "ticker": "NQT",
+        "filename": "NQT-UPCOMINDEX.csv",
+        "length": 1553
+    },
+    {
+        "ticker": "NS2",
+        "filename": "NS2-UPCOMINDEX.csv",
+        "length": 1560
+    },
+    {
+        "ticker": "NSG",
+        "filename": "NSG-UPCOMINDEX.csv",
+        "length": 1698
+    },
+    {
+        "ticker": "NSL",
+        "filename": "NSL-UPCOMINDEX.csv",
+        "length": 903
+    },
+    {
+        "ticker": "NSS",
+        "filename": "NSS-UPCOMINDEX.csv",
+        "length": 1081
+    },
+    {
+        "ticker": "NTB",
+        "filename": "NTB-UPCOMINDEX.csv",
+        "length": 3069
+    },
+    {
+        "ticker": "NTC",
+        "filename": "NTC-UPCOMINDEX.csv",
+        "length": 1547
+    },
+    {
+        "ticker": "NTF",
+        "filename": "NTF-UPCOMINDEX.csv",
+        "length": 915
+    },
+    {
+        "ticker": "NTT",
+        "filename": "NTT-UPCOMINDEX.csv",
+        "length": 1290
+    },
+    {
+        "ticker": "NTW",
+        "filename": "NTW-UPCOMINDEX.csv",
+        "length": 2720
+    },
+    {
+        "ticker": "NUE",
+        "filename": "NUE-UPCOMINDEX.csv",
+        "length": 1508
+    },
+    {
+        "ticker": "NVP",
+        "filename": "NVP-UPCOMINDEX.csv",
+        "length": 1549
+    },
+    {
+        "ticker": "NWT",
+        "filename": "NWT-UPCOMINDEX.csv",
+        "length": 1731
+    },
+    {
+        "ticker": "NXT",
+        "filename": "NXT-UPCOMINDEX.csv",
+        "length": 302
+    },
+    {
+        "ticker": "ODE",
+        "filename": "ODE-UPCOMINDEX.csv",
+        "length": 281
+    },
+    {
+        "ticker": "OIL",
+        "filename": "OIL-UPCOMINDEX.csv",
+        "length": 1246
+    },
+    {
+        "ticker": "ONW",
+        "filename": "ONW-UPCOMINDEX.csv",
+        "length": 1509
+    },
+    {
+        "ticker": "PAI",
+        "filename": "PAI-UPCOMINDEX.csv",
+        "length": 1523
+    },
+    {
+        "ticker": "PAP",
+        "filename": "PAP-UPCOMINDEX.csv",
+        "length": 406
+    },
+    {
+        "ticker": "PAS",
+        "filename": "PAS-UPCOMINDEX.csv",
+        "length": 609
+    },
+    {
+        "ticker": "PAT",
+        "filename": "PAT-UPCOMINDEX.csv",
+        "length": 175
+    },
+    {
+        "ticker": "PBC",
+        "filename": "PBC-UPCOMINDEX.csv",
+        "length": 813
+    },
+    {
+        "ticker": "PBK",
+        "filename": "PBK-UPCOMINDEX.csv",
+        "length": 769
+    },
+    {
+        "ticker": "PBT",
+        "filename": "PBT-UPCOMINDEX.csv",
+        "length": 1025
+    },
+    {
+        "ticker": "PCC",
+        "filename": "PCC-UPCOMINDEX.csv",
+        "length": 1321
+    },
+    {
+        "ticker": "PCF",
+        "filename": "PCF-UPCOMINDEX.csv",
+        "length": 1481
+    },
+    {
+        "ticker": "PCM",
+        "filename": "PCM-UPCOMINDEX.csv",
+        "length": 1388
+    },
+    {
+        "ticker": "PCN",
+        "filename": "PCN-UPCOMINDEX.csv",
+        "length": 1792
+    },
+    {
+        "ticker": "PDC",
+        "filename": "PDC-UPCOMINDEX.csv",
+        "length": 3343
+    },
+    {
+        "ticker": "PDV",
+        "filename": "PDV-UPCOMINDEX.csv",
+        "length": 1466
+    },
+    {
+        "ticker": "PEC",
+        "filename": "PEC-UPCOMINDEX.csv",
+        "length": 3093
+    },
+    {
+        "ticker": "PEG",
+        "filename": "PEG-UPCOMINDEX.csv",
+        "length": 1077
+    },
+    {
+        "ticker": "PEQ",
+        "filename": "PEQ-UPCOMINDEX.csv",
+        "length": 1778
+    },
+    {
+        "ticker": "PFL",
+        "filename": "PFL-UPCOMINDEX.csv",
+        "length": 3047
+    },
+    {
+        "ticker": "PGB",
+        "filename": "PGB-UPCOMINDEX.csv",
+        "length": 541
+    },
+    {
+        "ticker": "PHH",
+        "filename": "PHH-UPCOMINDEX.csv",
+        "length": 3219
+    },
+    {
+        "ticker": "PHP",
+        "filename": "PHP-UPCOMINDEX.csv",
+        "length": 1881
+    },
+    {
+        "ticker": "PHS",
+        "filename": "PHS-UPCOMINDEX.csv",
+        "length": 1796
+    },
+    {
+        "ticker": "PID",
+        "filename": "PID-UPCOMINDEX.csv",
+        "length": 2538
+    },
+    {
+        "ticker": "PIS",
+        "filename": "PIS-UPCOMINDEX.csv",
+        "length": 1782
+    },
+    {
+        "ticker": "PIV",
+        "filename": "PIV-UPCOMINDEX.csv",
+        "length": 3122
+    },
+    {
+        "ticker": "PJS",
+        "filename": "PJS-UPCOMINDEX.csv",
+        "length": 2802
+    },
+    {
+        "ticker": "PLA",
+        "filename": "PLA-UPCOMINDEX.csv",
+        "length": 1317
+    },
+    {
+        "ticker": "PLE",
+        "filename": "PLE-UPCOMINDEX.csv",
+        "length": 532
+    },
+    {
+        "ticker": "PLO",
+        "filename": "PLO-UPCOMINDEX.csv",
+        "length": 722
+    },
+    {
+        "ticker": "PMJ",
+        "filename": "PMJ-UPCOMINDEX.csv",
+        "length": 1669
+    },
+    {
+        "ticker": "PMT",
+        "filename": "PMT-UPCOMINDEX.csv",
+        "length": 3143
+    },
+    {
+        "ticker": "PMW",
+        "filename": "PMW-UPCOMINDEX.csv",
+        "length": 906
+    },
+    {
+        "ticker": "PND",
+        "filename": "PND-UPCOMINDEX.csv",
+        "length": 1508
+    },
+    {
+        "ticker": "PNG",
+        "filename": "PNG-UPCOMINDEX.csv",
+        "length": 1727
+    },
+    {
+        "ticker": "PNP",
+        "filename": "PNP-UPCOMINDEX.csv",
+        "length": 949
+    },
+    {
+        "ticker": "PNT",
+        "filename": "PNT-UPCOMINDEX.csv",
+        "length": 1528
+    },
+    {
+        "ticker": "POB",
+        "filename": "POB-UPCOMINDEX.csv",
+        "length": 1353
+    },
+    {
+        "ticker": "POS",
+        "filename": "POS-UPCOMINDEX.csv",
+        "length": 1563
+    },
+    {
+        "ticker": "POV",
+        "filename": "POV-UPCOMINDEX.csv",
+        "length": 3102
+    },
+    {
+        "ticker": "PPH",
+        "filename": "PPH-UPCOMINDEX.csv",
+        "length": 1379
+    },
+    {
+        "ticker": "PPI",
+        "filename": "PPI-UPCOMINDEX.csv",
+        "length": 3211
+    },
+    {
+        "ticker": "PPT",
+        "filename": "PPT-UPCOMINDEX.csv",
+        "length": 175
+    },
+    {
+        "ticker": "PQN",
+        "filename": "PQN-UPCOMINDEX.csv",
+        "length": 850
+    },
+    {
+        "ticker": "PRO",
+        "filename": "PRO-UPCOMINDEX.csv",
+        "length": 2095
+    },
+    {
+        "ticker": "PRT",
+        "filename": "PRT-UPCOMINDEX.csv",
+        "length": 1206
+    },
+    {
+        "ticker": "PSB",
+        "filename": "PSB-UPCOMINDEX.csv",
+        "length": 3236
+    },
+    {
+        "ticker": "PSG",
+        "filename": "PSG-UPCOMINDEX.csv",
+        "length": 2668
+    },
+    {
+        "ticker": "PSL",
+        "filename": "PSL-UPCOMINDEX.csv",
+        "length": 3185
+    },
+    {
+        "ticker": "PSN",
+        "filename": "PSN-UPCOMINDEX.csv",
+        "length": 1418
+    },
+    {
+        "ticker": "PSP",
+        "filename": "PSP-UPCOMINDEX.csv",
+        "length": 3257
+    },
+    {
+        "ticker": "PTE",
+        "filename": "PTE-UPCOMINDEX.csv",
+        "length": 1889
+    },
+    {
+        "ticker": "PTG",
+        "filename": "PTG-UPCOMINDEX.csv",
+        "length": 3243
+    },
+    {
+        "ticker": "PTH",
+        "filename": "PTH-UPCOMINDEX.csv",
+        "length": 3220
+    },
+    {
+        "ticker": "PTN",
+        "filename": "PTN-UPCOMINDEX.csv",
+        "length": 92
+    },
+    {
+        "ticker": "PTO",
+        "filename": "PTO-UPCOMINDEX.csv",
+        "length": 1425
+    },
+    {
+        "ticker": "PTP",
+        "filename": "PTP-UPCOMINDEX.csv",
+        "length": 3245
+    },
+    {
+        "ticker": "PTT",
+        "filename": "PTT-UPCOMINDEX.csv",
+        "length": 3195
+    },
+    {
+        "ticker": "PTV",
+        "filename": "PTV-UPCOMINDEX.csv",
+        "length": 828
+    },
+    {
+        "ticker": "PTX",
+        "filename": "PTX-UPCOMINDEX.csv",
+        "length": 1146
+    },
+    {
+        "ticker": "PVA",
+        "filename": "PVA-UPCOMINDEX.csv",
+        "length": 3466
+    },
+    {
+        "ticker": "PVE",
+        "filename": "PVE-UPCOMINDEX.csv",
+        "length": 3775
+    },
+    {
+        "ticker": "PVH",
+        "filename": "PVH-UPCOMINDEX.csv",
+        "length": 1447
+    },
+    {
+        "ticker": "PVM",
+        "filename": "PVM-UPCOMINDEX.csv",
+        "length": 1546
+    },
+    {
+        "ticker": "PVO",
+        "filename": "PVO-UPCOMINDEX.csv",
+        "length": 1782
+    },
+    {
+        "ticker": "PVR",
+        "filename": "PVR-UPCOMINDEX.csv",
+        "length": 3164
+    },
+    {
+        "ticker": "PVV",
+        "filename": "PVV-UPCOMINDEX.csv",
+        "length": 3107
+    },
+    {
+        "ticker": "PVX",
+        "filename": "PVX-UPCOMINDEX.csv",
+        "length": 3371
+    },
+    {
+        "ticker": "PVY",
+        "filename": "PVY-UPCOMINDEX.csv",
+        "length": 1288
+    },
+    {
+        "ticker": "PWA",
+        "filename": "PWA-UPCOMINDEX.csv",
+        "length": 932
+    },
+    {
+        "ticker": "PWS",
+        "filename": "PWS-UPCOMINDEX.csv",
+        "length": 1417
+    },
+    {
+        "ticker": "PX1",
+        "filename": "PX1-UPCOMINDEX.csv",
+        "length": 3053
+    },
+    {
+        "ticker": "PXA",
+        "filename": "PXA-UPCOMINDEX.csv",
+        "length": 2996
+    },
+    {
+        "ticker": "PXC",
+        "filename": "PXC-UPCOMINDEX.csv",
+        "length": 1509
+    },
+    {
+        "ticker": "PXI",
+        "filename": "PXI-UPCOMINDEX.csv",
+        "length": 3161
+    },
+    {
+        "ticker": "PXL",
+        "filename": "PXL-UPCOMINDEX.csv",
+        "length": 3042
+    },
+    {
+        "ticker": "PXM",
+        "filename": "PXM-UPCOMINDEX.csv",
+        "length": 3136
+    },
+    {
+        "ticker": "PXS",
+        "filename": "PXS-UPCOMINDEX.csv",
+        "length": 3172
+    },
+    {
+        "ticker": "PXT",
+        "filename": "PXT-UPCOMINDEX.csv",
+        "length": 3175
+    },
+    {
+        "ticker": "QCC",
+        "filename": "QCC-UPCOMINDEX.csv",
+        "length": 3085
+    },
+    {
+        "ticker": "QHW",
+        "filename": "QHW-UPCOMINDEX.csv",
+        "length": 1544
+    },
+    {
+        "ticker": "QNC",
+        "filename": "QNC-UPCOMINDEX.csv",
+        "length": 3764
+    },
+    {
+        "ticker": "QNS",
+        "filename": "QNS-UPCOMINDEX.csv",
+        "length": 1546
+    },
+    {
+        "ticker": "QNT",
+        "filename": "QNT-UPCOMINDEX.csv",
+        "length": 782
+    },
+    {
+        "ticker": "QNU",
+        "filename": "QNU-UPCOMINDEX.csv",
+        "length": 1502
+    },
+    {
+        "ticker": "QNW",
+        "filename": "QNW-UPCOMINDEX.csv",
+        "length": 1542
+    },
+    {
+        "ticker": "QPH",
+        "filename": "QPH-UPCOMINDEX.csv",
+        "length": 2158
+    },
+    {
+        "ticker": "QSP",
+        "filename": "QSP-UPCOMINDEX.csv",
+        "length": 1608
+    },
+    {
+        "ticker": "QTP",
+        "filename": "QTP-UPCOMINDEX.csv",
+        "length": 1490
+    },
+    {
+        "ticker": "RAT",
+        "filename": "RAT-UPCOMINDEX.csv",
+        "length": 1636
+    },
+    {
+        "ticker": "RBC",
+        "filename": "RBC-UPCOMINDEX.csv",
+        "length": 1760
+    },
+    {
+        "ticker": "RCC",
+        "filename": "RCC-UPCOMINDEX.csv",
+        "length": 1558
+    },
+    {
+        "ticker": "RCD",
+        "filename": "RCD-UPCOMINDEX.csv",
+        "length": 2012
+    },
+    {
+        "ticker": "RGC",
+        "filename": "RGC-UPCOMINDEX.csv",
+        "length": 1426
+    },
+    {
+        "ticker": "RIC",
+        "filename": "RIC-UPCOMINDEX.csv",
+        "length": 3877
+    },
+    {
+        "ticker": "ROS",
+        "filename": "ROS-UPCOMINDEX.csv",
+        "length": 1502
+    },
+    {
+        "ticker": "RTB",
+        "filename": "RTB-UPCOMINDEX.csv",
+        "length": 1577
+    },
+    {
+        "ticker": "S12",
+        "filename": "S12-UPCOMINDEX.csv",
+        "length": 3765
+    },
+    {
+        "ticker": "S27",
+        "filename": "S27-UPCOMINDEX.csv",
+        "length": 2724
+    },
+    {
+        "ticker": "S72",
+        "filename": "S72-UPCOMINDEX.csv",
+        "length": 1195
+    },
+    {
+        "ticker": "S74",
+        "filename": "S74-UPCOMINDEX.csv",
+        "length": 3405
+    },
+    {
+        "ticker": "S96",
+        "filename": "S96-UPCOMINDEX.csv",
+        "length": 3716
+    },
+    {
+        "ticker": "SAC",
+        "filename": "SAC-UPCOMINDEX.csv",
+        "length": 1576
+    },
+    {
+        "ticker": "SAL",
+        "filename": "SAL-UPCOMINDEX.csv",
+        "length": 1338
+    },
+    {
+        "ticker": "SAP",
+        "filename": "SAP-UPCOMINDEX.csv",
+        "length": 4035
+    },
+    {
+        "ticker": "SAS",
+        "filename": "SAS-UPCOMINDEX.csv",
+        "length": 1969
+    },
+    {
+        "ticker": "SB1",
+        "filename": "SB1-UPCOMINDEX.csv",
+        "length": 1542
+    },
+    {
+        "ticker": "SBD",
+        "filename": "SBD-UPCOMINDEX.csv",
+        "length": 1510
+    },
+    {
+        "ticker": "SBH",
+        "filename": "SBH-UPCOMINDEX.csv",
+        "length": 1183
+    },
+    {
+        "ticker": "SBL",
+        "filename": "SBL-UPCOMINDEX.csv",
+        "length": 1523
+    },
+    {
+        "ticker": "SBM",
+        "filename": "SBM-UPCOMINDEX.csv",
+        "length": 1359
+    },
+    {
+        "ticker": "SBR",
+        "filename": "SBR-UPCOMINDEX.csv",
+        "length": 579
+    },
+    {
+        "ticker": "SBS",
+        "filename": "SBS-UPCOMINDEX.csv",
+        "length": 2888
+    },
+    {
+        "ticker": "SCC",
+        "filename": "SCC-UPCOMINDEX.csv",
+        "length": 3735
+    },
+    {
+        "ticker": "SCJ",
+        "filename": "SCJ-UPCOMINDEX.csv",
+        "length": 3848
+    },
+    {
+        "ticker": "SCL",
+        "filename": "SCL-UPCOMINDEX.csv",
+        "length": 3103
+    },
+    {
+        "ticker": "SCO",
+        "filename": "SCO-UPCOMINDEX.csv",
+        "length": 3106
+    },
+    {
+        "ticker": "SCY",
+        "filename": "SCY-UPCOMINDEX.csv",
+        "length": 1335
+    },
+    {
+        "ticker": "SD1",
+        "filename": "SD1-UPCOMINDEX.csv",
+        "length": 3129
+    },
+    {
+        "ticker": "SD2",
+        "filename": "SD2-UPCOMINDEX.csv",
+        "length": 3796
+    },
+    {
+        "ticker": "SD3",
+        "filename": "SD3-UPCOMINDEX.csv",
+        "length": 3743
+    },
+    {
+        "ticker": "SD7",
+        "filename": "SD7-UPCOMINDEX.csv",
+        "length": 4026
+    },
+    {
+        "ticker": "SD8",
+        "filename": "SD8-UPCOMINDEX.csv",
+        "length": 2899
+    },
+    {
+        "ticker": "SDB",
+        "filename": "SDB-UPCOMINDEX.csv",
+        "length": 3218
+    },
+    {
+        "ticker": "SDD",
+        "filename": "SDD-UPCOMINDEX.csv",
+        "length": 3757
+    },
+    {
+        "ticker": "SDJ",
+        "filename": "SDJ-UPCOMINDEX.csv",
+        "length": 3399
+    },
+    {
+        "ticker": "SDK",
+        "filename": "SDK-UPCOMINDEX.csv",
+        "length": 3077
+    },
+    {
+        "ticker": "SDP",
+        "filename": "SDP-UPCOMINDEX.csv",
+        "length": 3459
+    },
+    {
+        "ticker": "SDV",
+        "filename": "SDV-UPCOMINDEX.csv",
+        "length": 2960
+    },
+    {
+        "ticker": "SDX",
+        "filename": "SDX-UPCOMINDEX.csv",
+        "length": 1859
+    },
+    {
+        "ticker": "SDY",
+        "filename": "SDY-UPCOMINDEX.csv",
+        "length": 4028
+    },
+    {
+        "ticker": "SEA",
+        "filename": "SEA-UPCOMINDEX.csv",
+        "length": 1543
+    },
+    {
+        "ticker": "SEP",
+        "filename": "SEP-UPCOMINDEX.csv",
+        "length": 1517
+    },
+    {
+        "ticker": "SGB",
+        "filename": "SGB-UPCOMINDEX.csv",
+        "length": 591
+    },
+    {
+        "ticker": "SGI",
+        "filename": "SGI-UPCOMINDEX.csv",
+        "length": 364
+    },
+    {
+        "ticker": "SGO",
+        "filename": "SGO-UPCOMINDEX.csv",
+        "length": 1794
+    },
+    {
+        "ticker": "SGP",
+        "filename": "SGP-UPCOMINDEX.csv",
+        "length": 1714
+    },
+    {
+        "ticker": "SGS",
+        "filename": "SGS-UPCOMINDEX.csv",
+        "length": 3038
+    },
+    {
+        "ticker": "SHC",
+        "filename": "SHC-UPCOMINDEX.csv",
+        "length": 2324
+    },
+    {
+        "ticker": "SHG",
+        "filename": "SHG-UPCOMINDEX.csv",
+        "length": 1973
+    },
+    {
+        "ticker": "SHX",
+        "filename": "SHX-UPCOMINDEX.csv",
+        "length": 1596
+    },
+    {
+        "ticker": "SID",
+        "filename": "SID-UPCOMINDEX.csv",
+        "length": 1533
+    },
+    {
+        "ticker": "SIG",
+        "filename": "SIG-UPCOMINDEX.csv",
+        "length": 846
+    },
+    {
+        "ticker": "SIP",
+        "filename": "SIP-UPCOMINDEX.csv",
+        "length": 935
+    },
+    {
+        "ticker": "SIV",
+        "filename": "SIV-UPCOMINDEX.csv",
+        "length": 1445
+    },
+    {
+        "ticker": "SJC",
+        "filename": "SJC-UPCOMINDEX.csv",
+        "length": 3802
+    },
+    {
+        "ticker": "SJG",
+        "filename": "SJG-UPCOMINDEX.csv",
+        "length": 1258
+    },
+    {
+        "ticker": "SJM",
+        "filename": "SJM-UPCOMINDEX.csv",
+        "length": 3753
+    },
+    {
+        "ticker": "SKH",
+        "filename": "SKH-UPCOMINDEX.csv",
+        "length": 1335
+    },
+    {
+        "ticker": "SKN",
+        "filename": "SKN-UPCOMINDEX.csv",
+        "length": 1095
+    },
+    {
+        "ticker": "SKV",
+        "filename": "SKV-UPCOMINDEX.csv",
+        "length": 1328
+    },
+    {
+        "ticker": "SNC",
+        "filename": "SNC-UPCOMINDEX.csv",
+        "length": 2073
+    },
+    {
+        "ticker": "SNZ",
+        "filename": "SNZ-UPCOMINDEX.csv",
+        "length": 1317
+    },
+    {
+        "ticker": "SP2",
+        "filename": "SP2-UPCOMINDEX.csv",
+        "length": 1603
+    },
+    {
+        "ticker": "SPB",
+        "filename": "SPB-UPCOMINDEX.csv",
+        "length": 1592
+    },
+    {
+        "ticker": "SPD",
+        "filename": "SPD-UPCOMINDEX.csv",
+        "length": 3199
+    },
+    {
+        "ticker": "SPH",
+        "filename": "SPH-UPCOMINDEX.csv",
+        "length": 2196
+    },
+    {
+        "ticker": "SPP",
+        "filename": "SPP-UPCOMINDEX.csv",
+        "length": 3597
+    },
+    {
+        "ticker": "SPV",
+        "filename": "SPV-UPCOMINDEX.csv",
+        "length": 1512
+    },
+    {
+        "ticker": "SQC",
+        "filename": "SQC-UPCOMINDEX.csv",
+        "length": 3287
+    },
+    {
+        "ticker": "SRB",
+        "filename": "SRB-UPCOMINDEX.csv",
+        "length": 3728
+    },
+    {
+        "ticker": "SRT",
+        "filename": "SRT-UPCOMINDEX.csv",
+        "length": 1563
+    },
+    {
+        "ticker": "SSF",
+        "filename": "SSF-UPCOMINDEX.csv",
+        "length": 3201
+    },
+    {
+        "ticker": "SSG",
+        "filename": "SSG-UPCOMINDEX.csv",
+        "length": 3017
+    },
+    {
+        "ticker": "SSH",
+        "filename": "SSH-UPCOMINDEX.csv",
+        "length": 391
+    },
+    {
+        "ticker": "SSN",
+        "filename": "SSN-UPCOMINDEX.csv",
+        "length": 2339
+    },
+    {
+        "ticker": "STH",
+        "filename": "STH-UPCOMINDEX.csv",
+        "length": 739
+    },
+    {
+        "ticker": "STL",
+        "filename": "STL-UPCOMINDEX.csv",
+        "length": 3528
+    },
+    {
+        "ticker": "STS",
+        "filename": "STS-UPCOMINDEX.csv",
+        "length": 3216
+    },
+    {
+        "ticker": "STT",
+        "filename": "STT-UPCOMINDEX.csv",
+        "length": 2903
+    },
+    {
+        "ticker": "STW",
+        "filename": "STW-UPCOMINDEX.csv",
+        "length": 1162
+    },
+    {
+        "ticker": "SUM",
+        "filename": "SUM-UPCOMINDEX.csv",
+        "length": 977
+    },
+    {
+        "ticker": "SVG",
+        "filename": "SVG-UPCOMINDEX.csv",
+        "length": 1726
+    },
+    {
+        "ticker": "SVH",
+        "filename": "SVH-UPCOMINDEX.csv",
+        "length": 1289
+    },
+    {
+        "ticker": "SWC",
+        "filename": "SWC-UPCOMINDEX.csv",
+        "length": 2955
+    },
+    {
+        "ticker": "SZE",
+        "filename": "SZE-UPCOMINDEX.csv",
+        "length": 1553
+    },
+    {
+        "ticker": "SZG",
+        "filename": "SZG-UPCOMINDEX.csv",
+        "length": 290
+    },
+    {
+        "ticker": "TA3",
+        "filename": "TA3-UPCOMINDEX.csv",
+        "length": 1284
+    },
+    {
+        "ticker": "TA6",
+        "filename": "TA6-UPCOMINDEX.csv",
+        "length": 1311
+    },
+    {
+        "ticker": "TAN",
+        "filename": "TAN-UPCOMINDEX.csv",
+        "length": 933
+    },
+    {
+        "ticker": "TAW",
+        "filename": "TAW-UPCOMINDEX.csv",
+        "length": 1647
+    },
+    {
+        "ticker": "TB8",
+        "filename": "TB8-UPCOMINDEX.csv",
+        "length": 1538
+    },
+    {
+        "ticker": "TBD",
+        "filename": "TBD-UPCOMINDEX.csv",
+        "length": 2092
+    },
+    {
+        "ticker": "TBH",
+        "filename": "TBH-UPCOMINDEX.csv",
+        "length": 384
+    },
+    {
+        "ticker": "TBR",
+        "filename": "TBR-UPCOMINDEX.csv",
+        "length": 152
+    },
+    {
+        "ticker": "TBT",
+        "filename": "TBT-UPCOMINDEX.csv",
+        "length": 3236
+    },
+    {
+        "ticker": "TCI",
+        "filename": "TCI-UPCOMINDEX.csv",
+        "length": 1120
+    },
+    {
+        "ticker": "TCJ",
+        "filename": "TCJ-UPCOMINDEX.csv",
+        "length": 1313
+    },
+    {
+        "ticker": "TCK",
+        "filename": "TCK-UPCOMINDEX.csv",
+        "length": 1333
+    },
+    {
+        "ticker": "TCW",
+        "filename": "TCW-UPCOMINDEX.csv",
+        "length": 1421
+    },
+    {
+        "ticker": "TDB",
+        "filename": "TDB-UPCOMINDEX.csv",
+        "length": 1404
+    },
+    {
+        "ticker": "TDF",
+        "filename": "TDF-UPCOMINDEX.csv",
+        "length": 702
+    },
+    {
+        "ticker": "TDI",
+        "filename": "TDI-UPCOMINDEX.csv",
+        "length": 38
+    },
+    {
+        "ticker": "TDS",
+        "filename": "TDS-UPCOMINDEX.csv",
+        "length": 2844
+    },
+    {
+        "ticker": "TED",
+        "filename": "TED-UPCOMINDEX.csv",
+        "length": 203
+    },
+    {
+        "ticker": "TEL",
+        "filename": "TEL-UPCOMINDEX.csv",
+        "length": 1356
+    },
+    {
+        "ticker": "TGP",
+        "filename": "TGP-UPCOMINDEX.csv",
+        "length": 3346
+    },
+    {
+        "ticker": "TH1",
+        "filename": "TH1-UPCOMINDEX.csv",
+        "length": 3314
+    },
+    {
+        "ticker": "THN",
+        "filename": "THN-UPCOMINDEX.csv",
+        "length": 1349
+    },
+    {
+        "ticker": "THP",
+        "filename": "THP-UPCOMINDEX.csv",
+        "length": 819
+    },
+    {
+        "ticker": "THU",
+        "filename": "THU-UPCOMINDEX.csv",
+        "length": 1435
+    },
+    {
+        "ticker": "THW",
+        "filename": "THW-UPCOMINDEX.csv",
+        "length": 1752
+    },
+    {
+        "ticker": "TID",
+        "filename": "TID-UPCOMINDEX.csv",
+        "length": 1050
+    },
+    {
+        "ticker": "TIE",
+        "filename": "TIE-UPCOMINDEX.csv",
+        "length": 3290
+    },
+    {
+        "ticker": "TIN",
+        "filename": "TIN-UPCOMINDEX.csv",
+        "length": 289
+    },
+    {
+        "ticker": "TIS",
+        "filename": "TIS-UPCOMINDEX.csv",
+        "length": 2979
+    },
+    {
+        "ticker": "TKA",
+        "filename": "TKA-UPCOMINDEX.csv",
+        "length": 686
+    },
+    {
+        "ticker": "TL4",
+        "filename": "TL4-UPCOMINDEX.csv",
+        "length": 2014
+    },
+    {
+        "ticker": "TLI",
+        "filename": "TLI-UPCOMINDEX.csv",
+        "length": 1020
+    },
+    {
+        "ticker": "TLP",
+        "filename": "TLP-UPCOMINDEX.csv",
+        "length": 1303
+    },
+    {
+        "ticker": "TLT",
+        "filename": "TLT-UPCOMINDEX.csv",
+        "length": 3969
+    },
+    {
+        "ticker": "TMG",
+        "filename": "TMG-UPCOMINDEX.csv",
+        "length": 1517
+    },
+    {
+        "ticker": "TMW",
+        "filename": "TMW-UPCOMINDEX.csv",
+        "length": 3244
+    },
+    {
+        "ticker": "TNB",
+        "filename": "TNB-UPCOMINDEX.csv",
+        "length": 3203
+    },
+    {
+        "ticker": "TNM",
+        "filename": "TNM-UPCOMINDEX.csv",
+        "length": 3267
+    },
+    {
+        "ticker": "TNP",
+        "filename": "TNP-UPCOMINDEX.csv",
+        "length": 1543
+    },
+    {
+        "ticker": "TNS",
+        "filename": "TNS-UPCOMINDEX.csv",
+        "length": 1534
+    },
+    {
+        "ticker": "TNW",
+        "filename": "TNW-UPCOMINDEX.csv",
+        "length": 1442
+    },
+    {
+        "ticker": "TOP",
+        "filename": "TOP-UPCOMINDEX.csv",
+        "length": 1903
+    },
+    {
+        "ticker": "TOS",
+        "filename": "TOS-UPCOMINDEX.csv",
+        "length": 368
+    },
+    {
+        "ticker": "TOW",
+        "filename": "TOW-UPCOMINDEX.csv",
+        "length": 1020
+    },
+    {
+        "ticker": "TPS",
+        "filename": "TPS-UPCOMINDEX.csv",
+        "length": 1811
+    },
+    {
+        "ticker": "TQN",
+        "filename": "TQN-UPCOMINDEX.csv",
+        "length": 1516
+    },
+    {
+        "ticker": "TQW",
+        "filename": "TQW-UPCOMINDEX.csv",
+        "length": 929
+    },
+    {
+        "ticker": "TR1",
+        "filename": "TR1-UPCOMINDEX.csv",
+        "length": 628
+    },
+    {
+        "ticker": "TRS",
+        "filename": "TRS-UPCOMINDEX.csv",
+        "length": 1863
+    },
+    {
+        "ticker": "TRT",
+        "filename": "TRT-UPCOMINDEX.csv",
+        "length": 1490
+    },
+    {
+        "ticker": "TS3",
+        "filename": "TS3-UPCOMINDEX.csv",
+        "length": 1274
+    },
+    {
+        "ticker": "TS4",
+        "filename": "TS4-UPCOMINDEX.csv",
+        "length": 5117
+    },
+    {
+        "ticker": "TSD",
+        "filename": "TSD-UPCOMINDEX.csv",
+        "length": 1281
+    },
+    {
+        "ticker": "TSG",
+        "filename": "TSG-UPCOMINDEX.csv",
+        "length": 1468
+    },
+    {
+        "ticker": "TSJ",
+        "filename": "TSJ-UPCOMINDEX.csv",
+        "length": 1395
+    },
+    {
+        "ticker": "TST",
+        "filename": "TST-UPCOMINDEX.csv",
+        "length": 3786
+    },
+    {
+        "ticker": "TTD",
+        "filename": "TTD-UPCOMINDEX.csv",
+        "length": 1518
+    },
+    {
+        "ticker": "TTG",
+        "filename": "TTG-UPCOMINDEX.csv",
+        "length": 3237
+    },
+    {
+        "ticker": "TTN",
+        "filename": "TTN-UPCOMINDEX.csv",
+        "length": 1467
+    },
+    {
+        "ticker": "TTP",
+        "filename": "TTP-UPCOMINDEX.csv",
+        "length": 3691
+    },
+    {
+        "ticker": "TTS",
+        "filename": "TTS-UPCOMINDEX.csv",
+        "length": 1449
+    },
+    {
+        "ticker": "TUG",
+        "filename": "TUG-UPCOMINDEX.csv",
+        "length": 1507
+    },
+    {
+        "ticker": "TV1",
+        "filename": "TV1-UPCOMINDEX.csv",
+        "length": 3096
+    },
+    {
+        "ticker": "TV6",
+        "filename": "TV6-UPCOMINDEX.csv",
+        "length": 444
+    },
+    {
+        "ticker": "TVA",
+        "filename": "TVA-UPCOMINDEX.csv",
+        "length": 1473
+    },
+    {
+        "ticker": "TVG",
+        "filename": "TVG-UPCOMINDEX.csv",
+        "length": 3239
+    },
+    {
+        "ticker": "TVH",
+        "filename": "TVH-UPCOMINDEX.csv",
+        "length": 1026
+    },
+    {
+        "ticker": "TVM",
+        "filename": "TVM-UPCOMINDEX.csv",
+        "length": 1801
+    },
+    {
+        "ticker": "TVN",
+        "filename": "TVN-UPCOMINDEX.csv",
+        "length": 1778
+    },
+    {
+        "ticker": "TVP",
+        "filename": "TVP-UPCOMINDEX.csv",
+        "length": 1383
+    },
+    {
+        "ticker": "TVW",
+        "filename": "TVW-UPCOMINDEX.csv",
+        "length": 1302
+    },
+    {
+        "ticker": "TW3",
+        "filename": "TW3-UPCOMINDEX.csv",
+        "length": 1591
+    },
+    {
+        "ticker": "UCT",
+        "filename": "UCT-UPCOMINDEX.csv",
+        "length": 1571
+    },
+    {
+        "ticker": "UDJ",
+        "filename": "UDJ-UPCOMINDEX.csv",
+        "length": 3244
+    },
+    {
+        "ticker": "UDL",
+        "filename": "UDL-UPCOMINDEX.csv",
+        "length": 782
+    },
+    {
+        "ticker": "UEM",
+        "filename": "UEM-UPCOMINDEX.csv",
+        "length": 1859
+    },
+    {
+        "ticker": "UMC",
+        "filename": "UMC-UPCOMINDEX.csv",
+        "length": 1376
+    },
+    {
+        "ticker": "UPC",
+        "filename": "UPC-UPCOMINDEX.csv",
+        "length": 1465
+    },
+    {
+        "ticker": "UPH",
+        "filename": "UPH-UPCOMINDEX.csv",
+        "length": 1539
+    },
+    {
+        "ticker": "USC",
+        "filename": "USC-UPCOMINDEX.csv",
+        "length": 1518
+    },
+    {
+        "ticker": "USD",
+        "filename": "USD-UPCOMINDEX.csv",
+        "length": 1017
+    },
+    {
+        "ticker": "V11",
+        "filename": "V11-UPCOMINDEX.csv",
+        "length": 3440
+    },
+    {
+        "ticker": "V15",
+        "filename": "V15-UPCOMINDEX.csv",
+        "length": 3287
+    },
+    {
+        "ticker": "VAB",
+        "filename": "VAB-UPCOMINDEX.csv",
+        "length": 402
+    },
+    {
+        "ticker": "VAT",
+        "filename": "VAT-UPCOMINDEX.csv",
+        "length": 3035
+    },
+    {
+        "ticker": "VAV",
+        "filename": "VAV-UPCOMINDEX.csv",
+        "length": 1399
+    },
+    {
+        "ticker": "VBB",
+        "filename": "VBB-UPCOMINDEX.csv",
+        "length": 897
+    },
+    {
+        "ticker": "VBG",
+        "filename": "VBG-UPCOMINDEX.csv",
+        "length": 1484
+    },
+    {
+        "ticker": "VBH",
+        "filename": "VBH-UPCOMINDEX.csv",
+        "length": 4023
+    },
+    {
+        "ticker": "VC5",
+        "filename": "VC5-UPCOMINDEX.csv",
+        "length": 3765
+    },
+    {
+        "ticker": "VCE",
+        "filename": "VCE-UPCOMINDEX.csv",
+        "length": 1539
+    },
+    {
+        "ticker": "VCP",
+        "filename": "VCP-UPCOMINDEX.csv",
+        "length": 1548
+    },
+    {
+        "ticker": "VCR",
+        "filename": "VCR-UPCOMINDEX.csv",
+        "length": 3194
+    },
+    {
+        "ticker": "VCT",
+        "filename": "VCT-UPCOMINDEX.csv",
+        "length": 3147
+    },
+    {
+        "ticker": "VCW",
+        "filename": "VCW-UPCOMINDEX.csv",
+        "length": 1565
+    },
+    {
+        "ticker": "VCX",
+        "filename": "VCX-UPCOMINDEX.csv",
+        "length": 2227
+    },
+    {
+        "ticker": "VDB",
+        "filename": "VDB-UPCOMINDEX.csv",
+        "length": 1064
+    },
+    {
+        "ticker": "VDN",
+        "filename": "VDN-UPCOMINDEX.csv",
+        "length": 3147
+    },
+    {
+        "ticker": "VDT",
+        "filename": "VDT-UPCOMINDEX.csv",
+        "length": 2996
+    },
+    {
+        "ticker": "VE9",
+        "filename": "VE9-UPCOMINDEX.csv",
+        "length": 3759
+    },
+    {
+        "ticker": "VEA",
+        "filename": "VEA-UPCOMINDEX.csv",
+        "length": 1166
+    },
+    {
+        "ticker": "VEC",
+        "filename": "VEC-UPCOMINDEX.csv",
+        "length": 1407
+    },
+    {
+        "ticker": "VEF",
+        "filename": "VEF-UPCOMINDEX.csv",
+        "length": 1796
+    },
+    {
+        "ticker": "VES",
+        "filename": "VES-UPCOMINDEX.csv",
+        "length": 2749
+    },
+    {
+        "ticker": "VET",
+        "filename": "VET-UPCOMINDEX.csv",
+        "length": 1300
+    },
+    {
+        "ticker": "VFC",
+        "filename": "VFC-UPCOMINDEX.csv",
+        "length": 4041
+    },
+    {
+        "ticker": "VFR",
+        "filename": "VFR-UPCOMINDEX.csv",
+        "length": 4025
+    },
+    {
+        "ticker": "VFS",
+        "filename": "VFS-UPCOMINDEX.csv",
+        "length": 666
+    },
+    {
+        "ticker": "VGG",
+        "filename": "VGG-UPCOMINDEX.csv",
+        "length": 1745
+    },
+    {
+        "ticker": "VGI",
+        "filename": "VGI-UPCOMINDEX.csv",
+        "length": 1106
+    },
+    {
+        "ticker": "VGL",
+        "filename": "VGL-UPCOMINDEX.csv",
+        "length": 1636
+    },
+    {
+        "ticker": "VGR",
+        "filename": "VGR-UPCOMINDEX.csv",
+        "length": 1220
+    },
+    {
+        "ticker": "VGT",
+        "filename": "VGT-UPCOMINDEX.csv",
+        "length": 1537
+    },
+    {
+        "ticker": "VGV",
+        "filename": "VGV-UPCOMINDEX.csv",
+        "length": 1406
+    },
+    {
+        "ticker": "VHD",
+        "filename": "VHD-UPCOMINDEX.csv",
+        "length": 1423
+    },
+    {
+        "ticker": "VHF",
+        "filename": "VHF-UPCOMINDEX.csv",
+        "length": 3191
+    },
+    {
+        "ticker": "VHG",
+        "filename": "VHG-UPCOMINDEX.csv",
+        "length": 3753
+    },
+    {
+        "ticker": "VHH",
+        "filename": "VHH-UPCOMINDEX.csv",
+        "length": 3119
+    },
+    {
+        "ticker": "VIE",
+        "filename": "VIE-UPCOMINDEX.csv",
+        "length": 2941
+    },
+    {
+        "ticker": "VIH",
+        "filename": "VIH-UPCOMINDEX.csv",
+        "length": 1464
+    },
+    {
+        "ticker": "VIM",
+        "filename": "VIM-UPCOMINDEX.csv",
+        "length": 1522
+    },
+    {
+        "ticker": "VIN",
+        "filename": "VIN-UPCOMINDEX.csv",
+        "length": 2121
+    },
+    {
+        "ticker": "VIR",
+        "filename": "VIR-UPCOMINDEX.csv",
+        "length": 3157
+    },
+    {
+        "ticker": "VIW",
+        "filename": "VIW-UPCOMINDEX.csv",
+        "length": 1284
+    },
+    {
+        "ticker": "VKP",
+        "filename": "VKP-UPCOMINDEX.csv",
+        "length": 3319
+    },
+    {
+        "ticker": "VLB",
+        "filename": "VLB-UPCOMINDEX.csv",
+        "length": 1609
+    },
+    {
+        "ticker": "VLC",
+        "filename": "VLC-UPCOMINDEX.csv",
+        "length": 1837
+    },
+    {
+        "ticker": "VLF",
+        "filename": "VLF-UPCOMINDEX.csv",
+        "length": 3034
+    },
+    {
+        "ticker": "VLG",
+        "filename": "VLG-UPCOMINDEX.csv",
+        "length": 1863
+    },
+    {
+        "ticker": "VLP",
+        "filename": "VLP-UPCOMINDEX.csv",
+        "length": 1405
+    },
+    {
+        "ticker": "VLW",
+        "filename": "VLW-UPCOMINDEX.csv",
+        "length": 1406
+    },
+    {
+        "ticker": "VMA",
+        "filename": "VMA-UPCOMINDEX.csv",
+        "length": 1877
+    },
+    {
+        "ticker": "VMG",
+        "filename": "VMG-UPCOMINDEX.csv",
+        "length": 2050
+    },
+    {
+        "ticker": "VMT",
+        "filename": "VMT-UPCOMINDEX.csv",
+        "length": 33
+    },
+    {
+        "ticker": "VNA",
+        "filename": "VNA-UPCOMINDEX.csv",
+        "length": 3608
+    },
+    {
+        "ticker": "VNB",
+        "filename": "VNB-UPCOMINDEX.csv",
+        "length": 1657
+    },
+    {
+        "ticker": "VNH",
+        "filename": "VNH-UPCOMINDEX.csv",
+        "length": 3212
+    },
+    {
+        "ticker": "VNI",
+        "filename": "VNI-UPCOMINDEX.csv",
+        "length": 3338
+    },
+    {
+        "ticker": "VNP",
+        "filename": "VNP-UPCOMINDEX.csv",
+        "length": 1885
+    },
+    {
+        "ticker": "VNX",
+        "filename": "VNX-UPCOMINDEX.csv",
+        "length": 3170
+    },
+    {
+        "ticker": "VNY",
+        "filename": "VNY-UPCOMINDEX.csv",
+        "length": 1142
+    },
+    {
+        "ticker": "VNZ",
+        "filename": "VNZ-UPCOMINDEX.csv",
+        "length": 34
+    },
+    {
+        "ticker": "VOC",
+        "filename": "VOC-UPCOMINDEX.csv",
+        "length": 1612
+    },
+    {
+        "ticker": "VPA",
+        "filename": "VPA-UPCOMINDEX.csv",
+        "length": 1771
+    },
+    {
+        "ticker": "VPC",
+        "filename": "VPC-UPCOMINDEX.csv",
+        "length": 3268
+    },
+    {
+        "ticker": "VPR",
+        "filename": "VPR-UPCOMINDEX.csv",
+        "length": 1546
+    },
+    {
+        "ticker": "VPW",
+        "filename": "VPW-UPCOMINDEX.csv",
+        "length": 1322
+    },
+    {
+        "ticker": "VQC",
+        "filename": "VQC-UPCOMINDEX.csv",
+        "length": 3236
+    },
+    {
+        "ticker": "VRG",
+        "filename": "VRG-UPCOMINDEX.csv",
+        "length": 2074
+    },
+    {
+        "ticker": "VSE",
+        "filename": "VSE-UPCOMINDEX.csv",
+        "length": 1095
+    },
+    {
+        "ticker": "VSF",
+        "filename": "VSF-UPCOMINDEX.csv",
+        "length": 1213
+    },
+    {
+        "ticker": "VSG",
+        "filename": "VSG-UPCOMINDEX.csv",
+        "length": 3574
+    },
+    {
+        "ticker": "VSN",
+        "filename": "VSN-UPCOMINDEX.csv",
+        "length": 1588
+    },
+    {
+        "ticker": "VST",
+        "filename": "VST-UPCOMINDEX.csv",
+        "length": 3475
+    },
+    {
+        "ticker": "VTA",
+        "filename": "VTA-UPCOMINDEX.csv",
+        "length": 3584
+    },
+    {
+        "ticker": "VTD",
+        "filename": "VTD-UPCOMINDEX.csv",
+        "length": 827
+    },
+    {
+        "ticker": "VTE",
+        "filename": "VTE-UPCOMINDEX.csv",
+        "length": 1185
+    },
+    {
+        "ticker": "VTG",
+        "filename": "VTG-UPCOMINDEX.csv",
+        "length": 1793
+    },
+    {
+        "ticker": "VTI",
+        "filename": "VTI-UPCOMINDEX.csv",
+        "length": 3041
+    },
+    {
+        "ticker": "VTK",
+        "filename": "VTK-UPCOMINDEX.csv",
+        "length": 1046
+    },
+    {
+        "ticker": "VTM",
+        "filename": "VTM-UPCOMINDEX.csv",
+        "length": 1791
+    },
+    {
+        "ticker": "VTP",
+        "filename": "VTP-UPCOMINDEX.csv",
+        "length": 1063
+    },
+    {
+        "ticker": "VTQ",
+        "filename": "VTQ-UPCOMINDEX.csv",
+        "length": 448
+    },
+    {
+        "ticker": "VTR",
+        "filename": "VTR-UPCOMINDEX.csv",
+        "length": 855
+    },
+    {
+        "ticker": "VTS",
+        "filename": "VTS-UPCOMINDEX.csv",
+        "length": 4096
+    },
+    {
+        "ticker": "VTX",
+        "filename": "VTX-UPCOMINDEX.csv",
+        "length": 2199
+    },
+    {
+        "ticker": "VUA",
+        "filename": "VUA-UPCOMINDEX.csv",
+        "length": 270
+    },
+    {
+        "ticker": "VVN",
+        "filename": "VVN-UPCOMINDEX.csv",
+        "length": 1341
+    },
+    {
+        "ticker": "VVS",
+        "filename": "VVS-UPCOMINDEX.csv",
+        "length": 97
+    },
+    {
+        "ticker": "VW3",
+        "filename": "VW3-UPCOMINDEX.csv",
+        "length": 713
+    },
+    {
+        "ticker": "VWS",
+        "filename": "VWS-UPCOMINDEX.csv",
+        "length": 1534
+    },
+    {
+        "ticker": "VXB",
+        "filename": "VXB-UPCOMINDEX.csv",
+        "length": 3161
+    },
+    {
+        "ticker": "VXP",
+        "filename": "VXP-UPCOMINDEX.csv",
+        "length": 883
+    },
+    {
+        "ticker": "VXT",
+        "filename": "VXT-UPCOMINDEX.csv",
+        "length": 696
+    },
+    {
+        "ticker": "WSB",
+        "filename": "WSB-UPCOMINDEX.csv",
+        "length": 3131
+    },
+    {
+        "ticker": "WTC",
+        "filename": "WTC-UPCOMINDEX.csv",
+        "length": 3147
+    },
+    {
+        "ticker": "X26",
+        "filename": "X26-UPCOMINDEX.csv",
+        "length": 1161
+    },
+    {
+        "ticker": "X77",
+        "filename": "X77-UPCOMINDEX.csv",
+        "length": 1509
+    },
+    {
+        "ticker": "XDC",
+        "filename": "XDC-UPCOMINDEX.csv",
+        "length": 58
+    },
+    {
+        "ticker": "XDH",
+        "filename": "XDH-UPCOMINDEX.csv",
+        "length": 1087
+    },
+    {
+        "ticker": "XHC",
+        "filename": "XHC-UPCOMINDEX.csv",
+        "length": 1579
+    },
+    {
+        "ticker": "XLV",
+        "filename": "XLV-UPCOMINDEX.csv",
+        "length": 1195
+    },
+    {
+        "ticker": "XMC",
+        "filename": "XMC-UPCOMINDEX.csv",
+        "length": 2387
+    },
+    {
+        "ticker": "XMD",
+        "filename": "XMD-UPCOMINDEX.csv",
+        "length": 1793
+    },
+    {
+        "ticker": "XMP",
+        "filename": "XMP-UPCOMINDEX.csv",
+        "length": 383
+    },
+    {
+        "ticker": "XPH",
+        "filename": "XPH-UPCOMINDEX.csv",
+        "length": 2063
+    },
+    {
+        "ticker": "YBC",
+        "filename": "YBC-UPCOMINDEX.csv",
+        "length": 3672
+    },
+    {
+        "ticker": "YTC",
+        "filename": "YTC-UPCOMINDEX.csv",
+        "length": 1393
+    }
+]
