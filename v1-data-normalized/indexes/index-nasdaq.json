@@ -1,0 +1,7822 @@
+[
+    {
+        "ticker": "AAL",
+        "filename": "AAL-NASDAQ.csv",
+        "length": 4333
+    },
+    {
+        "ticker": "AAME",
+        "filename": "AAME-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "AAOI",
+        "filename": "AAOI-NASDAQ.csv",
+        "length": 2320
+    },
+    {
+        "ticker": "AAON",
+        "filename": "AAON-NASDAQ.csv",
+        "length": 7553
+    },
+    {
+        "ticker": "AAPL",
+        "filename": "AAPL-NASDAQ.csv",
+        "length": 10590
+    },
+    {
+        "ticker": "AAVL",
+        "filename": "AAVL-NASDAQ.csv",
+        "length": 1286
+    },
+    {
+        "ticker": "AAWW",
+        "filename": "AAWW-NASDAQ.csv",
+        "length": 4302
+    },
+    {
+        "ticker": "ABCB",
+        "filename": "ABCB-NASDAQ.csv",
+        "length": 7194
+    },
+    {
+        "ticker": "ABCD",
+        "filename": "ABCD-NASDAQ.csv",
+        "length": 3275
+    },
+    {
+        "ticker": "ABCO",
+        "filename": "ABCO-NASDAQ.csv",
+        "length": 2640
+    },
+    {
+        "ticker": "ABIO",
+        "filename": "ABIO-NASDAQ.csv",
+        "length": 6379
+    },
+    {
+        "ticker": "ABMD",
+        "filename": "ABMD-NASDAQ.csv",
+        "length": 8916
+    },
+    {
+        "ticker": "ACAD",
+        "filename": "ACAD-NASDAQ.csv",
+        "length": 4669
+    },
+    {
+        "ticker": "ACET",
+        "filename": "ACET-NASDAQ.csv",
+        "length": 1229
+    },
+    {
+        "ticker": "ACFC",
+        "filename": "ACFC-NASDAQ.csv",
+        "length": 4580
+    },
+    {
+        "ticker": "ACFN",
+        "filename": "ACFN-NASDAQ.csv",
+        "length": 7767
+    },
+    {
+        "ticker": "ACGL",
+        "filename": "ACGL-NASDAQ.csv",
+        "length": 6860
+    },
+    {
+        "ticker": "ACHC",
+        "filename": "ACHC-NASDAQ.csv",
+        "length": 7246
+    },
+    {
+        "ticker": "ACHN",
+        "filename": "ACHN-NASDAQ.csv",
+        "length": 289
+    },
+    {
+        "ticker": "ACIW",
+        "filename": "ACIW-NASDAQ.csv",
+        "length": 7000
+    },
+    {
+        "ticker": "ACLS",
+        "filename": "ACLS-NASDAQ.csv",
+        "length": 5643
+    },
+    {
+        "ticker": "ACNB",
+        "filename": "ACNB-NASDAQ.csv",
+        "length": 7226
+    },
+    {
+        "ticker": "ACOR",
+        "filename": "ACOR-NASDAQ.csv",
+        "length": 4239
+    },
+    {
+        "ticker": "ACRX",
+        "filename": "ACRX-NASDAQ.csv",
+        "length": 2979
+    },
+    {
+        "ticker": "ACST",
+        "filename": "ACST-NASDAQ.csv",
+        "length": 2731
+    },
+    {
+        "ticker": "ACTA",
+        "filename": "ACTA-NASDAQ.csv",
+        "length": 5878
+    },
+    {
+        "ticker": "ACTG",
+        "filename": "ACTG-NASDAQ.csv",
+        "length": 5033
+    },
+    {
+        "ticker": "ACUR",
+        "filename": "ACUR-NASDAQ.csv",
+        "length": 7744
+    },
+    {
+        "ticker": "ADBE",
+        "filename": "ADBE-NASDAQ.csv",
+        "length": 9158
+    },
+    {
+        "ticker": "ADES",
+        "filename": "ADES-NASDAQ.csv",
+        "length": 4756
+    },
+    {
+        "ticker": "ADI",
+        "filename": "ADI-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "ADMA",
+        "filename": "ADMA-NASDAQ.csv",
+        "length": 2305
+    },
+    {
+        "ticker": "ADMP",
+        "filename": "ADMP-NASDAQ.csv",
+        "length": 6882
+    },
+    {
+        "ticker": "ADP",
+        "filename": "ADP-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "ADSK",
+        "filename": "ADSK-NASDAQ.csv",
+        "length": 9441
+    },
+    {
+        "ticker": "ADTN",
+        "filename": "ADTN-NASDAQ.csv",
+        "length": 7137
+    },
+    {
+        "ticker": "ADUS",
+        "filename": "ADUS-NASDAQ.csv",
+        "length": 3304
+    },
+    {
+        "ticker": "ADXS",
+        "filename": "ADXS-NASDAQ.csv",
+        "length": 4375
+    },
+    {
+        "ticker": "AEHR",
+        "filename": "AEHR-NASDAQ.csv",
+        "length": 6374
+    },
+    {
+        "ticker": "AEIS",
+        "filename": "AEIS-NASDAQ.csv",
+        "length": 6814
+    },
+    {
+        "ticker": "AELTF",
+        "filename": "AELTF-NASDAQ.csv",
+        "length": 2662
+    },
+    {
+        "ticker": "AERI",
+        "filename": "AERI-NASDAQ.csv",
+        "length": 2298
+    },
+    {
+        "ticker": "AEY",
+        "filename": "AEY-NASDAQ.csv",
+        "length": 6681
+    },
+    {
+        "ticker": "AEZS",
+        "filename": "AEZS-NASDAQ.csv",
+        "length": 5685
+    },
+    {
+        "ticker": "AFAM",
+        "filename": "AFAM-NASDAQ.csv",
+        "length": 9043
+    },
+    {
+        "ticker": "AFCB",
+        "filename": "AFCB-NASDAQ.csv",
+        "length": 3256
+    },
+    {
+        "ticker": "AFMD",
+        "filename": "AFMD-NASDAQ.csv",
+        "length": 2078
+    },
+    {
+        "ticker": "AFSI",
+        "filename": "AFSI-NASDAQ.csv",
+        "length": 4048
+    },
+    {
+        "ticker": "AGEN",
+        "filename": "AGEN-NASDAQ.csv",
+        "length": 5749
+    },
+    {
+        "ticker": "AGIO",
+        "filename": "AGIO-NASDAQ.csv",
+        "length": 2365
+    },
+    {
+        "ticker": "AGRX",
+        "filename": "AGRX-NASDAQ.csv",
+        "length": 2155
+    },
+    {
+        "ticker": "AGTC",
+        "filename": "AGTC-NASDAQ.csv",
+        "length": 2194
+    },
+    {
+        "ticker": "AGYS",
+        "filename": "AGYS-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "AHGP",
+        "filename": "AHGP-NASDAQ.csv",
+        "length": 4178
+    },
+    {
+        "ticker": "AHPI",
+        "filename": "AHPI-NASDAQ.csv",
+        "length": 7788
+    },
+    {
+        "ticker": "AIMC",
+        "filename": "AIMC-NASDAQ.csv",
+        "length": 4025
+    },
+    {
+        "ticker": "AIQ",
+        "filename": "AIQ-NASDAQ.csv",
+        "length": 1153
+    },
+    {
+        "ticker": "AIRT",
+        "filename": "AIRT-NASDAQ.csv",
+        "length": 9740
+    },
+    {
+        "ticker": "AJISF",
+        "filename": "AJISF-NASDAQ.csv",
+        "length": 2458
+    },
+    {
+        "ticker": "AKAM",
+        "filename": "AKAM-NASDAQ.csv",
+        "length": 5818
+    },
+    {
+        "ticker": "AKBA",
+        "filename": "AKBA-NASDAQ.csv",
+        "length": 2200
+    },
+    {
+        "ticker": "ALCO",
+        "filename": "ALCO-NASDAQ.csv",
+        "length": 12514
+    },
+    {
+        "ticker": "ALDX",
+        "filename": "ALDX-NASDAQ.csv",
+        "length": 2170
+    },
+    {
+        "ticker": "ALGN",
+        "filename": "ALGN-NASDAQ.csv",
+        "length": 5503
+    },
+    {
+        "ticker": "ALGT",
+        "filename": "ALGT-NASDAQ.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "ALIM",
+        "filename": "ALIM-NASDAQ.csv",
+        "length": 783
+    },
+    {
+        "ticker": "ALKS",
+        "filename": "ALKS-NASDAQ.csv",
+        "length": 7914
+    },
+    {
+        "ticker": "ALLT",
+        "filename": "ALLT-NASDAQ.csv",
+        "length": 4045
+    },
+    {
+        "ticker": "ALNY",
+        "filename": "ALNY-NASDAQ.csv",
+        "length": 4667
+    },
+    {
+        "ticker": "ALOG",
+        "filename": "ALOG-NASDAQ.csv",
+        "length": 12597
+    },
+    {
+        "ticker": "ALSD",
+        "filename": "ALSD-NASDAQ.csv",
+        "length": 1909
+    },
+    {
+        "ticker": "AMAT",
+        "filename": "AMAT-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "AMBA",
+        "filename": "AMBA-NASDAQ.csv",
+        "length": 2560
+    },
+    {
+        "ticker": "AMBC",
+        "filename": "AMBC-NASDAQ.csv",
+        "length": 2423
+    },
+    {
+        "ticker": "AMCF",
+        "filename": "AMCF-NASDAQ.csv",
+        "length": 3243
+    },
+    {
+        "ticker": "AMCX",
+        "filename": "AMCX-NASDAQ.csv",
+        "length": 2893
+    },
+    {
+        "ticker": "AMD",
+        "filename": "AMD-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "AMED",
+        "filename": "AMED-NASDAQ.csv",
+        "length": 7132
+    },
+    {
+        "ticker": "AMGN",
+        "filename": "AMGN-NASDAQ.csv",
+        "length": 9955
+    },
+    {
+        "ticker": "AMKR",
+        "filename": "AMKR-NASDAQ.csv",
+        "length": 6196
+    },
+    {
+        "ticker": "AMNB",
+        "filename": "AMNB-NASDAQ.csv",
+        "length": 5958
+    },
+    {
+        "ticker": "AMOT",
+        "filename": "AMOT-NASDAQ.csv",
+        "length": 10627
+    },
+    {
+        "ticker": "AMPH",
+        "filename": "AMPH-NASDAQ.csv",
+        "length": 2133
+    },
+    {
+        "ticker": "AMRN",
+        "filename": "AMRN-NASDAQ.csv",
+        "length": 7480
+    },
+    {
+        "ticker": "AMRS",
+        "filename": "AMRS-NASDAQ.csv",
+        "length": 3074
+    },
+    {
+        "ticker": "AMSC",
+        "filename": "AMSC-NASDAQ.csv",
+        "length": 7809
+    },
+    {
+        "ticker": "AMSWA",
+        "filename": "AMSWA-NASDAQ.csv",
+        "length": 10032
+    },
+    {
+        "ticker": "AMTX",
+        "filename": "AMTX-NASDAQ.csv",
+        "length": 4145
+    },
+    {
+        "ticker": "AMWD",
+        "filename": "AMWD-NASDAQ.csv",
+        "length": 9176
+    },
+    {
+        "ticker": "AMX",
+        "filename": "AMX-NASDAQ.csv",
+        "length": 5494
+    },
+    {
+        "ticker": "AMZN",
+        "filename": "AMZN-NASDAQ.csv",
+        "length": 6438
+    },
+    {
+        "ticker": "ANAC",
+        "filename": "ANAC-NASDAQ.csv",
+        "length": 418
+    },
+    {
+        "ticker": "ANCB",
+        "filename": "ANCB-NASDAQ.csv",
+        "length": 2991
+    },
+    {
+        "ticker": "ANCX",
+        "filename": "ANCX-NASDAQ.csv",
+        "length": 4635
+    },
+    {
+        "ticker": "ANDE",
+        "filename": "ANDE-NASDAQ.csv",
+        "length": 6751
+    },
+    {
+        "ticker": "ANGI",
+        "filename": "ANGI-NASDAQ.csv",
+        "length": 2785
+    },
+    {
+        "ticker": "ANGO",
+        "filename": "ANGO-NASDAQ.csv",
+        "length": 4667
+    },
+    {
+        "ticker": "ANIK",
+        "filename": "ANIK-NASDAQ.csv",
+        "length": 7459
+    },
+    {
+        "ticker": "ANIP",
+        "filename": "ANIP-NASDAQ.csv",
+        "length": 5688
+    },
+    {
+        "ticker": "ANTH",
+        "filename": "ANTH-NASDAQ.csv",
+        "length": 3221
+    },
+    {
+        "ticker": "ANY",
+        "filename": "ANY-NASDAQ.csv",
+        "length": 2352
+    },
+    {
+        "ticker": "AOSL",
+        "filename": "AOSL-NASDAQ.csv",
+        "length": 3179
+    },
+    {
+        "ticker": "APDN",
+        "filename": "APDN-NASDAQ.csv",
+        "length": 4889
+    },
+    {
+        "ticker": "APEI",
+        "filename": "APEI-NASDAQ.csv",
+        "length": 3799
+    },
+    {
+        "ticker": "APOG",
+        "filename": "APOG-NASDAQ.csv",
+        "length": 12514
+    },
+    {
+        "ticker": "APTO",
+        "filename": "APTO-NASDAQ.csv",
+        "length": 7745
+    },
+    {
+        "ticker": "APWC",
+        "filename": "APWC-NASDAQ.csv",
+        "length": 4889
+    },
+    {
+        "ticker": "ARAY",
+        "filename": "ARAY-NASDAQ.csv",
+        "length": 3990
+    },
+    {
+        "ticker": "ARCB",
+        "filename": "ARCB-NASDAQ.csv",
+        "length": 7704
+    },
+    {
+        "ticker": "ARCC",
+        "filename": "ARCC-NASDAQ.csv",
+        "length": 4580
+    },
+    {
+        "ticker": "ARCK",
+        "filename": "ARCK-NASDAQ.csv",
+        "length": 247
+    },
+    {
+        "ticker": "ARCW",
+        "filename": "ARCW-NASDAQ.csv",
+        "length": 5915
+    },
+    {
+        "ticker": "ARDX",
+        "filename": "ARDX-NASDAQ.csv",
+        "length": 2137
+    },
+    {
+        "ticker": "ARII",
+        "filename": "ARII-NASDAQ.csv",
+        "length": 4254
+    },
+    {
+        "ticker": "ARIS",
+        "filename": "ARIS-NASDAQ.csv",
+        "length": 287
+    },
+    {
+        "ticker": "ARKR",
+        "filename": "ARKR-NASDAQ.csv",
+        "length": 9325
+    },
+    {
+        "ticker": "ARLP",
+        "filename": "ARLP-NASDAQ.csv",
+        "length": 5870
+    },
+    {
+        "ticker": "AROW",
+        "filename": "AROW-NASDAQ.csv",
+        "length": 10649
+    },
+    {
+        "ticker": "ARRY",
+        "filename": "ARRY-NASDAQ.csv",
+        "length": 544
+    },
+    {
+        "ticker": "ARTNA",
+        "filename": "ARTNA-NASDAQ.csv",
+        "length": 7209
+    },
+    {
+        "ticker": "ASMB",
+        "filename": "ASMB-NASDAQ.csv",
+        "length": 3017
+    },
+    {
+        "ticker": "ASML",
+        "filename": "ASML-NASDAQ.csv",
+        "length": 6987
+    },
+    {
+        "ticker": "ASPS",
+        "filename": "ASPS-NASDAQ.csv",
+        "length": 3362
+    },
+    {
+        "ticker": "ASRV",
+        "filename": "ASRV-NASDAQ.csv",
+        "length": 9545
+    },
+    {
+        "ticker": "ASTC",
+        "filename": "ASTC-NASDAQ.csv",
+        "length": 6791
+    },
+    {
+        "ticker": "ASTE",
+        "filename": "ASTE-NASDAQ.csv",
+        "length": 9197
+    },
+    {
+        "ticker": "ASTI",
+        "filename": "ASTI-NASDAQ.csv",
+        "length": 77
+    },
+    {
+        "ticker": "ASUR",
+        "filename": "ASUR-NASDAQ.csv",
+        "length": 7729
+    },
+    {
+        "ticker": "ASYS",
+        "filename": "ASYS-NASDAQ.csv",
+        "length": 9919
+    },
+    {
+        "ticker": "ATAI",
+        "filename": "ATAI-NASDAQ.csv",
+        "length": 375
+    },
+    {
+        "ticker": "ATAX",
+        "filename": "ATAX-NASDAQ.csv",
+        "length": 9252
+    },
+    {
+        "ticker": "ATEC",
+        "filename": "ATEC-NASDAQ.csv",
+        "length": 4156
+    },
+    {
+        "ticker": "ATHX",
+        "filename": "ATHX-NASDAQ.csv",
+        "length": 3905
+    },
+    {
+        "ticker": "ATLC",
+        "filename": "ATLC-NASDAQ.csv",
+        "length": 5950
+    },
+    {
+        "ticker": "ATLO",
+        "filename": "ATLO-NASDAQ.csv",
+        "length": 5744
+    },
+    {
+        "ticker": "ATNM",
+        "filename": "ATNM-NASDAQ.csv",
+        "length": 2508
+    },
+    {
+        "ticker": "ATOS",
+        "filename": "ATOS-NASDAQ.csv",
+        "length": 2541
+    },
+    {
+        "ticker": "ATRA",
+        "filename": "ATRA-NASDAQ.csv",
+        "length": 2054
+    },
+    {
+        "ticker": "ATRC",
+        "filename": "ATRC-NASDAQ.csv",
+        "length": 4369
+    },
+    {
+        "ticker": "ATRO",
+        "filename": "ATRO-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "ATSG",
+        "filename": "ATSG-NASDAQ.csv",
+        "length": 4883
+    },
+    {
+        "ticker": "ATVI",
+        "filename": "ATVI-NASDAQ.csv",
+        "length": 7337
+    },
+    {
+        "ticker": "AUBN",
+        "filename": "AUBN-NASDAQ.csv",
+        "length": 6889
+    },
+    {
+        "ticker": "AUDC",
+        "filename": "AUDC-NASDAQ.csv",
+        "length": 5925
+    },
+    {
+        "ticker": "AUPH",
+        "filename": "AUPH-NASDAQ.csv",
+        "length": 2085
+    },
+    {
+        "ticker": "AVAV",
+        "filename": "AVAV-NASDAQ.csv",
+        "length": 4002
+    },
+    {
+        "ticker": "AVEO",
+        "filename": "AVEO-NASDAQ.csv",
+        "length": 3212
+    },
+    {
+        "ticker": "AVHI",
+        "filename": "AVHI-NASDAQ.csv",
+        "length": 269
+    },
+    {
+        "ticker": "AVID",
+        "filename": "AVID-NASDAQ.csv",
+        "length": 7494
+    },
+    {
+        "ticker": "AVNW",
+        "filename": "AVNW-NASDAQ.csv",
+        "length": 8965
+    },
+    {
+        "ticker": "AWAY",
+        "filename": "AWAY-NASDAQ.csv",
+        "length": 714
+    },
+    {
+        "ticker": "AWRE",
+        "filename": "AWRE-NASDAQ.csv",
+        "length": 6631
+    },
+    {
+        "ticker": "AXAS",
+        "filename": "AXAS-NASDAQ.csv",
+        "length": 7962
+    },
+    {
+        "ticker": "AXDX",
+        "filename": "AXDX-NASDAQ.csv",
+        "length": 7223
+    },
+    {
+        "ticker": "AXGN",
+        "filename": "AXGN-NASDAQ.csv",
+        "length": 9070
+    },
+    {
+        "ticker": "AXTI",
+        "filename": "AXTI-NASDAQ.csv",
+        "length": 6182
+    },
+    {
+        "ticker": "AZPN",
+        "filename": "AZPN-NASDAQ.csv",
+        "length": 7083
+    },
+    {
+        "ticker": "BANF",
+        "filename": "BANF-NASDAQ.csv",
+        "length": 8244
+    },
+    {
+        "ticker": "BANR",
+        "filename": "BANR-NASDAQ.csv",
+        "length": 6826
+    },
+    {
+        "ticker": "BANX",
+        "filename": "BANX-NASDAQ.csv",
+        "length": 2290
+    },
+    {
+        "ticker": "BBBY",
+        "filename": "BBBY-NASDAQ.csv",
+        "length": 7688
+    },
+    {
+        "ticker": "BBGI",
+        "filename": "BBGI-NASDAQ.csv",
+        "length": 5746
+    },
+    {
+        "ticker": "BBLU",
+        "filename": "BBLU-NASDAQ.csv",
+        "length": 40
+    },
+    {
+        "ticker": "BBOX",
+        "filename": "BBOX-NASDAQ.csv",
+        "length": 7553
+    },
+    {
+        "ticker": "BBRG",
+        "filename": "BBRG-NASDAQ.csv",
+        "length": 3057
+    },
+    {
+        "ticker": "BBSI",
+        "filename": "BBSI-NASDAQ.csv",
+        "length": 7431
+    },
+    {
+        "ticker": "BCBP",
+        "filename": "BCBP-NASDAQ.csv",
+        "length": 4824
+    },
+    {
+        "ticker": "BCLI",
+        "filename": "BCLI-NASDAQ.csv",
+        "length": 4830
+    },
+    {
+        "ticker": "BCMXY",
+        "filename": "BCMXY-NASDAQ.csv",
+        "length": 485
+    },
+    {
+        "ticker": "BCOR",
+        "filename": "BCOR-NASDAQ.csv",
+        "length": 6038
+    },
+    {
+        "ticker": "BCOV",
+        "filename": "BCOV-NASDAQ.csv",
+        "length": 2723
+    },
+    {
+        "ticker": "BCPC",
+        "filename": "BCPC-NASDAQ.csv",
+        "length": 9208
+    },
+    {
+        "ticker": "BCRX",
+        "filename": "BCRX-NASDAQ.csv",
+        "length": 7246
+    },
+    {
+        "ticker": "BCS",
+        "filename": "BCS-NASDAQ.csv",
+        "length": 9140
+    },
+    {
+        "ticker": "BDMS",
+        "filename": "BDMS-NASDAQ.csv",
+        "length": 6251
+    },
+    {
+        "ticker": "BDSI",
+        "filename": "BDSI-NASDAQ.csv",
+        "length": 5132
+    },
+    {
+        "ticker": "BEAT",
+        "filename": "BEAT-NASDAQ.csv",
+        "length": 273
+    },
+    {
+        "ticker": "BEBE",
+        "filename": "BEBE-NASDAQ.csv",
+        "length": 6164
+    },
+    {
+        "ticker": "BECN",
+        "filename": "BECN-NASDAQ.csv",
+        "length": 4588
+    },
+    {
+        "ticker": "BELFB",
+        "filename": "BELFB-NASDAQ.csv",
+        "length": 6148
+    },
+    {
+        "ticker": "BFIN",
+        "filename": "BFIN-NASDAQ.csv",
+        "length": 4396
+    },
+    {
+        "ticker": "BGCP",
+        "filename": "BGCP-NASDAQ.csv",
+        "length": 5789
+    },
+    {
+        "ticker": "BGFV",
+        "filename": "BGFV-NASDAQ.csv",
+        "length": 5154
+    },
+    {
+        "ticker": "BGMD",
+        "filename": "BGMD-NASDAQ.csv",
+        "length": 2984
+    },
+    {
+        "ticker": "BIDU",
+        "filename": "BIDU-NASDAQ.csv",
+        "length": 4369
+    },
+    {
+        "ticker": "BIIB",
+        "filename": "BIIB-NASDAQ.csv",
+        "length": 7870
+    },
+    {
+        "ticker": "BIND",
+        "filename": "BIND-NASDAQ.csv",
+        "length": 2640
+    },
+    {
+        "ticker": "BIOC",
+        "filename": "BIOC-NASDAQ.csv",
+        "length": 2230
+    },
+    {
+        "ticker": "BIOS",
+        "filename": "BIOS-NASDAQ.csv",
+        "length": 220
+    },
+    {
+        "ticker": "BITRF",
+        "filename": "BITRF-NASDAQ.csv",
+        "length": 2449
+    },
+    {
+        "ticker": "BJRI",
+        "filename": "BJRI-NASDAQ.csv",
+        "length": 6589
+    },
+    {
+        "ticker": "BKCC",
+        "filename": "BKCC-NASDAQ.csv",
+        "length": 3894
+    },
+    {
+        "ticker": "BLCM",
+        "filename": "BLCM-NASDAQ.csv",
+        "length": 2010
+    },
+    {
+        "ticker": "BLDP",
+        "filename": "BLDP-NASDAQ.csv",
+        "length": 6821
+    },
+    {
+        "ticker": "BLDR",
+        "filename": "BLDR-NASDAQ.csv",
+        "length": 4396
+    },
+    {
+        "ticker": "BLFS",
+        "filename": "BLFS-NASDAQ.csv",
+        "length": 8328
+    },
+    {
+        "ticker": "BLIN",
+        "filename": "BLIN-NASDAQ.csv",
+        "length": 3892
+    },
+    {
+        "ticker": "BLKB",
+        "filename": "BLKB-NASDAQ.csv",
+        "length": 4630
+    },
+    {
+        "ticker": "BLMN",
+        "filename": "BLMN-NASDAQ.csv",
+        "length": 2604
+    },
+    {
+        "ticker": "BLRX",
+        "filename": "BLRX-NASDAQ.csv",
+        "length": 2865
+    },
+    {
+        "ticker": "BLUE",
+        "filename": "BLUE-NASDAQ.csv",
+        "length": 2389
+    },
+    {
+        "ticker": "BMRC",
+        "filename": "BMRC-NASDAQ.csv",
+        "length": 5780
+    },
+    {
+        "ticker": "BMRN",
+        "filename": "BMRN-NASDAQ.csv",
+        "length": 5886
+    },
+    {
+        "ticker": "BNFT",
+        "filename": "BNFT-NASDAQ.csv",
+        "length": 2326
+    },
+    {
+        "ticker": "BNSO",
+        "filename": "BNSO-NASDAQ.csv",
+        "length": 8432
+    },
+    {
+        "ticker": "BOKF",
+        "filename": "BOKF-NASDAQ.csv",
+        "length": 7878
+    },
+    {
+        "ticker": "BOSC",
+        "filename": "BOSC-NASDAQ.csv",
+        "length": 6721
+    },
+    {
+        "ticker": "BOTJ",
+        "filename": "BOTJ-NASDAQ.csv",
+        "length": 5621
+    },
+    {
+        "ticker": "BPOP",
+        "filename": "BPOP-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "BRFH",
+        "filename": "BRFH-NASDAQ.csv",
+        "length": 2664
+    },
+    {
+        "ticker": "BRID",
+        "filename": "BRID-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "BRKL",
+        "filename": "BRKL-NASDAQ.csv",
+        "length": 6222
+    },
+    {
+        "ticker": "BRKR",
+        "filename": "BRKR-NASDAQ.csv",
+        "length": 5625
+    },
+    {
+        "ticker": "BSET",
+        "filename": "BSET-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "BSF",
+        "filename": "BSF-NASDAQ.csv",
+        "length": 6699
+    },
+    {
+        "ticker": "BSPM",
+        "filename": "BSPM-NASDAQ.csv",
+        "length": 3519
+    },
+    {
+        "ticker": "BSQR",
+        "filename": "BSQR-NASDAQ.csv",
+        "length": 5824
+    },
+    {
+        "ticker": "BSRR",
+        "filename": "BSRR-NASDAQ.csv",
+        "length": 7216
+    },
+    {
+        "ticker": "BSTG",
+        "filename": "BSTG-NASDAQ.csv",
+        "length": 2302
+    },
+    {
+        "ticker": "BUR",
+        "filename": "BUR-NASDAQ.csv",
+        "length": 542
+    },
+    {
+        "ticker": "BUSE",
+        "filename": "BUSE-NASDAQ.csv",
+        "length": 6087
+    },
+    {
+        "ticker": "BV",
+        "filename": "BV-NASDAQ.csv",
+        "length": 1123
+    },
+    {
+        "ticker": "BWEN",
+        "filename": "BWEN-NASDAQ.csv",
+        "length": 4301
+    },
+    {
+        "ticker": "BWFG",
+        "filename": "BWFG-NASDAQ.csv",
+        "length": 3197
+    },
+    {
+        "ticker": "BYBK",
+        "filename": "BYBK-NASDAQ.csv",
+        "length": 7187
+    },
+    {
+        "ticker": "BYFC",
+        "filename": "BYFC-NASDAQ.csv",
+        "length": 6780
+    },
+    {
+        "ticker": "CAAS",
+        "filename": "CAAS-NASDAQ.csv",
+        "length": 4967
+    },
+    {
+        "ticker": "CAC",
+        "filename": "CAC-NASDAQ.csv",
+        "length": 6337
+    },
+    {
+        "ticker": "CACC",
+        "filename": "CACC-NASDAQ.csv",
+        "length": 7688
+    },
+    {
+        "ticker": "CACH",
+        "filename": "CACH-NASDAQ.csv",
+        "length": 10529
+    },
+    {
+        "ticker": "CAKE",
+        "filename": "CAKE-NASDAQ.csv",
+        "length": 7615
+    },
+    {
+        "ticker": "CALA",
+        "filename": "CALA-NASDAQ.csv",
+        "length": 2064
+    },
+    {
+        "ticker": "CALD",
+        "filename": "CALD-NASDAQ.csv",
+        "length": 4798
+    },
+    {
+        "ticker": "CALL",
+        "filename": "CALL-NASDAQ.csv",
+        "length": 1241
+    },
+    {
+        "ticker": "CAMP",
+        "filename": "CAMP-NASDAQ.csv",
+        "length": 9831
+    },
+    {
+        "ticker": "CAMT",
+        "filename": "CAMT-NASDAQ.csv",
+        "length": 5630
+    },
+    {
+        "ticker": "CAR",
+        "filename": "CAR-NASDAQ.csv",
+        "length": 9894
+    },
+    {
+        "ticker": "CARA",
+        "filename": "CARA-NASDAQ.csv",
+        "length": 2233
+    },
+    {
+        "ticker": "CARV",
+        "filename": "CARV-NASDAQ.csv",
+        "length": 7084
+    },
+    {
+        "ticker": "CASH",
+        "filename": "CASH-NASDAQ.csv",
+        "length": 7362
+    },
+    {
+        "ticker": "CASI",
+        "filename": "CASI-NASDAQ.csv",
+        "length": 6672
+    },
+    {
+        "ticker": "CASS",
+        "filename": "CASS-NASDAQ.csv",
+        "length": 6658
+    },
+    {
+        "ticker": "CASY",
+        "filename": "CASY-NASDAQ.csv",
+        "length": 9868
+    },
+    {
+        "ticker": "CATY",
+        "filename": "CATY-NASDAQ.csv",
+        "length": 8060
+    },
+    {
+        "ticker": "CAVM",
+        "filename": "CAVM-NASDAQ.csv",
+        "length": 3933
+    },
+    {
+        "ticker": "CBAN",
+        "filename": "CBAN-NASDAQ.csv",
+        "length": 6216
+    },
+    {
+        "ticker": "CBAY",
+        "filename": "CBAY-NASDAQ.csv",
+        "length": 2232
+    },
+    {
+        "ticker": "CBFC",
+        "filename": "CBFC-NASDAQ.csv",
+        "length": 3201
+    },
+    {
+        "ticker": "CBFV",
+        "filename": "CBFV-NASDAQ.csv",
+        "length": 4830
+    },
+    {
+        "ticker": "CBNK",
+        "filename": "CBNK-NASDAQ.csv",
+        "length": 1061
+    },
+    {
+        "ticker": "CBOE",
+        "filename": "CBOE-NASDAQ.csv",
+        "length": 3147
+    },
+    {
+        "ticker": "CBRL",
+        "filename": "CBRL-NASDAQ.csv",
+        "length": 10363
+    },
+    {
+        "ticker": "CBSH",
+        "filename": "CBSH-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "CCBG",
+        "filename": "CCBG-NASDAQ.csv",
+        "length": 7183
+    },
+    {
+        "ticker": "CCF",
+        "filename": "CCF-NASDAQ.csv",
+        "length": 7217
+    },
+    {
+        "ticker": "CCIH",
+        "filename": "CCIH-NASDAQ.csv",
+        "length": 3071
+    },
+    {
+        "ticker": "CCLP",
+        "filename": "CCLP-NASDAQ.csv",
+        "length": 2894
+    },
+    {
+        "ticker": "CCNE",
+        "filename": "CCNE-NASDAQ.csv",
+        "length": 7226
+    },
+    {
+        "ticker": "CCOI",
+        "filename": "CCOI-NASDAQ.csv",
+        "length": 5251
+    },
+    {
+        "ticker": "CCRN",
+        "filename": "CCRN-NASDAQ.csv",
+        "length": 5320
+    },
+    {
+        "ticker": "CCUR",
+        "filename": "CCUR-NASDAQ.csv",
+        "length": 9664
+    },
+    {
+        "ticker": "CCXI",
+        "filename": "CCXI-NASDAQ.csv",
+        "length": 4679
+    },
+    {
+        "ticker": "CDNA",
+        "filename": "CDNA-NASDAQ.csv",
+        "length": 2118
+    },
+    {
+        "ticker": "CDNS",
+        "filename": "CDNS-NASDAQ.csv",
+        "length": 8950
+    },
+    {
+        "ticker": "CDTI",
+        "filename": "CDTI-NASDAQ.csv",
+        "length": 6788
+    },
+    {
+        "ticker": "CDW",
+        "filename": "CDW-NASDAQ.csv",
+        "length": 2383
+    },
+    {
+        "ticker": "CDXS",
+        "filename": "CDXS-NASDAQ.csv",
+        "length": 3184
+    },
+    {
+        "ticker": "CDZI",
+        "filename": "CDZI-NASDAQ.csv",
+        "length": 8554
+    },
+    {
+        "ticker": "CECE",
+        "filename": "CECE-NASDAQ.csv",
+        "length": 10601
+    },
+    {
+        "ticker": "CECO",
+        "filename": "CECO-NASDAQ.csv",
+        "length": 10598
+    },
+    {
+        "ticker": "CEMI",
+        "filename": "CEMI-NASDAQ.csv",
+        "length": 5573
+    },
+    {
+        "ticker": "CENT",
+        "filename": "CENT-NASDAQ.csv",
+        "length": 7661
+    },
+    {
+        "ticker": "CENX",
+        "filename": "CENX-NASDAQ.csv",
+        "length": 6723
+    },
+    {
+        "ticker": "CERE",
+        "filename": "CERE-NASDAQ.csv",
+        "length": 598
+    },
+    {
+        "ticker": "CERS",
+        "filename": "CERS-NASDAQ.csv",
+        "length": 6510
+    },
+    {
+        "ticker": "CEVA",
+        "filename": "CEVA-NASDAQ.csv",
+        "length": 5063
+    },
+    {
+        "ticker": "CFBK",
+        "filename": "CFBK-NASDAQ.csv",
+        "length": 6028
+    },
+    {
+        "ticker": "CFFI",
+        "filename": "CFFI-NASDAQ.csv",
+        "length": 6192
+    },
+    {
+        "ticker": "CFFN",
+        "filename": "CFFN-NASDAQ.csv",
+        "length": 5965
+    },
+    {
+        "ticker": "CFNB",
+        "filename": "CFNB-NASDAQ.csv",
+        "length": 8993
+    },
+    {
+        "ticker": "CFRX",
+        "filename": "CFRX-NASDAQ.csv",
+        "length": 2078
+    },
+    {
+        "ticker": "CG",
+        "filename": "CG-NASDAQ.csv",
+        "length": 2671
+    },
+    {
+        "ticker": "CGEN",
+        "filename": "CGEN-NASDAQ.csv",
+        "length": 5620
+    },
+    {
+        "ticker": "CGNX",
+        "filename": "CGNX-NASDAQ.csv",
+        "length": 8416
+    },
+    {
+        "ticker": "CGO",
+        "filename": "CGO-NASDAQ.csv",
+        "length": 4311
+    },
+    {
+        "ticker": "CHCI",
+        "filename": "CHCI-NASDAQ.csv",
+        "length": 4531
+    },
+    {
+        "ticker": "CHCO",
+        "filename": "CHCO-NASDAQ.csv",
+        "length": 8938
+    },
+    {
+        "ticker": "CHDN",
+        "filename": "CHDN-NASDAQ.csv",
+        "length": 7483
+    },
+    {
+        "ticker": "CHEF",
+        "filename": "CHEF-NASDAQ.csv",
+        "length": 2864
+    },
+    {
+        "ticker": "CHFN",
+        "filename": "CHFN-NASDAQ.csv",
+        "length": 5326
+    },
+    {
+        "ticker": "CHI",
+        "filename": "CHI-NASDAQ.csv",
+        "length": 5152
+    },
+    {
+        "ticker": "CHKP",
+        "filename": "CHKP-NASDAQ.csv",
+        "length": 6660
+    },
+    {
+        "ticker": "CHMG",
+        "filename": "CHMG-NASDAQ.csv",
+        "length": 6026
+    },
+    {
+        "ticker": "CHNR",
+        "filename": "CHNR-NASDAQ.csv",
+        "length": 6887
+    },
+    {
+        "ticker": "CHRS",
+        "filename": "CHRS-NASDAQ.csv",
+        "length": 2039
+    },
+    {
+        "ticker": "CHRW",
+        "filename": "CHRW-NASDAQ.csv",
+        "length": 6331
+    },
+    {
+        "ticker": "CHSCP",
+        "filename": "CHSCP-NASDAQ.csv",
+        "length": 4967
+    },
+    {
+        "ticker": "CHSYF",
+        "filename": "CHSYF-NASDAQ.csv",
+        "length": 2440
+    },
+    {
+        "ticker": "CHTR",
+        "filename": "CHTR-NASDAQ.csv",
+        "length": 3258
+    },
+    {
+        "ticker": "CHUY",
+        "filename": "CHUY-NASDAQ.csv",
+        "length": 2615
+    },
+    {
+        "ticker": "CHW",
+        "filename": "CHW-NASDAQ.csv",
+        "length": 3874
+    },
+    {
+        "ticker": "CHY",
+        "filename": "CHY-NASDAQ.csv",
+        "length": 4921
+    },
+    {
+        "ticker": "CIDM",
+        "filename": "CIDM-NASDAQ.csv",
+        "length": 4806
+    },
+    {
+        "ticker": "CINF",
+        "filename": "CINF-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "CIZN",
+        "filename": "CIZN-NASDAQ.csv",
+        "length": 5826
+    },
+    {
+        "ticker": "CLDX",
+        "filename": "CLDX-NASDAQ.csv",
+        "length": 9220
+    },
+    {
+        "ticker": "CLFD",
+        "filename": "CLFD-NASDAQ.csv",
+        "length": 9163
+    },
+    {
+        "ticker": "CLIR",
+        "filename": "CLIR-NASDAQ.csv",
+        "length": 2677
+    },
+    {
+        "ticker": "CLMT",
+        "filename": "CLMT-NASDAQ.csv",
+        "length": 4250
+    },
+    {
+        "ticker": "CLNE",
+        "filename": "CLNE-NASDAQ.csv",
+        "length": 3916
+    },
+    {
+        "ticker": "CLRB",
+        "filename": "CLRB-NASDAQ.csv",
+        "length": 4301
+    },
+    {
+        "ticker": "CLRI",
+        "filename": "CLRI-NASDAQ.csv",
+        "length": 3553
+    },
+    {
+        "ticker": "CLRO",
+        "filename": "CLRO-NASDAQ.csv",
+        "length": 8512
+    },
+    {
+        "ticker": "CLVS",
+        "filename": "CLVS-NASDAQ.csv",
+        "length": 2786
+    },
+    {
+        "ticker": "CLWT",
+        "filename": "CLWT-NASDAQ.csv",
+        "length": 6481
+    },
+    {
+        "ticker": "CMCO",
+        "filename": "CMCO-NASDAQ.csv",
+        "length": 6748
+    },
+    {
+        "ticker": "CMCSA",
+        "filename": "CMCSA-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "CMCT",
+        "filename": "CMCT-NASDAQ.csv",
+        "length": 7299
+    },
+    {
+        "ticker": "CME",
+        "filename": "CME-NASDAQ.csv",
+        "length": 5039
+    },
+    {
+        "ticker": "CMLS",
+        "filename": "CMLS-NASDAQ.csv",
+        "length": 1096
+    },
+    {
+        "ticker": "CMOXF",
+        "filename": "CMOXF-NASDAQ.csv",
+        "length": 2062
+    },
+    {
+        "ticker": "CMPR",
+        "filename": "CMPR-NASDAQ.csv",
+        "length": 4330
+    },
+    {
+        "ticker": "CMRX",
+        "filename": "CMRX-NASDAQ.csv",
+        "length": 2437
+    },
+    {
+        "ticker": "CMTL",
+        "filename": "CMTL-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "CNBZ",
+        "filename": "CNBZ-NASDAQ.csv",
+        "length": 3927
+    },
+    {
+        "ticker": "CNCE",
+        "filename": "CNCE-NASDAQ.csv",
+        "length": 2224
+    },
+    {
+        "ticker": "CNET",
+        "filename": "CNET-NASDAQ.csv",
+        "length": 3356
+    },
+    {
+        "ticker": "CNMD",
+        "filename": "CNMD-NASDAQ.csv",
+        "length": 8920
+    },
+    {
+        "ticker": "CNOB",
+        "filename": "CNOB-NASDAQ.csv",
+        "length": 7226
+    },
+    {
+        "ticker": "CNSL",
+        "filename": "CNSL-NASDAQ.csv",
+        "length": 4379
+    },
+    {
+        "ticker": "CNTY",
+        "filename": "CNTY-NASDAQ.csv",
+        "length": 7325
+    },
+    {
+        "ticker": "CNXR",
+        "filename": "CNXR-NASDAQ.csv",
+        "length": 2014
+    },
+    {
+        "ticker": "COBZ",
+        "filename": "COBZ-NASDAQ.csv",
+        "length": 6163
+    },
+    {
+        "ticker": "COCO",
+        "filename": "COCO-NASDAQ.csv",
+        "length": 288
+    },
+    {
+        "ticker": "COHR",
+        "filename": "COHR-NASDAQ.csv",
+        "length": 8870
+    },
+    {
+        "ticker": "COHU",
+        "filename": "COHU-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "COLB",
+        "filename": "COLB-NASDAQ.csv",
+        "length": 7681
+    },
+    {
+        "ticker": "COLM",
+        "filename": "COLM-NASDAQ.csv",
+        "length": 6220
+    },
+    {
+        "ticker": "COMM",
+        "filename": "COMM-NASDAQ.csv",
+        "length": 2299
+    },
+    {
+        "ticker": "CONN",
+        "filename": "CONN-NASDAQ.csv",
+        "length": 4795
+    },
+    {
+        "ticker": "CORI",
+        "filename": "CORI-NASDAQ.csv",
+        "length": 2190
+    },
+    {
+        "ticker": "CORT",
+        "filename": "CORT-NASDAQ.csv",
+        "length": 4700
+    },
+    {
+        "ticker": "COST",
+        "filename": "COST-NASDAQ.csv",
+        "length": 9183
+    },
+    {
+        "ticker": "CPHC",
+        "filename": "CPHC-NASDAQ.csv",
+        "length": 3592
+    },
+    {
+        "ticker": "CPICQ",
+        "filename": "CPICQ-NASDAQ.csv",
+        "length": 10179
+    },
+    {
+        "ticker": "CPIX",
+        "filename": "CPIX-NASDAQ.csv",
+        "length": 3359
+    },
+    {
+        "ticker": "CPLA",
+        "filename": "CPLA-NASDAQ.csv",
+        "length": 4049
+    },
+    {
+        "ticker": "CPLP",
+        "filename": "CPLP-NASDAQ.csv",
+        "length": 3955
+    },
+    {
+        "ticker": "CPRT",
+        "filename": "CPRT-NASDAQ.csv",
+        "length": 7237
+    },
+    {
+        "ticker": "CPRX",
+        "filename": "CPRX-NASDAQ.csv",
+        "length": 4051
+    },
+    {
+        "ticker": "CPSI",
+        "filename": "CPSI-NASDAQ.csv",
+        "length": 5178
+    },
+    {
+        "ticker": "CPSS",
+        "filename": "CPSS-NASDAQ.csv",
+        "length": 7591
+    },
+    {
+        "ticker": "CRAI",
+        "filename": "CRAI-NASDAQ.csv",
+        "length": 6201
+    },
+    {
+        "ticker": "CREG",
+        "filename": "CREG-NASDAQ.csv",
+        "length": 4525
+    },
+    {
+        "ticker": "CRIS",
+        "filename": "CRIS-NASDAQ.csv",
+        "length": 5628
+    },
+    {
+        "ticker": "CRMT",
+        "filename": "CRMT-NASDAQ.csv",
+        "length": 9011
+    },
+    {
+        "ticker": "CRNT",
+        "filename": "CRNT-NASDAQ.csv",
+        "length": 5625
+    },
+    {
+        "ticker": "CROX",
+        "filename": "CROX-NASDAQ.csv",
+        "length": 4241
+    },
+    {
+        "ticker": "CRTN",
+        "filename": "CRTN-NASDAQ.csv",
+        "length": 5801
+    },
+    {
+        "ticker": "CRTO",
+        "filename": "CRTO-NASDAQ.csv",
+        "length": 2296
+    },
+    {
+        "ticker": "CRUS",
+        "filename": "CRUS-NASDAQ.csv",
+        "length": 8444
+    },
+    {
+        "ticker": "CRVS",
+        "filename": "CRVS-NASDAQ.csv",
+        "length": 1694
+    },
+    {
+        "ticker": "CRWS",
+        "filename": "CRWS-NASDAQ.csv",
+        "length": 4830
+    },
+    {
+        "ticker": "CS",
+        "filename": "CS-NASDAQ.csv",
+        "length": 6944
+    },
+    {
+        "ticker": "CSBK",
+        "filename": "CSBK-NASDAQ.csv",
+        "length": 4728
+    },
+    {
+        "ticker": "CSBR",
+        "filename": "CSBR-NASDAQ.csv",
+        "length": 3994
+    },
+    {
+        "ticker": "CSCO",
+        "filename": "CSCO-NASDAQ.csv",
+        "length": 8269
+    },
+    {
+        "ticker": "CSGP",
+        "filename": "CSGP-NASDAQ.csv",
+        "length": 6154
+    },
+    {
+        "ticker": "CSGS",
+        "filename": "CSGS-NASDAQ.csv",
+        "length": 6745
+    },
+    {
+        "ticker": "CSII",
+        "filename": "CSII-NASDAQ.csv",
+        "length": 4144
+    },
+    {
+        "ticker": "CSIQ",
+        "filename": "CSIQ-NASDAQ.csv",
+        "length": 4050
+    },
+    {
+        "ticker": "CSPI",
+        "filename": "CSPI-NASDAQ.csv",
+        "length": 10305
+    },
+    {
+        "ticker": "CSQ",
+        "filename": "CSQ-NASDAQ.csv",
+        "length": 4708
+    },
+    {
+        "ticker": "CSTE",
+        "filename": "CSTE-NASDAQ.csv",
+        "length": 2700
+    },
+    {
+        "ticker": "CSWC",
+        "filename": "CSWC-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "CTAS",
+        "filename": "CTAS-NASDAQ.csv",
+        "length": 9911
+    },
+    {
+        "ticker": "CTBI",
+        "filename": "CTBI-NASDAQ.csv",
+        "length": 8810
+    },
+    {
+        "ticker": "CTG",
+        "filename": "CTG-NASDAQ.csv",
+        "length": 10772
+    },
+    {
+        "ticker": "CTHR",
+        "filename": "CTHR-NASDAQ.csv",
+        "length": 6310
+    },
+    {
+        "ticker": "CTIB",
+        "filename": "CTIB-NASDAQ.csv",
+        "length": 4921
+    },
+    {
+        "ticker": "CTIC",
+        "filename": "CTIC-NASDAQ.csv",
+        "length": 6476
+    },
+    {
+        "ticker": "CTRE",
+        "filename": "CTRE-NASDAQ.csv",
+        "length": 2152
+    },
+    {
+        "ticker": "CTRN",
+        "filename": "CTRN-NASDAQ.csv",
+        "length": 4424
+    },
+    {
+        "ticker": "CTSH",
+        "filename": "CTSH-NASDAQ.csv",
+        "length": 6162
+    },
+    {
+        "ticker": "CTSO",
+        "filename": "CTSO-NASDAQ.csv",
+        "length": 4116
+    },
+    {
+        "ticker": "CUBA",
+        "filename": "CUBA-NASDAQ.csv",
+        "length": 7193
+    },
+    {
+        "ticker": "CUTR",
+        "filename": "CUTR-NASDAQ.csv",
+        "length": 4709
+    },
+    {
+        "ticker": "CVCO",
+        "filename": "CVCO-NASDAQ.csv",
+        "length": 4898
+    },
+    {
+        "ticker": "CVCY",
+        "filename": "CVCY-NASDAQ.csv",
+        "length": 5983
+    },
+    {
+        "ticker": "CVGI",
+        "filename": "CVGI-NASDAQ.csv",
+        "length": 4620
+    },
+    {
+        "ticker": "CVGW",
+        "filename": "CVGW-NASDAQ.csv",
+        "length": 5136
+    },
+    {
+        "ticker": "CVLT",
+        "filename": "CVLT-NASDAQ.csv",
+        "length": 4084
+    },
+    {
+        "ticker": "CVLY",
+        "filename": "CVLY-NASDAQ.csv",
+        "length": 7225
+    },
+    {
+        "ticker": "CVV",
+        "filename": "CVV-NASDAQ.csv",
+        "length": 5988
+    },
+    {
+        "ticker": "CWAY",
+        "filename": "CWAY-NASDAQ.csv",
+        "length": 2244
+    },
+    {
+        "ticker": "CWBC",
+        "filename": "CWBC-NASDAQ.csv",
+        "length": 6560
+    },
+    {
+        "ticker": "CWCO",
+        "filename": "CWCO-NASDAQ.csv",
+        "length": 7021
+    },
+    {
+        "ticker": "CWST",
+        "filename": "CWST-NASDAQ.csv",
+        "length": 6322
+    },
+    {
+        "ticker": "CXDC",
+        "filename": "CXDC-NASDAQ.csv",
+        "length": 3830
+    },
+    {
+        "ticker": "CYAN",
+        "filename": "CYAN-NASDAQ.csv",
+        "length": 7952
+    },
+    {
+        "ticker": "CYBE",
+        "filename": "CYBE-NASDAQ.csv",
+        "length": 8743
+    },
+    {
+        "ticker": "CYBR",
+        "filename": "CYBR-NASDAQ.csv",
+        "length": 2070
+    },
+    {
+        "ticker": "CYCC",
+        "filename": "CYCC-NASDAQ.csv",
+        "length": 4720
+    },
+    {
+        "ticker": "CYH",
+        "filename": "CYH-NASDAQ.csv",
+        "length": 5664
+    },
+    {
+        "ticker": "CYIO",
+        "filename": "CYIO-NASDAQ.csv",
+        "length": 6047
+    },
+    {
+        "ticker": "CYRN",
+        "filename": "CYRN-NASDAQ.csv",
+        "length": 5895
+    },
+    {
+        "ticker": "CYTK",
+        "filename": "CYTK-NASDAQ.csv",
+        "length": 4688
+    },
+    {
+        "ticker": "CZNC",
+        "filename": "CZNC-NASDAQ.csv",
+        "length": 7225
+    },
+    {
+        "ticker": "CZR",
+        "filename": "CZR-NASDAQ.csv",
+        "length": 2072
+    },
+    {
+        "ticker": "CZWI",
+        "filename": "CZWI-NASDAQ.csv",
+        "length": 4710
+    },
+    {
+        "ticker": "DAIO",
+        "filename": "DAIO-NASDAQ.csv",
+        "length": 8554
+    },
+    {
+        "ticker": "DAKT",
+        "filename": "DAKT-NASDAQ.csv",
+        "length": 7261
+    },
+    {
+        "ticker": "DARA",
+        "filename": "DARA-NASDAQ.csv",
+        "length": 2640
+    },
+    {
+        "ticker": "DAVE",
+        "filename": "DAVE-NASDAQ.csv",
+        "length": 413
+    },
+    {
+        "ticker": "DBVT",
+        "filename": "DBVT-NASDAQ.csv",
+        "length": 2050
+    },
+    {
+        "ticker": "DCOM",
+        "filename": "DCOM-NASDAQ.csv",
+        "length": 6020
+    },
+    {
+        "ticker": "DCTH",
+        "filename": "DCTH-NASDAQ.csv",
+        "length": 1162
+    },
+    {
+        "ticker": "DENN",
+        "filename": "DENN-NASDAQ.csv",
+        "length": 6274
+    },
+    {
+        "ticker": "DERM",
+        "filename": "DERM-NASDAQ.csv",
+        "length": 272
+    },
+    {
+        "ticker": "DFEL",
+        "filename": "DFEL-NASDAQ.csv",
+        "length": 3222
+    },
+    {
+        "ticker": "DGICA",
+        "filename": "DGICA-NASDAQ.csv",
+        "length": 4896
+    },
+    {
+        "ticker": "DGII",
+        "filename": "DGII-NASDAQ.csv",
+        "length": 8361
+    },
+    {
+        "ticker": "DGLY",
+        "filename": "DGLY-NASDAQ.csv",
+        "length": 3923
+    },
+    {
+        "ticker": "DHIL",
+        "filename": "DHIL-NASDAQ.csv",
+        "length": 6676
+    },
+    {
+        "ticker": "DIOD",
+        "filename": "DIOD-NASDAQ.csv",
+        "length": 12564
+    },
+    {
+        "ticker": "DISH",
+        "filename": "DISH-NASDAQ.csv",
+        "length": 6919
+    },
+    {
+        "ticker": "DJCO",
+        "filename": "DJCO-NASDAQ.csv",
+        "length": 9202
+    },
+    {
+        "ticker": "DLHC",
+        "filename": "DLHC-NASDAQ.csv",
+        "length": 9211
+    },
+    {
+        "ticker": "DLTR",
+        "filename": "DLTR-NASDAQ.csv",
+        "length": 6993
+    },
+    {
+        "ticker": "DMFG",
+        "filename": "DMFG-NASDAQ.csv",
+        "length": 3007
+    },
+    {
+        "ticker": "DMLP",
+        "filename": "DMLP-NASDAQ.csv",
+        "length": 5001
+    },
+    {
+        "ticker": "DMRC",
+        "filename": "DMRC-NASDAQ.csv",
+        "length": 5795
+    },
+    {
+        "ticker": "DORM",
+        "filename": "DORM-NASDAQ.csv",
+        "length": 8001
+    },
+    {
+        "ticker": "DOX",
+        "filename": "DOX-NASDAQ.csv",
+        "length": 6162
+    },
+    {
+        "ticker": "DRIV",
+        "filename": "DRIV-NASDAQ.csv",
+        "length": 1174
+    },
+    {
+        "ticker": "DRRX",
+        "filename": "DRRX-NASDAQ.csv",
+        "length": 5587
+    },
+    {
+        "ticker": "DSGX",
+        "filename": "DSGX-NASDAQ.csv",
+        "length": 6010
+    },
+    {
+        "ticker": "DSWL",
+        "filename": "DSWL-NASDAQ.csv",
+        "length": 6900
+    },
+    {
+        "ticker": "DVAX",
+        "filename": "DVAX-NASDAQ.csv",
+        "length": 4738
+    },
+    {
+        "ticker": "DWCH",
+        "filename": "DWCH-NASDAQ.csv",
+        "length": 7694
+    },
+    {
+        "ticker": "DWSN",
+        "filename": "DWSN-NASDAQ.csv",
+        "length": 7225
+    },
+    {
+        "ticker": "DXCM",
+        "filename": "DXCM-NASDAQ.csv",
+        "length": 4448
+    },
+    {
+        "ticker": "DXLG",
+        "filename": "DXLG-NASDAQ.csv",
+        "length": 8956
+    },
+    {
+        "ticker": "DXM",
+        "filename": "DXM-NASDAQ.csv",
+        "length": 1081
+    },
+    {
+        "ticker": "DXPE",
+        "filename": "DXPE-NASDAQ.csv",
+        "length": 6192
+    },
+    {
+        "ticker": "DXYN",
+        "filename": "DXYN-NASDAQ.csv",
+        "length": 9085
+    },
+    {
+        "ticker": "DYNT",
+        "filename": "DYNT-NASDAQ.csv",
+        "length": 9839
+    },
+    {
+        "ticker": "DYSL",
+        "filename": "DYSL-NASDAQ.csv",
+        "length": 5698
+    },
+    {
+        "ticker": "EA",
+        "filename": "EA-NASDAQ.csv",
+        "length": 8373
+    },
+    {
+        "ticker": "EAC",
+        "filename": "EAC-NASDAQ.csv",
+        "length": 452
+    },
+    {
+        "ticker": "EBAY",
+        "filename": "EBAY-NASDAQ.csv",
+        "length": 6095
+    },
+    {
+        "ticker": "EBIX",
+        "filename": "EBIX-NASDAQ.csv",
+        "length": 8935
+    },
+    {
+        "ticker": "EBMT",
+        "filename": "EBMT-NASDAQ.csv",
+        "length": 5708
+    },
+    {
+        "ticker": "EBTC",
+        "filename": "EBTC-NASDAQ.csv",
+        "length": 4489
+    },
+    {
+        "ticker": "ECOL",
+        "filename": "ECOL-NASDAQ.csv",
+        "length": 9728
+    },
+    {
+        "ticker": "ECPG",
+        "filename": "ECPG-NASDAQ.csv",
+        "length": 5897
+    },
+    {
+        "ticker": "ECYT",
+        "filename": "ECYT-NASDAQ.csv",
+        "length": 2984
+    },
+    {
+        "ticker": "EDAP",
+        "filename": "EDAP-NASDAQ.csv",
+        "length": 6384
+    },
+    {
+        "ticker": "EDF",
+        "filename": "EDF-NASDAQ.csv",
+        "length": 3012
+    },
+    {
+        "ticker": "EDGW",
+        "filename": "EDGW-NASDAQ.csv",
+        "length": 6597
+    },
+    {
+        "ticker": "EDI",
+        "filename": "EDI-NASDAQ.csv",
+        "length": 2548
+    },
+    {
+        "ticker": "EDSFF",
+        "filename": "EDSFF-NASDAQ.csv",
+        "length": 3783
+    },
+    {
+        "ticker": "EDUC",
+        "filename": "EDUC-NASDAQ.csv",
+        "length": 10777
+    },
+    {
+        "ticker": "EEFT",
+        "filename": "EEFT-NASDAQ.csv",
+        "length": 6486
+    },
+    {
+        "ticker": "EFLVF",
+        "filename": "EFLVF-NASDAQ.csv",
+        "length": 3258
+    },
+    {
+        "ticker": "EFOI",
+        "filename": "EFOI-NASDAQ.csv",
+        "length": 7131
+    },
+    {
+        "ticker": "EFSC",
+        "filename": "EFSC-NASDAQ.csv",
+        "length": 4889
+    },
+    {
+        "ticker": "EGAN",
+        "filename": "EGAN-NASDAQ.csv",
+        "length": 5844
+    },
+    {
+        "ticker": "EGBN",
+        "filename": "EGBN-NASDAQ.csv",
+        "length": 5894
+    },
+    {
+        "ticker": "EGHT",
+        "filename": "EGHT-NASDAQ.csv",
+        "length": 6405
+    },
+    {
+        "ticker": "EGLE",
+        "filename": "EGLE-NASDAQ.csv",
+        "length": 4396
+    },
+    {
+        "ticker": "EGRX",
+        "filename": "EGRX-NASDAQ.csv",
+        "length": 2225
+    },
+    {
+        "ticker": "EHTH",
+        "filename": "EHTH-NASDAQ.csv",
+        "length": 4064
+    },
+    {
+        "ticker": "ELON",
+        "filename": "ELON-NASDAQ.csv",
+        "length": 6136
+    },
+    {
+        "ticker": "ELTK",
+        "filename": "ELTK-NASDAQ.csv",
+        "length": 6517
+    },
+    {
+        "ticker": "EMCF",
+        "filename": "EMCF-NASDAQ.csv",
+        "length": 5983
+    },
+    {
+        "ticker": "EMF",
+        "filename": "EMF-NASDAQ.csv",
+        "length": 9022
+    },
+    {
+        "ticker": "EMITF",
+        "filename": "EMITF-NASDAQ.csv",
+        "length": 6553
+    },
+    {
+        "ticker": "EMKR",
+        "filename": "EMKR-NASDAQ.csv",
+        "length": 6487
+    },
+    {
+        "ticker": "EML",
+        "filename": "EML-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "EMMS",
+        "filename": "EMMS-NASDAQ.csv",
+        "length": 5273
+    },
+    {
+        "ticker": "ENBP",
+        "filename": "ENBP-NASDAQ.csv",
+        "length": 7153
+    },
+    {
+        "ticker": "ENPH",
+        "filename": "ENPH-NASDAQ.csv",
+        "length": 2694
+    },
+    {
+        "ticker": "ENSG",
+        "filename": "ENSG-NASDAQ.csv",
+        "length": 3799
+    },
+    {
+        "ticker": "ENTA",
+        "filename": "ENTA-NASDAQ.csv",
+        "length": 2451
+    },
+    {
+        "ticker": "ENTG",
+        "filename": "ENTG-NASDAQ.csv",
+        "length": 5643
+    },
+    {
+        "ticker": "ENTR",
+        "filename": "ENTR-NASDAQ.csv",
+        "length": 1282
+    },
+    {
+        "ticker": "ENZN",
+        "filename": "ENZN-NASDAQ.csv",
+        "length": 9786
+    },
+    {
+        "ticker": "EPAM",
+        "filename": "EPAM-NASDAQ.csv",
+        "length": 2730
+    },
+    {
+        "ticker": "EQIX",
+        "filename": "EQIX-NASDAQ.csv",
+        "length": 5620
+    },
+    {
+        "ticker": "ERIE",
+        "filename": "ERIE-NASDAQ.csv",
+        "length": 6848
+    },
+    {
+        "ticker": "ERII",
+        "filename": "ERII-NASDAQ.csv",
+        "length": 3638
+    },
+    {
+        "ticker": "ESCA",
+        "filename": "ESCA-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "ESCR",
+        "filename": "ESCR-NASDAQ.csv",
+        "length": 702
+    },
+    {
+        "ticker": "ESEA",
+        "filename": "ESEA-NASDAQ.csv",
+        "length": 4181
+    },
+    {
+        "ticker": "ESGR",
+        "filename": "ESGR-NASDAQ.csv",
+        "length": 6470
+    },
+    {
+        "ticker": "ESIO",
+        "filename": "ESIO-NASDAQ.csv",
+        "length": 9870
+    },
+    {
+        "ticker": "ESLT",
+        "filename": "ESLT-NASDAQ.csv",
+        "length": 6554
+    },
+    {
+        "ticker": "ESMC",
+        "filename": "ESMC-NASDAQ.csv",
+        "length": 7619
+    },
+    {
+        "ticker": "ESPR",
+        "filename": "ESPR-NASDAQ.csv",
+        "length": 2384
+    },
+    {
+        "ticker": "ESRX",
+        "filename": "ESRX-NASDAQ.csv",
+        "length": 7686
+    },
+    {
+        "ticker": "ESSA",
+        "filename": "ESSA-NASDAQ.csv",
+        "length": 3952
+    },
+    {
+        "ticker": "ETOLF",
+        "filename": "ETOLF-NASDAQ.csv",
+        "length": 3910
+    },
+    {
+        "ticker": "EVLV",
+        "filename": "EVLV-NASDAQ.csv",
+        "length": 561
+    },
+    {
+        "ticker": "EVOK",
+        "filename": "EVOK-NASDAQ.csv",
+        "length": 2321
+    },
+    {
+        "ticker": "EVOL",
+        "filename": "EVOL-NASDAQ.csv",
+        "length": 6188
+    },
+    {
+        "ticker": "EWBC",
+        "filename": "EWBC-NASDAQ.csv",
+        "length": 6005
+    },
+    {
+        "ticker": "EXAC",
+        "filename": "EXAC-NASDAQ.csv",
+        "length": 6681
+    },
+    {
+        "ticker": "EXAS",
+        "filename": "EXAS-NASDAQ.csv",
+        "length": 5501
+    },
+    {
+        "ticker": "EXEL",
+        "filename": "EXEL-NASDAQ.csv",
+        "length": 5701
+    },
+    {
+        "ticker": "EXLS",
+        "filename": "EXLS-NASDAQ.csv",
+        "length": 4064
+    },
+    {
+        "ticker": "EXPD",
+        "filename": "EXPD-NASDAQ.csv",
+        "length": 9632
+    },
+    {
+        "ticker": "EXPE",
+        "filename": "EXPE-NASDAQ.csv",
+        "length": 4380
+    },
+    {
+        "ticker": "EXPO",
+        "filename": "EXPO-NASDAQ.csv",
+        "length": 8143
+    },
+    {
+        "ticker": "EXTR",
+        "filename": "EXTR-NASDAQ.csv",
+        "length": 5960
+    },
+    {
+        "ticker": "EZPW",
+        "filename": "EZPW-NASDAQ.csv",
+        "length": 7884
+    },
+    {
+        "ticker": "FALC",
+        "filename": "FALC-NASDAQ.csv",
+        "length": 5359
+    },
+    {
+        "ticker": "FAM",
+        "filename": "FAM-NASDAQ.csv",
+        "length": 4544
+    },
+    {
+        "ticker": "FANG",
+        "filename": "FANG-NASDAQ.csv",
+        "length": 2558
+    },
+    {
+        "ticker": "FARM",
+        "filename": "FARM-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "FARO",
+        "filename": "FARO-NASDAQ.csv",
+        "length": 6351
+    },
+    {
+        "ticker": "FAST",
+        "filename": "FAST-NASDAQ.csv",
+        "length": 8900
+    },
+    {
+        "ticker": "FATE",
+        "filename": "FATE-NASDAQ.csv",
+        "length": 2317
+    },
+    {
+        "ticker": "FBIZ",
+        "filename": "FBIZ-NASDAQ.csv",
+        "length": 4302
+    },
+    {
+        "ticker": "FBMS",
+        "filename": "FBMS-NASDAQ.csv",
+        "length": 5022
+    },
+    {
+        "ticker": "FBP",
+        "filename": "FBP-NASDAQ.csv",
+        "length": 9053
+    },
+    {
+        "ticker": "FCAP",
+        "filename": "FCAP-NASDAQ.csv",
+        "length": 6026
+    },
+    {
+        "ticker": "FCBC",
+        "filename": "FCBC-NASDAQ.csv",
+        "length": 7222
+    },
+    {
+        "ticker": "FCCO",
+        "filename": "FCCO-NASDAQ.csv",
+        "length": 5982
+    },
+    {
+        "ticker": "FCEL",
+        "filename": "FCEL-NASDAQ.csv",
+        "length": 7674
+    },
+    {
+        "ticker": "FCMGF",
+        "filename": "FCMGF-NASDAQ.csv",
+        "length": 2463
+    },
+    {
+        "ticker": "FCNCA",
+        "filename": "FCNCA-NASDAQ.csv",
+        "length": 9109
+    },
+    {
+        "ticker": "FCT",
+        "filename": "FCT-NASDAQ.csv",
+        "length": 4670
+    },
+    {
+        "ticker": "FDUS",
+        "filename": "FDUS-NASDAQ.csv",
+        "length": 2890
+    },
+    {
+        "ticker": "FEI",
+        "filename": "FEI-NASDAQ.csv",
+        "length": 2528
+    },
+    {
+        "ticker": "FEIM",
+        "filename": "FEIM-NASDAQ.csv",
+        "length": 10713
+    },
+    {
+        "ticker": "FELE",
+        "filename": "FELE-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "FFA",
+        "filename": "FFA-NASDAQ.csv",
+        "length": 4606
+    },
+    {
+        "ticker": "FFBC",
+        "filename": "FFBC-NASDAQ.csv",
+        "length": 9825
+    },
+    {
+        "ticker": "FFHL",
+        "filename": "FFHL-NASDAQ.csv",
+        "length": 4023
+    },
+    {
+        "ticker": "FFIC",
+        "filename": "FFIC-NASDAQ.csv",
+        "length": 6812
+    },
+    {
+        "ticker": "FFIN",
+        "filename": "FFIN-NASDAQ.csv",
+        "length": 7332
+    },
+    {
+        "ticker": "FFIV",
+        "filename": "FFIV-NASDAQ.csv",
+        "length": 5921
+    },
+    {
+        "ticker": "FFKT",
+        "filename": "FFKT-NASDAQ.csv",
+        "length": 9078
+    },
+    {
+        "ticker": "FFNM",
+        "filename": "FFNM-NASDAQ.csv",
+        "length": 6589
+    },
+    {
+        "ticker": "FFNW",
+        "filename": "FFNW-NASDAQ.csv",
+        "length": 3821
+    },
+    {
+        "ticker": "FFWM",
+        "filename": "FFWM-NASDAQ.csv",
+        "length": 2042
+    },
+    {
+        "ticker": "FGEN",
+        "filename": "FGEN-NASDAQ.csv",
+        "length": 2033
+    },
+    {
+        "ticker": "FIBK",
+        "filename": "FIBK-NASDAQ.csv",
+        "length": 3204
+    },
+    {
+        "ticker": "FIF",
+        "filename": "FIF-NASDAQ.csv",
+        "length": 2821
+    },
+    {
+        "ticker": "FINL",
+        "filename": "FINL-NASDAQ.csv",
+        "length": 7686
+    },
+    {
+        "ticker": "FISI",
+        "filename": "FISI-NASDAQ.csv",
+        "length": 5906
+    },
+    {
+        "ticker": "FISV",
+        "filename": "FISV-NASDAQ.csv",
+        "length": 9128
+    },
+    {
+        "ticker": "FITB",
+        "filename": "FITB-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "FIVE",
+        "filename": "FIVE-NASDAQ.csv",
+        "length": 2618
+    },
+    {
+        "ticker": "FIVN",
+        "filename": "FIVN-NASDAQ.csv",
+        "length": 2189
+    },
+    {
+        "ticker": "FIZZ",
+        "filename": "FIZZ-NASDAQ.csv",
+        "length": 7872
+    },
+    {
+        "ticker": "FLIC",
+        "filename": "FLIC-NASDAQ.csv",
+        "length": 9054
+    },
+    {
+        "ticker": "FLL",
+        "filename": "FLL-NASDAQ.csv",
+        "length": 7385
+    },
+    {
+        "ticker": "FLXS",
+        "filename": "FLXS-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "FMI",
+        "filename": "FMI-NASDAQ.csv",
+        "length": 2321
+    },
+    {
+        "ticker": "FMNB",
+        "filename": "FMNB-NASDAQ.csv",
+        "length": 6026
+    },
+    {
+        "ticker": "FMY",
+        "filename": "FMY-NASDAQ.csv",
+        "length": 4417
+    },
+    {
+        "ticker": "FNHC",
+        "filename": "FNHC-NASDAQ.csv",
+        "length": 6065
+    },
+    {
+        "ticker": "FNLC",
+        "filename": "FNLC-NASDAQ.csv",
+        "length": 5894
+    },
+    {
+        "ticker": "FNRG",
+        "filename": "FNRG-NASDAQ.csv",
+        "length": 2000
+    },
+    {
+        "ticker": "FOLD",
+        "filename": "FOLD-NASDAQ.csv",
+        "length": 3913
+    },
+    {
+        "ticker": "FONR",
+        "filename": "FONR-NASDAQ.csv",
+        "length": 10368
+    },
+    {
+        "ticker": "FORD",
+        "filename": "FORD-NASDAQ.csv",
+        "length": 7067
+    },
+    {
+        "ticker": "FORM",
+        "filename": "FORM-NASDAQ.csv",
+        "length": 4911
+    },
+    {
+        "ticker": "FORR",
+        "filename": "FORR-NASDAQ.csv",
+        "length": 6554
+    },
+    {
+        "ticker": "FORTY",
+        "filename": "FORTY-NASDAQ.csv",
+        "length": 6329
+    },
+    {
+        "ticker": "FOSL",
+        "filename": "FOSL-NASDAQ.csv",
+        "length": 7475
+    },
+    {
+        "ticker": "FOXF",
+        "filename": "FOXF-NASDAQ.csv",
+        "length": 2354
+    },
+    {
+        "ticker": "FRBA",
+        "filename": "FRBA-NASDAQ.csv",
+        "length": 3061
+    },
+    {
+        "ticker": "FRBK",
+        "filename": "FRBK-NASDAQ.csv",
+        "length": 8591
+    },
+    {
+        "ticker": "FREE",
+        "filename": "FREE-NASDAQ.csv",
+        "length": 904
+    },
+    {
+        "ticker": "FRGI",
+        "filename": "FRGI-NASDAQ.csv",
+        "length": 2676
+    },
+    {
+        "ticker": "FRME",
+        "filename": "FRME-NASDAQ.csv",
+        "length": 8437
+    },
+    {
+        "ticker": "FRPH",
+        "filename": "FRPH-NASDAQ.csv",
+        "length": 9187
+    },
+    {
+        "ticker": "FRPT",
+        "filename": "FRPT-NASDAQ.csv",
+        "length": 2038
+    },
+    {
+        "ticker": "FRSH",
+        "filename": "FRSH-NASDAQ.csv",
+        "length": 309
+    },
+    {
+        "ticker": "FSBW",
+        "filename": "FSBW-NASDAQ.csv",
+        "length": 2625
+    },
+    {
+        "ticker": "FSD",
+        "filename": "FSD-NASDAQ.csv",
+        "length": 3074
+    },
+    {
+        "ticker": "FSFF",
+        "filename": "FSFF-NASDAQ.csv",
+        "length": 2150
+    },
+    {
+        "ticker": "FSFG",
+        "filename": "FSFG-NASDAQ.csv",
+        "length": 3570
+    },
+    {
+        "ticker": "FSLR",
+        "filename": "FSLR-NASDAQ.csv",
+        "length": 4044
+    },
+    {
+        "ticker": "FSTR",
+        "filename": "FSTR-NASDAQ.csv",
+        "length": 10468
+    },
+    {
+        "ticker": "FTEK",
+        "filename": "FTEK-NASDAQ.csv",
+        "length": 7371
+    },
+    {
+        "ticker": "FTNT",
+        "filename": "FTNT-NASDAQ.csv",
+        "length": 3289
+    },
+    {
+        "ticker": "FULT",
+        "filename": "FULT-NASDAQ.csv",
+        "length": 9396
+    },
+    {
+        "ticker": "FUNC",
+        "filename": "FUNC-NASDAQ.csv",
+        "length": 7625
+    },
+    {
+        "ticker": "FUND",
+        "filename": "FUND-NASDAQ.csv",
+        "length": 8698
+    },
+    {
+        "ticker": "FWP",
+        "filename": "FWP-NASDAQ.csv",
+        "length": 2055
+    },
+    {
+        "ticker": "FWRD",
+        "filename": "FWRD-NASDAQ.csv",
+        "length": 7321
+    },
+    {
+        "ticker": "GABC",
+        "filename": "GABC-NASDAQ.csv",
+        "length": 7445
+    },
+    {
+        "ticker": "GAIA",
+        "filename": "GAIA-NASDAQ.csv",
+        "length": 5818
+    },
+    {
+        "ticker": "GAIN",
+        "filename": "GAIN-NASDAQ.csv",
+        "length": 4399
+    },
+    {
+        "ticker": "GALE",
+        "filename": "GALE-NASDAQ.csv",
+        "length": 1379
+    },
+    {
+        "ticker": "GALT",
+        "filename": "GALT-NASDAQ.csv",
+        "length": 5105
+    },
+    {
+        "ticker": "GAME",
+        "filename": "GAME-NASDAQ.csv",
+        "length": 1229
+    },
+    {
+        "ticker": "GASS",
+        "filename": "GASS-NASDAQ.csv",
+        "length": 4326
+    },
+    {
+        "ticker": "GBCI",
+        "filename": "GBCI-NASDAQ.csv",
+        "length": 9762
+    },
+    {
+        "ticker": "GBDC",
+        "filename": "GBDC-NASDAQ.csv",
+        "length": 3189
+    },
+    {
+        "ticker": "GBIM",
+        "filename": "GBIM-NASDAQ.csv",
+        "length": 2128
+    },
+    {
+        "ticker": "GBLI",
+        "filename": "GBLI-NASDAQ.csv",
+        "length": 4781
+    },
+    {
+        "ticker": "GBLX",
+        "filename": "GBLX-NASDAQ.csv",
+        "length": 3674
+    },
+    {
+        "ticker": "GBNK",
+        "filename": "GBNK-NASDAQ.csv",
+        "length": 4329
+    },
+    {
+        "ticker": "GCBC",
+        "filename": "GCBC-NASDAQ.csv",
+        "length": 5903
+    },
+    {
+        "ticker": "GCRIF",
+        "filename": "GCRIF-NASDAQ.csv",
+        "length": 3181
+    },
+    {
+        "ticker": "GENC",
+        "filename": "GENC-NASDAQ.csv",
+        "length": 4889
+    },
+    {
+        "ticker": "GENE",
+        "filename": "GENE-NASDAQ.csv",
+        "length": 4348
+    },
+    {
+        "ticker": "GEOS",
+        "filename": "GEOS-NASDAQ.csv",
+        "length": 6305
+    },
+    {
+        "ticker": "GERN",
+        "filename": "GERN-NASDAQ.csv",
+        "length": 6638
+    },
+    {
+        "ticker": "GEVO",
+        "filename": "GEVO-NASDAQ.csv",
+        "length": 2981
+    },
+    {
+        "ticker": "GGAL",
+        "filename": "GGAL-NASDAQ.csv",
+        "length": 5633
+    },
+    {
+        "ticker": "GIFI",
+        "filename": "GIFI-NASDAQ.csv",
+        "length": 6467
+    },
+    {
+        "ticker": "GIGM",
+        "filename": "GIGM-NASDAQ.csv",
+        "length": 5741
+    },
+    {
+        "ticker": "GILD",
+        "filename": "GILD-NASDAQ.csv",
+        "length": 7782
+    },
+    {
+        "ticker": "GILT",
+        "filename": "GILT-NASDAQ.csv",
+        "length": 7484
+    },
+    {
+        "ticker": "GK",
+        "filename": "GK-NASDAQ.csv",
+        "length": 365
+    },
+    {
+        "ticker": "GLAD",
+        "filename": "GLAD-NASDAQ.csv",
+        "length": 5127
+    },
+    {
+        "ticker": "GLBS",
+        "filename": "GLBS-NASDAQ.csv",
+        "length": 3717
+    },
+    {
+        "ticker": "GLBZ",
+        "filename": "GLBZ-NASDAQ.csv",
+        "length": 5810
+    },
+    {
+        "ticker": "GLDD",
+        "filename": "GLDD-NASDAQ.csv",
+        "length": 4018
+    },
+    {
+        "ticker": "GLMD",
+        "filename": "GLMD-NASDAQ.csv",
+        "length": 2205
+    },
+    {
+        "ticker": "GLNG",
+        "filename": "GLNG-NASDAQ.csv",
+        "length": 4889
+    },
+    {
+        "ticker": "GLPI",
+        "filename": "GLPI-NASDAQ.csv",
+        "length": 2308
+    },
+    {
+        "ticker": "GLRI",
+        "filename": "GLRI-NASDAQ.csv",
+        "length": 2566
+    },
+    {
+        "ticker": "GLYC",
+        "filename": "GLYC-NASDAQ.csv",
+        "length": 2247
+    },
+    {
+        "ticker": "GMAN",
+        "filename": "GMAN-NASDAQ.csv",
+        "length": 954
+    },
+    {
+        "ticker": "GNBC",
+        "filename": "GNBC-NASDAQ.csv",
+        "length": 2102
+    },
+    {
+        "ticker": "GNCA",
+        "filename": "GNCA-NASDAQ.csv",
+        "length": 2230
+    },
+    {
+        "ticker": "GNCMA",
+        "filename": "GNCMA-NASDAQ.csv",
+        "length": 8589
+    },
+    {
+        "ticker": "GNCNF",
+        "filename": "GNCNF-NASDAQ.csv",
+        "length": 2070
+    },
+    {
+        "ticker": "GNOW",
+        "filename": "GNOW-NASDAQ.csv",
+        "length": 4272
+    },
+    {
+        "ticker": "GNTX",
+        "filename": "GNTX-NASDAQ.csv",
+        "length": 10331
+    },
+    {
+        "ticker": "GOGO",
+        "filename": "GOGO-NASDAQ.csv",
+        "length": 2387
+    },
+    {
+        "ticker": "GOLD",
+        "filename": "GOLD-NASDAQ.csv",
+        "length": 9535
+    },
+    {
+        "ticker": "GOOD",
+        "filename": "GOOD-NASDAQ.csv",
+        "length": 4867
+    },
+    {
+        "ticker": "GPOR",
+        "filename": "GPOR-NASDAQ.csv",
+        "length": 397
+    },
+    {
+        "ticker": "GPRE",
+        "filename": "GPRE-NASDAQ.csv",
+        "length": 4217
+    },
+    {
+        "ticker": "GPRO",
+        "filename": "GPRO-NASDAQ.csv",
+        "length": 2132
+    },
+    {
+        "ticker": "GPS",
+        "filename": "GPS-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "GRBK",
+        "filename": "GRBK-NASDAQ.csv",
+        "length": 3899
+    },
+    {
+        "ticker": "GRFS",
+        "filename": "GRFS-NASDAQ.csv",
+        "length": 2903
+    },
+    {
+        "ticker": "GRMN",
+        "filename": "GRMN-NASDAQ.csv",
+        "length": 5537
+    },
+    {
+        "ticker": "GROW",
+        "filename": "GROW-NASDAQ.csv",
+        "length": 9487
+    },
+    {
+        "ticker": "GRPN",
+        "filename": "GRPN-NASDAQ.csv",
+        "length": 2794
+    },
+    {
+        "ticker": "GRSFF",
+        "filename": "GRSFF-NASDAQ.csv",
+        "length": 2570
+    },
+    {
+        "ticker": "GSBC",
+        "filename": "GSBC-NASDAQ.csv",
+        "length": 8312
+    },
+    {
+        "ticker": "GSIG",
+        "filename": "GSIG-NASDAQ.csv",
+        "length": 610
+    },
+    {
+        "ticker": "GSIT",
+        "filename": "GSIT-NASDAQ.csv",
+        "length": 3956
+    },
+    {
+        "ticker": "GT",
+        "filename": "GT-NASDAQ.csv",
+        "length": 13356
+    },
+    {
+        "ticker": "GTIM",
+        "filename": "GTIM-NASDAQ.csv",
+        "length": 7665
+    },
+    {
+        "ticker": "GTLS",
+        "filename": "GTLS-NASDAQ.csv",
+        "length": 4125
+    },
+    {
+        "ticker": "GULTU",
+        "filename": "GULTU-NASDAQ.csv",
+        "length": 2400
+    },
+    {
+        "ticker": "GURE",
+        "filename": "GURE-NASDAQ.csv",
+        "length": 4063
+    },
+    {
+        "ticker": "HA",
+        "filename": "HA-NASDAQ.csv",
+        "length": 6919
+    },
+    {
+        "ticker": "HAFC",
+        "filename": "HAFC-NASDAQ.csv",
+        "length": 7224
+    },
+    {
+        "ticker": "HAIN",
+        "filename": "HAIN-NASDAQ.csv",
+        "length": 7276
+    },
+    {
+        "ticker": "HALL",
+        "filename": "HALL-NASDAQ.csv",
+        "length": 8375
+    },
+    {
+        "ticker": "HALO",
+        "filename": "HALO-NASDAQ.csv",
+        "length": 4720
+    },
+    {
+        "ticker": "HART",
+        "filename": "HART-NASDAQ.csv",
+        "length": 481
+    },
+    {
+        "ticker": "HAS",
+        "filename": "HAS-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "HAWK",
+        "filename": "HAWK-NASDAQ.csv",
+        "length": 2431
+    },
+    {
+        "ticker": "HAYN",
+        "filename": "HAYN-NASDAQ.csv",
+        "length": 3962
+    },
+    {
+        "ticker": "HBAN",
+        "filename": "HBAN-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "HBCP",
+        "filename": "HBCP-NASDAQ.csv",
+        "length": 3570
+    },
+    {
+        "ticker": "HBIO",
+        "filename": "HBIO-NASDAQ.csv",
+        "length": 5470
+    },
+    {
+        "ticker": "HBNC",
+        "filename": "HBNC-NASDAQ.csv",
+        "length": 5269
+    },
+    {
+        "ticker": "HCKT",
+        "filename": "HCKT-NASDAQ.csv",
+        "length": 6178
+    },
+    {
+        "ticker": "HCOM",
+        "filename": "HCOM-NASDAQ.csv",
+        "length": 313
+    },
+    {
+        "ticker": "HCSG",
+        "filename": "HCSG-NASDAQ.csv",
+        "length": 9841
+    },
+    {
+        "ticker": "HDNG",
+        "filename": "HDNG-NASDAQ.csv",
+        "length": 6937
+    },
+    {
+        "ticker": "HDP",
+        "filename": "HDP-NASDAQ.csv",
+        "length": 2014
+    },
+    {
+        "ticker": "HDSN",
+        "filename": "HDSN-NASDAQ.csv",
+        "length": 7079
+    },
+    {
+        "ticker": "HEAR",
+        "filename": "HEAR-NASDAQ.csv",
+        "length": 3040
+    },
+    {
+        "ticker": "HEES",
+        "filename": "HEES-NASDAQ.csv",
+        "length": 4247
+    },
+    {
+        "ticker": "HELE",
+        "filename": "HELE-NASDAQ.csv",
+        "length": 11710
+    },
+    {
+        "ticker": "HERO",
+        "filename": "HERO-NASDAQ.csv",
+        "length": 785
+    },
+    {
+        "ticker": "HES",
+        "filename": "HES-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "HFBL",
+        "filename": "HFBL-NASDAQ.csv",
+        "length": 3899
+    },
+    {
+        "ticker": "HFWA",
+        "filename": "HFWA-NASDAQ.csv",
+        "length": 6192
+    },
+    {
+        "ticker": "HIBB",
+        "filename": "HIBB-NASDAQ.csv",
+        "length": 6587
+    },
+    {
+        "ticker": "HIFS",
+        "filename": "HIFS-NASDAQ.csv",
+        "length": 8566
+    },
+    {
+        "ticker": "HIHO",
+        "filename": "HIHO-NASDAQ.csv",
+        "length": 6545
+    },
+    {
+        "ticker": "HIMX",
+        "filename": "HIMX-NASDAQ.csv",
+        "length": 4205
+    },
+    {
+        "ticker": "HLIT",
+        "filename": "HLIT-NASDAQ.csv",
+        "length": 6939
+    },
+    {
+        "ticker": "HMNF",
+        "filename": "HMNF-NASDAQ.csv",
+        "length": 7165
+    },
+    {
+        "ticker": "HMNY",
+        "filename": "HMNY-NASDAQ.csv",
+        "length": 6379
+    },
+    {
+        "ticker": "HMST",
+        "filename": "HMST-NASDAQ.csv",
+        "length": 2728
+    },
+    {
+        "ticker": "HNNA",
+        "filename": "HNNA-NASDAQ.csv",
+        "length": 4473
+    },
+    {
+        "ticker": "HNRDF",
+        "filename": "HNRDF-NASDAQ.csv",
+        "length": 3246
+    },
+    {
+        "ticker": "HNRG",
+        "filename": "HNRG-NASDAQ.csv",
+        "length": 7224
+    },
+    {
+        "ticker": "HOFT",
+        "filename": "HOFT-NASDAQ.csv",
+        "length": 5152
+    },
+    {
+        "ticker": "HOLI",
+        "filename": "HOLI-NASDAQ.csv",
+        "length": 4351
+    },
+    {
+        "ticker": "HOLX",
+        "filename": "HOLX-NASDAQ.csv",
+        "length": 8261
+    },
+    {
+        "ticker": "HOV",
+        "filename": "HOV-NASDAQ.csv",
+        "length": 9899
+    },
+    {
+        "ticker": "HQCL",
+        "filename": "HQCL-NASDAQ.csv",
+        "length": 4022
+    },
+    {
+        "ticker": "HQY",
+        "filename": "HQY-NASDAQ.csv",
+        "length": 2108
+    },
+    {
+        "ticker": "HRTX",
+        "filename": "HRTX-NASDAQ.csv",
+        "length": 8896
+    },
+    {
+        "ticker": "HRZN",
+        "filename": "HRZN-NASDAQ.csv",
+        "length": 3051
+    },
+    {
+        "ticker": "HSIC",
+        "filename": "HSIC-NASDAQ.csv",
+        "length": 6824
+    },
+    {
+        "ticker": "HSII",
+        "filename": "HSII-NASDAQ.csv",
+        "length": 5948
+    },
+    {
+        "ticker": "HSKA",
+        "filename": "HSKA-NASDAQ.csv",
+        "length": 6406
+    },
+    {
+        "ticker": "HSON",
+        "filename": "HSON-NASDAQ.csv",
+        "length": 4971
+    },
+    {
+        "ticker": "HSTM",
+        "filename": "HSTM-NASDAQ.csv",
+        "length": 5705
+    },
+    {
+        "ticker": "HTBI",
+        "filename": "HTBI-NASDAQ.csv",
+        "length": 2624
+    },
+    {
+        "ticker": "HTBK",
+        "filename": "HTBK-NASDAQ.csv",
+        "length": 6142
+    },
+    {
+        "ticker": "HTHT",
+        "filename": "HTHT-NASDAQ.csv",
+        "length": 3202
+    },
+    {
+        "ticker": "HTLD",
+        "filename": "HTLD-NASDAQ.csv",
+        "length": 9099
+    },
+    {
+        "ticker": "HTLF",
+        "filename": "HTLF-NASDAQ.csv",
+        "length": 6026
+    },
+    {
+        "ticker": "HUBG",
+        "filename": "HUBG-NASDAQ.csv",
+        "length": 6735
+    },
+    {
+        "ticker": "HURC",
+        "filename": "HURC-NASDAQ.csv",
+        "length": 10664
+    },
+    {
+        "ticker": "HURN",
+        "filename": "HURN-NASDAQ.csv",
+        "length": 4574
+    },
+    {
+        "ticker": "HWBK",
+        "filename": "HWBK-NASDAQ.csv",
+        "length": 5890
+    },
+    {
+        "ticker": "HWKN",
+        "filename": "HWKN-NASDAQ.csv",
+        "length": 10777
+    },
+    {
+        "ticker": "IAC",
+        "filename": "IAC-NASDAQ.csv",
+        "length": 7531
+    },
+    {
+        "ticker": "IART",
+        "filename": "IART-NASDAQ.csv",
+        "length": 6880
+    },
+    {
+        "ticker": "IBCP",
+        "filename": "IBCP-NASDAQ.csv",
+        "length": 9395
+    },
+    {
+        "ticker": "IBKR",
+        "filename": "IBKR-NASDAQ.csv",
+        "length": 3931
+    },
+    {
+        "ticker": "IBOC",
+        "filename": "IBOC-NASDAQ.csv",
+        "length": 6870
+    },
+    {
+        "ticker": "IBTX",
+        "filename": "IBTX-NASDAQ.csv",
+        "length": 2442
+    },
+    {
+        "ticker": "ICCC",
+        "filename": "ICCC-NASDAQ.csv",
+        "length": 8975
+    },
+    {
+        "ticker": "ICFI",
+        "filename": "ICFI-NASDAQ.csv",
+        "length": 4080
+    },
+    {
+        "ticker": "ICLD",
+        "filename": "ICLD-NASDAQ.csv",
+        "length": 3999
+    },
+    {
+        "ticker": "ICPT",
+        "filename": "ICPT-NASDAQ.csv",
+        "length": 2559
+    },
+    {
+        "ticker": "ICUI",
+        "filename": "ICUI-NASDAQ.csv",
+        "length": 7734
+    },
+    {
+        "ticker": "IDCC",
+        "filename": "IDCC-NASDAQ.csv",
+        "length": 10358
+    },
+    {
+        "ticker": "IDRA",
+        "filename": "IDRA-NASDAQ.csv",
+        "length": 6768
+    },
+    {
+        "ticker": "IDXX",
+        "filename": "IDXX-NASDAQ.csv",
+        "length": 7930
+    },
+    {
+        "ticker": "IEP",
+        "filename": "IEP-NASDAQ.csv",
+        "length": 8920
+    },
+    {
+        "ticker": "IGLD",
+        "filename": "IGLD-NASDAQ.csv",
+        "length": 449
+    },
+    {
+        "ticker": "IHD",
+        "filename": "IHD-NASDAQ.csv",
+        "length": 2927
+    },
+    {
+        "ticker": "III",
+        "filename": "III-NASDAQ.csv",
+        "length": 3988
+    },
+    {
+        "ticker": "IIIN",
+        "filename": "IIIN-NASDAQ.csv",
+        "length": 7744
+    },
+    {
+        "ticker": "ILMN",
+        "filename": "ILMN-NASDAQ.csv",
+        "length": 5630
+    },
+    {
+        "ticker": "IMGN",
+        "filename": "IMGN-NASDAQ.csv",
+        "length": 8331
+    },
+    {
+        "ticker": "IMIAY",
+        "filename": "IMIAY-NASDAQ.csv",
+        "length": 2468
+    },
+    {
+        "ticker": "IMKTA",
+        "filename": "IMKTA-NASDAQ.csv",
+        "length": 8878
+    },
+    {
+        "ticker": "IMMR",
+        "filename": "IMMR-NASDAQ.csv",
+        "length": 5808
+    },
+    {
+        "ticker": "IMOS",
+        "filename": "IMOS-NASDAQ.csv",
+        "length": 4896
+    },
+    {
+        "ticker": "INBK",
+        "filename": "INBK-NASDAQ.csv",
+        "length": 4202
+    },
+    {
+        "ticker": "INCR",
+        "filename": "INCR-NASDAQ.csv",
+        "length": 978
+    },
+    {
+        "ticker": "INCY",
+        "filename": "INCY-NASDAQ.csv",
+        "length": 7329
+    },
+    {
+        "ticker": "INDB",
+        "filename": "INDB-NASDAQ.csv",
+        "length": 9221
+    },
+    {
+        "ticker": "INFA",
+        "filename": "INFA-NASDAQ.csv",
+        "length": 284
+    },
+    {
+        "ticker": "INFI",
+        "filename": "INFI-NASDAQ.csv",
+        "length": 5630
+    },
+    {
+        "ticker": "INFN",
+        "filename": "INFN-NASDAQ.csv",
+        "length": 3908
+    },
+    {
+        "ticker": "INGN",
+        "filename": "INGN-NASDAQ.csv",
+        "length": 2223
+    },
+    {
+        "ticker": "INO",
+        "filename": "INO-NASDAQ.csv",
+        "length": 6043
+    },
+    {
+        "ticker": "INOD",
+        "filename": "INOD-NASDAQ.csv",
+        "length": 7390
+    },
+    {
+        "ticker": "INTC",
+        "filename": "INTC-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "INTG",
+        "filename": "INTG-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "INTL",
+        "filename": "INTL-NASDAQ.csv",
+        "length": 7
+    },
+    {
+        "ticker": "INTU",
+        "filename": "INTU-NASDAQ.csv",
+        "length": 7494
+    },
+    {
+        "ticker": "INTX",
+        "filename": "INTX-NASDAQ.csv",
+        "length": 4688
+    },
+    {
+        "ticker": "INVE",
+        "filename": "INVE-NASDAQ.csv",
+        "length": 6338
+    },
+    {
+        "ticker": "IOSP",
+        "filename": "IOSP-NASDAQ.csv",
+        "length": 6188
+    },
+    {
+        "ticker": "IPAR",
+        "filename": "IPAR-NASDAQ.csv",
+        "length": 8784
+    },
+    {
+        "ticker": "IPAS",
+        "filename": "IPAS-NASDAQ.csv",
+        "length": 4882
+    },
+    {
+        "ticker": "IPCC",
+        "filename": "IPCC-NASDAQ.csv",
+        "length": 4994
+    },
+    {
+        "ticker": "IPDN",
+        "filename": "IPDN-NASDAQ.csv",
+        "length": 2463
+    },
+    {
+        "ticker": "IPGP",
+        "filename": "IPGP-NASDAQ.csv",
+        "length": 4027
+    },
+    {
+        "ticker": "IPWR",
+        "filename": "IPWR-NASDAQ.csv",
+        "length": 2279
+    },
+    {
+        "ticker": "IPXL",
+        "filename": "IPXL-NASDAQ.csv",
+        "length": 6793
+    },
+    {
+        "ticker": "IRBT",
+        "filename": "IRBT-NASDAQ.csv",
+        "length": 4302
+    },
+    {
+        "ticker": "IRDM",
+        "filename": "IRDM-NASDAQ.csv",
+        "length": 3710
+    },
+    {
+        "ticker": "IRIX",
+        "filename": "IRIX-NASDAQ.csv",
+        "length": 6752
+    },
+    {
+        "ticker": "IRMD",
+        "filename": "IRMD-NASDAQ.csv",
+        "length": 2119
+    },
+    {
+        "ticker": "IROQ",
+        "filename": "IROQ-NASDAQ.csv",
+        "length": 2878
+    },
+    {
+        "ticker": "IRWD",
+        "filename": "IRWD-NASDAQ.csv",
+        "length": 3238
+    },
+    {
+        "ticker": "ISBC",
+        "filename": "ISBC-NASDAQ.csv",
+        "length": 4321
+    },
+    {
+        "ticker": "ISIG",
+        "filename": "ISIG-NASDAQ.csv",
+        "length": 7928
+    },
+    {
+        "ticker": "ISRG",
+        "filename": "ISRG-NASDAQ.csv",
+        "length": 5659
+    },
+    {
+        "ticker": "ISSC",
+        "filename": "ISSC-NASDAQ.csv",
+        "length": 5625
+    },
+    {
+        "ticker": "ISTR",
+        "filename": "ISTR-NASDAQ.csv",
+        "length": 2129
+    },
+    {
+        "ticker": "ITI",
+        "filename": "ITI-NASDAQ.csv",
+        "length": 7288
+    },
+    {
+        "ticker": "ITIC",
+        "filename": "ITIC-NASDAQ.csv",
+        "length": 9080
+    },
+    {
+        "ticker": "ITRI",
+        "filename": "ITRI-NASDAQ.csv",
+        "length": 7328
+    },
+    {
+        "ticker": "ITRN",
+        "filename": "ITRN-NASDAQ.csv",
+        "length": 4332
+    },
+    {
+        "ticker": "ITSXF",
+        "filename": "ITSXF-NASDAQ.csv",
+        "length": 2734
+    },
+    {
+        "ticker": "IUSPF",
+        "filename": "IUSPF-NASDAQ.csv",
+        "length": 2941
+    },
+    {
+        "ticker": "IUTCF",
+        "filename": "IUTCF-NASDAQ.csv",
+        "length": 2596
+    },
+    {
+        "ticker": "IUTSF",
+        "filename": "IUTSF-NASDAQ.csv",
+        "length": 3436
+    },
+    {
+        "ticker": "IVAC",
+        "filename": "IVAC-NASDAQ.csv",
+        "length": 6812
+    },
+    {
+        "ticker": "JACK",
+        "filename": "JACK-NASDAQ.csv",
+        "length": 7752
+    },
+    {
+        "ticker": "JAKK",
+        "filename": "JAKK-NASDAQ.csv",
+        "length": 6700
+    },
+    {
+        "ticker": "JBHT",
+        "filename": "JBHT-NASDAQ.csv",
+        "length": 9845
+    },
+    {
+        "ticker": "JBLU",
+        "filename": "JBLU-NASDAQ.csv",
+        "length": 5205
+    },
+    {
+        "ticker": "JBSS",
+        "filename": "JBSS-NASDAQ.csv",
+        "length": 7815
+    },
+    {
+        "ticker": "JD",
+        "filename": "JD-NASDAQ.csv",
+        "length": 2156
+    },
+    {
+        "ticker": "JJSF",
+        "filename": "JJSF-NASDAQ.csv",
+        "length": 9290
+    },
+    {
+        "ticker": "JKHY",
+        "filename": "JKHY-NASDAQ.csv",
+        "length": 9341
+    },
+    {
+        "ticker": "JMBA",
+        "filename": "JMBA-NASDAQ.csv",
+        "length": 4375
+    },
+    {
+        "ticker": "JOUT",
+        "filename": "JOUT-NASDAQ.csv",
+        "length": 8865
+    },
+    {
+        "ticker": "JPM-PC",
+        "filename": "JPM-PC-NASDAQ.csv",
+        "length": 983
+    },
+    {
+        "ticker": "JRVR",
+        "filename": "JRVR-NASDAQ.csv",
+        "length": 2014
+    },
+    {
+        "ticker": "JSD",
+        "filename": "JSD-NASDAQ.csv",
+        "length": 2907
+    },
+    {
+        "ticker": "JTPY",
+        "filename": "JTPY-NASDAQ.csv",
+        "length": 2855
+    },
+    {
+        "ticker": "JUNO",
+        "filename": "JUNO-NASDAQ.csv",
+        "length": 2009
+    },
+    {
+        "ticker": "JVA",
+        "filename": "JVA-NASDAQ.csv",
+        "length": 4435
+    },
+    {
+        "ticker": "JXSB",
+        "filename": "JXSB-NASDAQ.csv",
+        "length": 4610
+    },
+    {
+        "ticker": "JYNT",
+        "filename": "JYNT-NASDAQ.csv",
+        "length": 2036
+    },
+    {
+        "ticker": "KALU",
+        "filename": "KALU-NASDAQ.csv",
+        "length": 4138
+    },
+    {
+        "ticker": "KANG",
+        "filename": "KANG-NASDAQ.csv",
+        "length": 2186
+    },
+    {
+        "ticker": "KBAL",
+        "filename": "KBAL-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "KCLI",
+        "filename": "KCLI-NASDAQ.csv",
+        "length": 10489
+    },
+    {
+        "ticker": "KE",
+        "filename": "KE-NASDAQ.csv",
+        "length": 2042
+    },
+    {
+        "ticker": "KELYA",
+        "filename": "KELYA-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "KEQU",
+        "filename": "KEQU-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "KERX",
+        "filename": "KERX-NASDAQ.csv",
+        "length": 5630
+    },
+    {
+        "ticker": "KEYW",
+        "filename": "KEYW-NASDAQ.csv",
+        "length": 3071
+    },
+    {
+        "ticker": "KFFB",
+        "filename": "KFFB-NASDAQ.csv",
+        "length": 4477
+    },
+    {
+        "ticker": "KFRC",
+        "filename": "KFRC-NASDAQ.csv",
+        "length": 6881
+    },
+    {
+        "ticker": "KGJI",
+        "filename": "KGJI-NASDAQ.csv",
+        "length": 5688
+    },
+    {
+        "ticker": "KINS",
+        "filename": "KINS-NASDAQ.csv",
+        "length": 5821
+    },
+    {
+        "ticker": "KIRK",
+        "filename": "KIRK-NASDAQ.csv",
+        "length": 5130
+    },
+    {
+        "ticker": "KLIC",
+        "filename": "KLIC-NASDAQ.csv",
+        "length": 12564
+    },
+    {
+        "ticker": "KLXI",
+        "filename": "KLXI-NASDAQ.csv",
+        "length": 2021
+    },
+    {
+        "ticker": "KMDA",
+        "filename": "KMDA-NASDAQ.csv",
+        "length": 2402
+    },
+    {
+        "ticker": "KNDI",
+        "filename": "KNDI-NASDAQ.csv",
+        "length": 3847
+    },
+    {
+        "ticker": "KOPN",
+        "filename": "KOPN-NASDAQ.csv",
+        "length": 7723
+    },
+    {
+        "ticker": "KOSS",
+        "filename": "KOSS-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "KPTI",
+        "filename": "KPTI-NASDAQ.csv",
+        "length": 2291
+    },
+    {
+        "ticker": "KRNY",
+        "filename": "KRNY-NASDAQ.csv",
+        "length": 4482
+    },
+    {
+        "ticker": "KTCC",
+        "filename": "KTCC-NASDAQ.csv",
+        "length": 9952
+    },
+    {
+        "ticker": "KTEC",
+        "filename": "KTEC-NASDAQ.csv",
+        "length": 382
+    },
+    {
+        "ticker": "KTOS",
+        "filename": "KTOS-NASDAQ.csv",
+        "length": 5813
+    },
+    {
+        "ticker": "KTWO",
+        "filename": "KTWO-NASDAQ.csv",
+        "length": 2166
+    },
+    {
+        "ticker": "KVHI",
+        "filename": "KVHI-NASDAQ.csv",
+        "length": 6721
+    },
+    {
+        "ticker": "LAKE",
+        "filename": "LAKE-NASDAQ.csv",
+        "length": 9140
+    },
+    {
+        "ticker": "LAMR",
+        "filename": "LAMR-NASDAQ.csv",
+        "length": 6636
+    },
+    {
+        "ticker": "LANC",
+        "filename": "LANC-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "LAND",
+        "filename": "LAND-NASDAQ.csv",
+        "length": 2487
+    },
+    {
+        "ticker": "LARK",
+        "filename": "LARK-NASDAQ.csv",
+        "length": 7230
+    },
+    {
+        "ticker": "LAYN",
+        "filename": "LAYN-NASDAQ.csv",
+        "length": 7635
+    },
+    {
+        "ticker": "LBAI",
+        "filename": "LBAI-NASDAQ.csv",
+        "length": 6026
+    },
+    {
+        "ticker": "LBRDA",
+        "filename": "LBRDA-NASDAQ.csv",
+        "length": 2041
+    },
+    {
+        "ticker": "LBTYA",
+        "filename": "LBTYA-NASDAQ.csv",
+        "length": 4665
+    },
+    {
+        "ticker": "LCUT",
+        "filename": "LCUT-NASDAQ.csv",
+        "length": 7942
+    },
+    {
+        "ticker": "LE",
+        "filename": "LE-NASDAQ.csv",
+        "length": 2200
+    },
+    {
+        "ticker": "LECO",
+        "filename": "LECO-NASDAQ.csv",
+        "length": 7223
+    },
+    {
+        "ticker": "LEDS",
+        "filename": "LEDS-NASDAQ.csv",
+        "length": 3023
+    },
+    {
+        "ticker": "LFUS",
+        "filename": "LFUS-NASDAQ.csv",
+        "length": 7613
+    },
+    {
+        "ticker": "LFVN",
+        "filename": "LFVN-NASDAQ.csv",
+        "length": 7223
+    },
+    {
+        "ticker": "LGCY",
+        "filename": "LGCY-NASDAQ.csv",
+        "length": 868
+    },
+    {
+        "ticker": "LGIH",
+        "filename": "LGIH-NASDAQ.csv",
+        "length": 2290
+    },
+    {
+        "ticker": "LGND",
+        "filename": "LGND-NASDAQ.csv",
+        "length": 7572
+    },
+    {
+        "ticker": "LILA",
+        "filename": "LILA-NASDAQ.csv",
+        "length": 1876
+    },
+    {
+        "ticker": "LIME",
+        "filename": "LIME-NASDAQ.csv",
+        "length": 6123
+    },
+    {
+        "ticker": "LINC",
+        "filename": "LINC-NASDAQ.csv",
+        "length": 4399
+    },
+    {
+        "ticker": "LION",
+        "filename": "LION-NASDAQ.csv",
+        "length": 254
+    },
+    {
+        "ticker": "LKFN",
+        "filename": "LKFN-NASDAQ.csv",
+        "length": 6375
+    },
+    {
+        "ticker": "LKQ",
+        "filename": "LKQ-NASDAQ.csv",
+        "length": 4831
+    },
+    {
+        "ticker": "LMAT",
+        "filename": "LMAT-NASDAQ.csv",
+        "length": 4065
+    },
+    {
+        "ticker": "LMDCF",
+        "filename": "LMDCF-NASDAQ.csv",
+        "length": 4756
+    },
+    {
+        "ticker": "LMNR",
+        "filename": "LMNR-NASDAQ.csv",
+        "length": 4830
+    },
+    {
+        "ticker": "LNDC",
+        "filename": "LNDC-NASDAQ.csv",
+        "length": 6752
+    },
+    {
+        "ticker": "LOAN",
+        "filename": "LOAN-NASDAQ.csv",
+        "length": 5936
+    },
+    {
+        "ticker": "LOCM",
+        "filename": "LOCM-NASDAQ.csv",
+        "length": 4569
+    },
+    {
+        "ticker": "LOCO",
+        "filename": "LOCO-NASDAQ.csv",
+        "length": 2112
+    },
+    {
+        "ticker": "LOGI",
+        "filename": "LOGI-NASDAQ.csv",
+        "length": 6472
+    },
+    {
+        "ticker": "LOPE",
+        "filename": "LOPE-NASDAQ.csv",
+        "length": 3539
+    },
+    {
+        "ticker": "LPCN",
+        "filename": "LPCN-NASDAQ.csv",
+        "length": 2302
+    },
+    {
+        "ticker": "LPLA",
+        "filename": "LPLA-NASDAQ.csv",
+        "length": 3037
+    },
+    {
+        "ticker": "LPNT",
+        "filename": "LPNT-NASDAQ.csv",
+        "length": 5940
+    },
+    {
+        "ticker": "LPSN",
+        "filename": "LPSN-NASDAQ.csv",
+        "length": 5707
+    },
+    {
+        "ticker": "LPTH",
+        "filename": "LPTH-NASDAQ.csv",
+        "length": 6749
+    },
+    {
+        "ticker": "LQDT",
+        "filename": "LQDT-NASDAQ.csv",
+        "length": 4229
+    },
+    {
+        "ticker": "LRCX",
+        "filename": "LRCX-NASDAQ.csv",
+        "length": 9732
+    },
+    {
+        "ticker": "LSBK",
+        "filename": "LSBK-NASDAQ.csv",
+        "length": 4202
+    },
+    {
+        "ticker": "LSCC",
+        "filename": "LSCC-NASDAQ.csv",
+        "length": 8337
+    },
+    {
+        "ticker": "LSTR",
+        "filename": "LSTR-NASDAQ.csv",
+        "length": 7499
+    },
+    {
+        "ticker": "LTBR",
+        "filename": "LTBR-NASDAQ.csv",
+        "length": 4518
+    },
+    {
+        "ticker": "LTRE",
+        "filename": "LTRE-NASDAQ.csv",
+        "length": 6801
+    },
+    {
+        "ticker": "LTRPA",
+        "filename": "LTRPA-NASDAQ.csv",
+        "length": 2089
+    },
+    {
+        "ticker": "LTRX",
+        "filename": "LTRX-NASDAQ.csv",
+        "length": 5625
+    },
+    {
+        "ticker": "LULU",
+        "filename": "LULU-NASDAQ.csv",
+        "length": 3873
+    },
+    {
+        "ticker": "LUNA",
+        "filename": "LUNA-NASDAQ.csv",
+        "length": 4161
+    },
+    {
+        "ticker": "LVWD",
+        "filename": "LVWD-NASDAQ.csv",
+        "length": 3922
+    },
+    {
+        "ticker": "LWAY",
+        "filename": "LWAY-NASDAQ.csv",
+        "length": 8556
+    },
+    {
+        "ticker": "LXRX",
+        "filename": "LXRX-NASDAQ.csv",
+        "length": 5707
+    },
+    {
+        "ticker": "LYTS",
+        "filename": "LYTS-NASDAQ.csv",
+        "length": 9517
+    },
+    {
+        "ticker": "MA",
+        "filename": "MA-NASDAQ.csv",
+        "length": 4167
+    },
+    {
+        "ticker": "MACK",
+        "filename": "MACK-NASDAQ.csv",
+        "length": 2695
+    },
+    {
+        "ticker": "MANH",
+        "filename": "MANH-NASDAQ.csv",
+        "length": 6202
+    },
+    {
+        "ticker": "MAR",
+        "filename": "MAR-NASDAQ.csv",
+        "length": 6224
+    },
+    {
+        "ticker": "MARA",
+        "filename": "MARA-NASDAQ.csv",
+        "length": 2670
+    },
+    {
+        "ticker": "MARPS",
+        "filename": "MARPS-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "MASI",
+        "filename": "MASI-NASDAQ.csv",
+        "length": 3865
+    },
+    {
+        "ticker": "MAT",
+        "filename": "MAT-NASDAQ.csv",
+        "length": 11724
+    },
+    {
+        "ticker": "MATR",
+        "filename": "MATR-NASDAQ.csv",
+        "length": 5747
+    },
+    {
+        "ticker": "MATW",
+        "filename": "MATW-NASDAQ.csv",
+        "length": 7152
+    },
+    {
+        "ticker": "MAYS",
+        "filename": "MAYS-NASDAQ.csv",
+        "length": 9577
+    },
+    {
+        "ticker": "MBCN",
+        "filename": "MBCN-NASDAQ.csv",
+        "length": 4984
+    },
+    {
+        "ticker": "MBUU",
+        "filename": "MBUU-NASDAQ.csv",
+        "length": 2233
+    },
+    {
+        "ticker": "MBWM",
+        "filename": "MBWM-NASDAQ.csv",
+        "length": 5890
+    },
+    {
+        "ticker": "MCBC",
+        "filename": "MCBC-NASDAQ.csv",
+        "length": 6183
+    },
+    {
+        "ticker": "MCBK",
+        "filename": "MCBK-NASDAQ.csv",
+        "length": 2563
+    },
+    {
+        "ticker": "MCCK",
+        "filename": "MCCK-NASDAQ.csv",
+        "length": 3745
+    },
+    {
+        "ticker": "MCFUF",
+        "filename": "MCFUF-NASDAQ.csv",
+        "length": 3181
+    },
+    {
+        "ticker": "MCHP",
+        "filename": "MCHP-NASDAQ.csv",
+        "length": 7489
+    },
+    {
+        "ticker": "MCHX",
+        "filename": "MCHX-NASDAQ.csv",
+        "length": 4709
+    },
+    {
+        "ticker": "MCOA",
+        "filename": "MCOA-NASDAQ.csv",
+        "length": 2477
+    },
+    {
+        "ticker": "MCRI",
+        "filename": "MCRI-NASDAQ.csv",
+        "length": 7392
+    },
+    {
+        "ticker": "MDLZ",
+        "filename": "MDLZ-NASDAQ.csv",
+        "length": 5410
+    },
+    {
+        "ticker": "MDRX",
+        "filename": "MDRX-NASDAQ.csv",
+        "length": 5886
+    },
+    {
+        "ticker": "MDWD",
+        "filename": "MDWD-NASDAQ.csv",
+        "length": 2200
+    },
+    {
+        "ticker": "MDXG",
+        "filename": "MDXG-NASDAQ.csv",
+        "length": 3736
+    },
+    {
+        "ticker": "MEIL",
+        "filename": "MEIL-NASDAQ.csv",
+        "length": 2530
+    },
+    {
+        "ticker": "MEIP",
+        "filename": "MEIP-NASDAQ.csv",
+        "length": 4779
+    },
+    {
+        "ticker": "MELI",
+        "filename": "MELI-NASDAQ.csv",
+        "length": 3863
+    },
+    {
+        "ticker": "MEOH",
+        "filename": "MEOH-NASDAQ.csv",
+        "length": 7700
+    },
+    {
+        "ticker": "MERC",
+        "filename": "MERC-NASDAQ.csv",
+        "length": 8669
+    },
+    {
+        "ticker": "MET",
+        "filename": "MET-NASDAQ.csv",
+        "length": 5709
+    },
+    {
+        "ticker": "MGEE",
+        "filename": "MGEE-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "MGI",
+        "filename": "MGI-NASDAQ.csv",
+        "length": 4617
+    },
+    {
+        "ticker": "MGIC",
+        "filename": "MGIC-NASDAQ.csv",
+        "length": 7881
+    },
+    {
+        "ticker": "MGNX",
+        "filename": "MGNX-NASDAQ.csv",
+        "length": 2310
+    },
+    {
+        "ticker": "MGPI",
+        "filename": "MGPI-NASDAQ.csv",
+        "length": 8603
+    },
+    {
+        "ticker": "MGRC",
+        "filename": "MGRC-NASDAQ.csv",
+        "length": 9598
+    },
+    {
+        "ticker": "MGYR",
+        "filename": "MGYR-NASDAQ.csv",
+        "length": 4252
+    },
+    {
+        "ticker": "MHLD",
+        "filename": "MHLD-NASDAQ.csv",
+        "length": 3678
+    },
+    {
+        "ticker": "MICT",
+        "filename": "MICT-NASDAQ.csv",
+        "length": 2555
+    },
+    {
+        "ticker": "MIDD",
+        "filename": "MIDD-NASDAQ.csv",
+        "length": 8908
+    },
+    {
+        "ticker": "MIND",
+        "filename": "MIND-NASDAQ.csv",
+        "length": 7046
+    },
+    {
+        "ticker": "MITK",
+        "filename": "MITK-NASDAQ.csv",
+        "length": 8554
+    },
+    {
+        "ticker": "MITL",
+        "filename": "MITL-NASDAQ.csv",
+        "length": 3184
+    },
+    {
+        "ticker": "MKSI",
+        "filename": "MKSI-NASDAQ.csv",
+        "length": 5967
+    },
+    {
+        "ticker": "MKTX",
+        "filename": "MKTX-NASDAQ.csv",
+        "length": 4557
+    },
+    {
+        "ticker": "MLAB",
+        "filename": "MLAB-NASDAQ.csv",
+        "length": 9778
+    },
+    {
+        "ticker": "MLNK",
+        "filename": "MLNK-NASDAQ.csv",
+        "length": 348
+    },
+    {
+        "ticker": "MLVF",
+        "filename": "MLVF-NASDAQ.csv",
+        "length": 3667
+    },
+    {
+        "ticker": "MMLP",
+        "filename": "MMLP-NASDAQ.csv",
+        "length": 5063
+    },
+    {
+        "ticker": "MMS",
+        "filename": "MMS-NASDAQ.csv",
+        "length": 6418
+    },
+    {
+        "ticker": "MMSI",
+        "filename": "MMSI-NASDAQ.csv",
+        "length": 8210
+    },
+    {
+        "ticker": "MMU",
+        "filename": "MMU-NASDAQ.csv",
+        "length": 7659
+    },
+    {
+        "ticker": "MMYT",
+        "filename": "MMYT-NASDAQ.csv",
+        "length": 3106
+    },
+    {
+        "ticker": "MNDO",
+        "filename": "MNDO-NASDAQ.csv",
+        "length": 5623
+    },
+    {
+        "ticker": "MNKD",
+        "filename": "MNKD-NASDAQ.csv",
+        "length": 4628
+    },
+    {
+        "ticker": "MNOV",
+        "filename": "MNOV-NASDAQ.csv",
+        "length": 4030
+    },
+    {
+        "ticker": "MNRO",
+        "filename": "MNRO-NASDAQ.csv",
+        "length": 7904
+    },
+    {
+        "ticker": "MNST",
+        "filename": "MNST-NASDAQ.csv",
+        "length": 9329
+    },
+    {
+        "ticker": "MNTX",
+        "filename": "MNTX-NASDAQ.csv",
+        "length": 4488
+    },
+    {
+        "ticker": "MOBL",
+        "filename": "MOBL-NASDAQ.csv",
+        "length": 2141
+    },
+    {
+        "ticker": "MOFG",
+        "filename": "MOFG-NASDAQ.csv",
+        "length": 3746
+    },
+    {
+        "ticker": "MOG-A",
+        "filename": "MOG-A-NASDAQ.csv",
+        "length": 10727
+    },
+    {
+        "ticker": "MOMO",
+        "filename": "MOMO-NASDAQ.csv",
+        "length": 2015
+    },
+    {
+        "ticker": "MORN",
+        "filename": "MORN-NASDAQ.csv",
+        "length": 4435
+    },
+    {
+        "ticker": "MPAA",
+        "filename": "MPAA-NASDAQ.csv",
+        "length": 7233
+    },
+    {
+        "ticker": "MPB",
+        "filename": "MPB-NASDAQ.csv",
+        "length": 6297
+    },
+    {
+        "ticker": "MPWR",
+        "filename": "MPWR-NASDAQ.csv",
+        "length": 4547
+    },
+    {
+        "ticker": "MRCC",
+        "filename": "MRCC-NASDAQ.csv",
+        "length": 2549
+    },
+    {
+        "ticker": "MRCY",
+        "filename": "MRCY-NASDAQ.csv",
+        "length": 6259
+    },
+    {
+        "ticker": "MRNS",
+        "filename": "MRNS-NASDAQ.csv",
+        "length": 2108
+    },
+    {
+        "ticker": "MRTN",
+        "filename": "MRTN-NASDAQ.csv",
+        "length": 9128
+    },
+    {
+        "ticker": "MRTX",
+        "filename": "MRTX-NASDAQ.csv",
+        "length": 2372
+    },
+    {
+        "ticker": "MRVL",
+        "filename": "MRVL-NASDAQ.csv",
+        "length": 5649
+    },
+    {
+        "ticker": "MSCC",
+        "filename": "MSCC-NASDAQ.csv",
+        "length": 10518
+    },
+    {
+        "ticker": "MSEX",
+        "filename": "MSEX-NASDAQ.csv",
+        "length": 12564
+    },
+    {
+        "ticker": "MSFG",
+        "filename": "MSFG-NASDAQ.csv",
+        "length": 7792
+    },
+    {
+        "ticker": "MSFT",
+        "filename": "MSFT-NASDAQ.csv",
+        "length": 9264
+    },
+    {
+        "ticker": "MSTR",
+        "filename": "MSTR-NASDAQ.csv",
+        "length": 6168
+    },
+    {
+        "ticker": "MTBC",
+        "filename": "MTBC-NASDAQ.csv",
+        "length": 2114
+    },
+    {
+        "ticker": "MTEX",
+        "filename": "MTEX-NASDAQ.csv",
+        "length": 5997
+    },
+    {
+        "ticker": "MTLS",
+        "filename": "MTLS-NASDAQ.csv",
+        "length": 2133
+    },
+    {
+        "ticker": "MTRX",
+        "filename": "MTRX-NASDAQ.csv",
+        "length": 8116
+    },
+    {
+        "ticker": "MU",
+        "filename": "MU-NASDAQ.csv",
+        "length": 9713
+    },
+    {
+        "ticker": "MVIS",
+        "filename": "MVIS-NASDAQ.csv",
+        "length": 6619
+    },
+    {
+        "ticker": "MYGN",
+        "filename": "MYGN-NASDAQ.csv",
+        "length": 6844
+    },
+    {
+        "ticker": "MYRG",
+        "filename": "MYRG-NASDAQ.csv",
+        "length": 3609
+    },
+    {
+        "ticker": "MZOR",
+        "filename": "MZOR-NASDAQ.csv",
+        "length": 2405
+    },
+    {
+        "ticker": "NAII",
+        "filename": "NAII-NASDAQ.csv",
+        "length": 7334
+    },
+    {
+        "ticker": "NATH",
+        "filename": "NATH-NASDAQ.csv",
+        "length": 7504
+    },
+    {
+        "ticker": "NATI",
+        "filename": "NATI-NASDAQ.csv",
+        "length": 6988
+    },
+    {
+        "ticker": "NATR",
+        "filename": "NATR-NASDAQ.csv",
+        "length": 3391
+    },
+    {
+        "ticker": "NAUH",
+        "filename": "NAUH-NASDAQ.csv",
+        "length": 3760
+    },
+    {
+        "ticker": "NBIX",
+        "filename": "NBIX-NASDAQ.csv",
+        "length": 6685
+    },
+    {
+        "ticker": "NBN",
+        "filename": "NBN-NASDAQ.csv",
+        "length": 8901
+    },
+    {
+        "ticker": "NBTB",
+        "filename": "NBTB-NASDAQ.csv",
+        "length": 7744
+    },
+    {
+        "ticker": "NCLH",
+        "filename": "NCLH-NASDAQ.csv",
+        "length": 2493
+    },
+    {
+        "ticker": "NCLIP",
+        "filename": "NCLIP-NASDAQ.csv",
+        "length": 3485
+    },
+    {
+        "ticker": "NCMI",
+        "filename": "NCMI-NASDAQ.csv",
+        "length": 3990
+    },
+    {
+        "ticker": "NCTY",
+        "filename": "NCTY-NASDAQ.csv",
+        "length": 4530
+    },
+    {
+        "ticker": "NDLS",
+        "filename": "NDLS-NASDAQ.csv",
+        "length": 2382
+    },
+    {
+        "ticker": "NDSN",
+        "filename": "NDSN-NASDAQ.csv",
+        "length": 10777
+    },
+    {
+        "ticker": "NECB",
+        "filename": "NECB-NASDAQ.csv",
+        "length": 4139
+    },
+    {
+        "ticker": "NEO",
+        "filename": "NEO-NASDAQ.csv",
+        "length": 4720
+    },
+    {
+        "ticker": "NEOG",
+        "filename": "NEOG-NASDAQ.csv",
+        "length": 8392
+    },
+    {
+        "ticker": "NEON",
+        "filename": "NEON-NASDAQ.csv",
+        "length": 8550
+    },
+    {
+        "ticker": "NEPT",
+        "filename": "NEPT-NASDAQ.csv",
+        "length": 3862
+    },
+    {
+        "ticker": "NERV",
+        "filename": "NERV-NASDAQ.csv",
+        "length": 2129
+    },
+    {
+        "ticker": "NEWT",
+        "filename": "NEWT-NASDAQ.csv",
+        "length": 5588
+    },
+    {
+        "ticker": "NFLX",
+        "filename": "NFLX-NASDAQ.csv",
+        "length": 5176
+    },
+    {
+        "ticker": "NICE",
+        "filename": "NICE-NASDAQ.csv",
+        "length": 6768
+    },
+    {
+        "ticker": "NICK",
+        "filename": "NICK-NASDAQ.csv",
+        "length": 6281
+    },
+    {
+        "ticker": "NILE",
+        "filename": "NILE-NASDAQ.csv",
+        "length": 6541
+    },
+    {
+        "ticker": "NKSH",
+        "filename": "NKSH-NASDAQ.csv",
+        "length": 5796
+    },
+    {
+        "ticker": "NKTR",
+        "filename": "NKTR-NASDAQ.csv",
+        "length": 7206
+    },
+    {
+        "ticker": "NLST",
+        "filename": "NLST-NASDAQ.csv",
+        "length": 4029
+    },
+    {
+        "ticker": "NMIH",
+        "filename": "NMIH-NASDAQ.csv",
+        "length": 2289
+    },
+    {
+        "ticker": "NNBR",
+        "filename": "NNBR-NASDAQ.csv",
+        "length": 7239
+    },
+    {
+        "ticker": "NOXL",
+        "filename": "NOXL-NASDAQ.csv",
+        "length": 6625
+    },
+    {
+        "ticker": "NRCIB",
+        "filename": "NRCIB-NASDAQ.csv",
+        "length": 6335
+    },
+    {
+        "ticker": "NRIM",
+        "filename": "NRIM-NASDAQ.csv",
+        "length": 8080
+    },
+    {
+        "ticker": "NSIT",
+        "filename": "NSIT-NASDAQ.csv",
+        "length": 7022
+    },
+    {
+        "ticker": "NSSC",
+        "filename": "NSSC-NASDAQ.csv",
+        "length": 10327
+    },
+    {
+        "ticker": "NSTG",
+        "filename": "NSTG-NASDAQ.csv",
+        "length": 2384
+    },
+    {
+        "ticker": "NSYS",
+        "filename": "NSYS-NASDAQ.csv",
+        "length": 7431
+    },
+    {
+        "ticker": "NTAP",
+        "filename": "NTAP-NASDAQ.csv",
+        "length": 6812
+    },
+    {
+        "ticker": "NTCT",
+        "filename": "NTCT-NASDAQ.csv",
+        "length": 5873
+    },
+    {
+        "ticker": "NTES",
+        "filename": "NTES-NASDAQ.csv",
+        "length": 5649
+    },
+    {
+        "ticker": "NTGR",
+        "filename": "NTGR-NASDAQ.csv",
+        "length": 4877
+    },
+    {
+        "ticker": "NTIC",
+        "filename": "NTIC-NASDAQ.csv",
+        "length": 7736
+    },
+    {
+        "ticker": "NTRS",
+        "filename": "NTRS-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "NTWK",
+        "filename": "NTWK-NASDAQ.csv",
+        "length": 6094
+    },
+    {
+        "ticker": "NURO",
+        "filename": "NURO-NASDAQ.csv",
+        "length": 4632
+    },
+    {
+        "ticker": "NUVA",
+        "filename": "NUVA-NASDAQ.csv",
+        "length": 4679
+    },
+    {
+        "ticker": "NVAX",
+        "filename": "NVAX-NASDAQ.csv",
+        "length": 6803
+    },
+    {
+        "ticker": "NVCN",
+        "filename": "NVCN-NASDAQ.csv",
+        "length": 3993
+    },
+    {
+        "ticker": "NVDA",
+        "filename": "NVDA-NASDAQ.csv",
+        "length": 6013
+    },
+    {
+        "ticker": "NVEC",
+        "filename": "NVEC-NASDAQ.csv",
+        "length": 6939
+    },
+    {
+        "ticker": "NVFY",
+        "filename": "NVFY-NASDAQ.csv",
+        "length": 2808
+    },
+    {
+        "ticker": "NVMI",
+        "filename": "NVMI-NASDAQ.csv",
+        "length": 5705
+    },
+    {
+        "ticker": "NWBI",
+        "filename": "NWBI-NASDAQ.csv",
+        "length": 7075
+    },
+    {
+        "ticker": "NWBO",
+        "filename": "NWBO-NASDAQ.csv",
+        "length": 5285
+    },
+    {
+        "ticker": "NWFL",
+        "filename": "NWFL-NASDAQ.csv",
+        "length": 6237
+    },
+    {
+        "ticker": "NWPX",
+        "filename": "NWPX-NASDAQ.csv",
+        "length": 6806
+    },
+    {
+        "ticker": "NWSA",
+        "filename": "NWSA-NASDAQ.csv",
+        "length": 2389
+    },
+    {
+        "ticker": "NXPI",
+        "filename": "NXPI-NASDAQ.csv",
+        "length": 3110
+    },
+    {
+        "ticker": "NYMT",
+        "filename": "NYMT-NASDAQ.csv",
+        "length": 4630
+    },
+    {
+        "ticker": "NYMX",
+        "filename": "NYMX-NASDAQ.csv",
+        "length": 6285
+    },
+    {
+        "ticker": "OCC",
+        "filename": "OCC-NASDAQ.csv",
+        "length": 6721
+    },
+    {
+        "ticker": "OCFC",
+        "filename": "OCFC-NASDAQ.csv",
+        "length": 6657
+    },
+    {
+        "ticker": "OCLR",
+        "filename": "OCLR-NASDAQ.csv",
+        "length": 4597
+    },
+    {
+        "ticker": "OCUL",
+        "filename": "OCUL-NASDAQ.csv",
+        "length": 2112
+    },
+    {
+        "ticker": "ODFL",
+        "filename": "ODFL-NASDAQ.csv",
+        "length": 7843
+    },
+    {
+        "ticker": "ODP",
+        "filename": "ODP-NASDAQ.csv",
+        "length": 8703
+    },
+    {
+        "ticker": "OFED",
+        "filename": "OFED-NASDAQ.csv",
+        "length": 2998
+    },
+    {
+        "ticker": "OFIX",
+        "filename": "OFIX-NASDAQ.csv",
+        "length": 7717
+    },
+    {
+        "ticker": "OFLX",
+        "filename": "OFLX-NASDAQ.csv",
+        "length": 4373
+    },
+    {
+        "ticker": "OFS",
+        "filename": "OFS-NASDAQ.csv",
+        "length": 2541
+    },
+    {
+        "ticker": "OIIM",
+        "filename": "OIIM-NASDAQ.csv",
+        "length": 5606
+    },
+    {
+        "ticker": "OIS",
+        "filename": "OIS-NASDAQ.csv",
+        "length": 5495
+    },
+    {
+        "ticker": "OKE",
+        "filename": "OKE-NASDAQ.csv",
+        "length": 10640
+    },
+    {
+        "ticker": "OLED",
+        "filename": "OLED-NASDAQ.csv",
+        "length": 6715
+    },
+    {
+        "ticker": "OMAB",
+        "filename": "OMAB-NASDAQ.csv",
+        "length": 4037
+    },
+    {
+        "ticker": "OMCL",
+        "filename": "OMCL-NASDAQ.csv",
+        "length": 5370
+    },
+    {
+        "ticker": "OMER",
+        "filename": "OMER-NASDAQ.csv",
+        "length": 3318
+    },
+    {
+        "ticker": "OMEX",
+        "filename": "OMEX-NASDAQ.csv",
+        "length": 5821
+    },
+    {
+        "ticker": "OMF",
+        "filename": "OMF-NASDAQ.csv",
+        "length": 2306
+    },
+    {
+        "ticker": "OMRNY",
+        "filename": "OMRNY-NASDAQ.csv",
+        "length": 6746
+    },
+    {
+        "ticker": "ON",
+        "filename": "ON-NASDAQ.csv",
+        "length": 5691
+    },
+    {
+        "ticker": "ONB",
+        "filename": "ONB-NASDAQ.csv",
+        "length": 9700
+    },
+    {
+        "ticker": "ONCY",
+        "filename": "ONCY-NASDAQ.csv",
+        "length": 5334
+    },
+    {
+        "ticker": "ONEQ",
+        "filename": "ONEQ-NASDAQ.csv",
+        "length": 4834
+    },
+    {
+        "ticker": "ONTX",
+        "filename": "ONTX-NASDAQ.csv",
+        "length": 2364
+    },
+    {
+        "ticker": "OPHC",
+        "filename": "OPHC-NASDAQ.csv",
+        "length": 4904
+    },
+    {
+        "ticker": "OPOF",
+        "filename": "OPOF-NASDAQ.csv",
+        "length": 6021
+    },
+    {
+        "ticker": "OPTT",
+        "filename": "OPTT-NASDAQ.csv",
+        "length": 3938
+    },
+    {
+        "ticker": "ORIG",
+        "filename": "ORIG-NASDAQ.csv",
+        "length": 2828
+    },
+    {
+        "ticker": "ORLY",
+        "filename": "ORLY-NASDAQ.csv",
+        "length": 7465
+    },
+    {
+        "ticker": "ORMP",
+        "filename": "ORMP-NASDAQ.csv",
+        "length": 3934
+    },
+    {
+        "ticker": "ORRF",
+        "filename": "ORRF-NASDAQ.csv",
+        "length": 5936
+    },
+    {
+        "ticker": "OSBC",
+        "filename": "OSBC-NASDAQ.csv",
+        "length": 7321
+    },
+    {
+        "ticker": "OSIS",
+        "filename": "OSIS-NASDAQ.csv",
+        "length": 6341
+    },
+    {
+        "ticker": "OSTK",
+        "filename": "OSTK-NASDAQ.csv",
+        "length": 5172
+    },
+    {
+        "ticker": "OSUR",
+        "filename": "OSUR-NASDAQ.csv",
+        "length": 9091
+    },
+    {
+        "ticker": "OTEX",
+        "filename": "OTEX-NASDAQ.csv",
+        "length": 6769
+    },
+    {
+        "ticker": "OTIC",
+        "filename": "OTIC-NASDAQ.csv",
+        "length": 2099
+    },
+    {
+        "ticker": "OTTR",
+        "filename": "OTTR-NASDAQ.csv",
+        "length": 12564
+    },
+    {
+        "ticker": "OVBC",
+        "filename": "OVBC-NASDAQ.csv",
+        "length": 7076
+    },
+    {
+        "ticker": "OVLY",
+        "filename": "OVLY-NASDAQ.csv",
+        "length": 4824
+    },
+    {
+        "ticker": "OXBR",
+        "filename": "OXBR-NASDAQ.csv",
+        "length": 2195
+    },
+    {
+        "ticker": "OXLC",
+        "filename": "OXLC-NASDAQ.csv",
+        "length": 2994
+    },
+    {
+        "ticker": "PAAS",
+        "filename": "PAAS-NASDAQ.csv",
+        "length": 6926
+    },
+    {
+        "ticker": "PACB",
+        "filename": "PACB-NASDAQ.csv",
+        "length": 3053
+    },
+    {
+        "ticker": "PACW",
+        "filename": "PACW-NASDAQ.csv",
+        "length": 5668
+    },
+    {
+        "ticker": "PAHC",
+        "filename": "PAHC-NASDAQ.csv",
+        "length": 2184
+    },
+    {
+        "ticker": "PANL",
+        "filename": "PANL-NASDAQ.csv",
+        "length": 2261
+    },
+    {
+        "ticker": "PAOTF",
+        "filename": "PAOTF-NASDAQ.csv",
+        "length": 3061
+    },
+    {
+        "ticker": "PATI",
+        "filename": "PATI-NASDAQ.csv",
+        "length": 1981
+    },
+    {
+        "ticker": "PATK",
+        "filename": "PATK-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "PAYX",
+        "filename": "PAYX-NASDAQ.csv",
+        "length": 9906
+    },
+    {
+        "ticker": "PBHC",
+        "filename": "PBHC-NASDAQ.csv",
+        "length": 6815
+    },
+    {
+        "ticker": "PBPB",
+        "filename": "PBPB-NASDAQ.csv",
+        "length": 2314
+    },
+    {
+        "ticker": "PBSK",
+        "filename": "PBSK-NASDAQ.csv",
+        "length": 2832
+    },
+    {
+        "ticker": "PCAR",
+        "filename": "PCAR-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "PCH",
+        "filename": "PCH-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "PCRX",
+        "filename": "PCRX-NASDAQ.csv",
+        "length": 2985
+    },
+    {
+        "ticker": "PCTY",
+        "filename": "PCTY-NASDAQ.csv",
+        "length": 2201
+    },
+    {
+        "ticker": "PCYG",
+        "filename": "PCYG-NASDAQ.csv",
+        "length": 5820
+    },
+    {
+        "ticker": "PCYO",
+        "filename": "PCYO-NASDAQ.csv",
+        "length": 7219
+    },
+    {
+        "ticker": "PDCE",
+        "filename": "PDCE-NASDAQ.csv",
+        "length": 8244
+    },
+    {
+        "ticker": "PDCO",
+        "filename": "PDCO-NASDAQ.csv",
+        "length": 7587
+    },
+    {
+        "ticker": "PDFS",
+        "filename": "PDFS-NASDAQ.csv",
+        "length": 5377
+    },
+    {
+        "ticker": "PEBK",
+        "filename": "PEBK-NASDAQ.csv",
+        "length": 9366
+    },
+    {
+        "ticker": "PEBO",
+        "filename": "PEBO-NASDAQ.csv",
+        "length": 7515
+    },
+    {
+        "ticker": "PEGA",
+        "filename": "PEGA-NASDAQ.csv",
+        "length": 6646
+    },
+    {
+        "ticker": "PENN",
+        "filename": "PENN-NASDAQ.csv",
+        "length": 7189
+    },
+    {
+        "ticker": "PERF",
+        "filename": "PERF-NASDAQ.csv",
+        "length": 30
+    },
+    {
+        "ticker": "PERI",
+        "filename": "PERI-NASDAQ.csv",
+        "length": 4247
+    },
+    {
+        "ticker": "PERY",
+        "filename": "PERY-NASDAQ.csv",
+        "length": 7445
+    },
+    {
+        "ticker": "PETS",
+        "filename": "PETS-NASDAQ.csv",
+        "length": 5949
+    },
+    {
+        "ticker": "PFBC",
+        "filename": "PFBC-NASDAQ.csv",
+        "length": 5868
+    },
+    {
+        "ticker": "PFBX",
+        "filename": "PFBX-NASDAQ.csv",
+        "length": 5890
+    },
+    {
+        "ticker": "PFIE",
+        "filename": "PFIE-NASDAQ.csv",
+        "length": 3214
+    },
+    {
+        "ticker": "PFIN",
+        "filename": "PFIN-NASDAQ.csv",
+        "length": 9950
+    },
+    {
+        "ticker": "PFIS",
+        "filename": "PFIS-NASDAQ.csv",
+        "length": 5168
+    },
+    {
+        "ticker": "PFLT",
+        "filename": "PFLT-NASDAQ.csv",
+        "length": 2940
+    },
+    {
+        "ticker": "PFMT",
+        "filename": "PFMT-NASDAQ.csv",
+        "length": 2602
+    },
+    {
+        "ticker": "PFSW",
+        "filename": "PFSW-NASDAQ.csv",
+        "length": 5795
+    },
+    {
+        "ticker": "PHI",
+        "filename": "PHI-NASDAQ.csv",
+        "length": 12514
+    },
+    {
+        "ticker": "PINC",
+        "filename": "PINC-NASDAQ.csv",
+        "length": 2320
+    },
+    {
+        "ticker": "PKBK",
+        "filename": "PKBK-NASDAQ.csv",
+        "length": 4904
+    },
+    {
+        "ticker": "PLAB",
+        "filename": "PLAB-NASDAQ.csv",
+        "length": 9014
+    },
+    {
+        "ticker": "PLAY",
+        "filename": "PLAY-NASDAQ.csv",
+        "length": 2058
+    },
+    {
+        "ticker": "PLBC",
+        "filename": "PLBC-NASDAQ.csv",
+        "length": 5036
+    },
+    {
+        "ticker": "PLCE",
+        "filename": "PLCE-NASDAQ.csv",
+        "length": 6350
+    },
+    {
+        "ticker": "PLPC",
+        "filename": "PLPC-NASDAQ.csv",
+        "length": 5947
+    },
+    {
+        "ticker": "PLPL",
+        "filename": "PLPL-NASDAQ.csv",
+        "length": 7015
+    },
+    {
+        "ticker": "PLUG",
+        "filename": "PLUG-NASDAQ.csv",
+        "length": 5818
+    },
+    {
+        "ticker": "PLUS",
+        "filename": "PLUS-NASDAQ.csv",
+        "length": 6562
+    },
+    {
+        "ticker": "PLXS",
+        "filename": "PLXS-NASDAQ.csv",
+        "length": 9289
+    },
+    {
+        "ticker": "PMD",
+        "filename": "PMD-NASDAQ.csv",
+        "length": 9046
+    },
+    {
+        "ticker": "PME",
+        "filename": "PME-NASDAQ.csv",
+        "length": 2861
+    },
+    {
+        "ticker": "PNBK",
+        "filename": "PNBK-NASDAQ.csv",
+        "length": 7122
+    },
+    {
+        "ticker": "PNFP",
+        "filename": "PNFP-NASDAQ.csv",
+        "length": 5613
+    },
+    {
+        "ticker": "PNNT",
+        "filename": "PNNT-NASDAQ.csv",
+        "length": 3942
+    },
+    {
+        "ticker": "PNRG",
+        "filename": "PNRG-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "PODD",
+        "filename": "PODD-NASDAQ.csv",
+        "length": 3924
+    },
+    {
+        "ticker": "POOL",
+        "filename": "POOL-NASDAQ.csv",
+        "length": 6839
+    },
+    {
+        "ticker": "POWI",
+        "filename": "POWI-NASDAQ.csv",
+        "length": 6291
+    },
+    {
+        "ticker": "POWL",
+        "filename": "POWL-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "PPBI",
+        "filename": "PPBI-NASDAQ.csv",
+        "length": 6410
+    },
+    {
+        "ticker": "PPC",
+        "filename": "PPC-NASDAQ.csv",
+        "length": 8809
+    },
+    {
+        "ticker": "PPG",
+        "filename": "PPG-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "PPSI",
+        "filename": "PPSI-NASDAQ.csv",
+        "length": 2421
+    },
+    {
+        "ticker": "PRAA",
+        "filename": "PRAA-NASDAQ.csv",
+        "length": 5058
+    },
+    {
+        "ticker": "PRAY",
+        "filename": "PRAY-NASDAQ.csv",
+        "length": 212
+    },
+    {
+        "ticker": "PREC",
+        "filename": "PREC-NASDAQ.csv",
+        "length": 1916
+    },
+    {
+        "ticker": "PRFT",
+        "filename": "PRFT-NASDAQ.csv",
+        "length": 5883
+    },
+    {
+        "ticker": "PRGS",
+        "filename": "PRGS-NASDAQ.csv",
+        "length": 7904
+    },
+    {
+        "ticker": "PRIM",
+        "filename": "PRIM-NASDAQ.csv",
+        "length": 3614
+    },
+    {
+        "ticker": "PRKR",
+        "filename": "PRKR-NASDAQ.csv",
+        "length": 7311
+    },
+    {
+        "ticker": "PRMW",
+        "filename": "PRMW-NASDAQ.csv",
+        "length": 7681
+    },
+    {
+        "ticker": "PROV",
+        "filename": "PROV-NASDAQ.csv",
+        "length": 6660
+    },
+    {
+        "ticker": "PRPH",
+        "filename": "PRPH-NASDAQ.csv",
+        "length": 7226
+    },
+    {
+        "ticker": "PRQR",
+        "filename": "PRQR-NASDAQ.csv",
+        "length": 2074
+    },
+    {
+        "ticker": "PRSS",
+        "filename": "PRSS-NASDAQ.csv",
+        "length": 2695
+    },
+    {
+        "ticker": "PRTA",
+        "filename": "PRTA-NASDAQ.csv",
+        "length": 2514
+    },
+    {
+        "ticker": "PRTK",
+        "filename": "PRTK-NASDAQ.csv",
+        "length": 3490
+    },
+    {
+        "ticker": "PRTS",
+        "filename": "PRTS-NASDAQ.csv",
+        "length": 3989
+    },
+    {
+        "ticker": "PSBQ",
+        "filename": "PSBQ-NASDAQ.csv",
+        "length": 5761
+    },
+    {
+        "ticker": "PSEC",
+        "filename": "PSEC-NASDAQ.csv",
+        "length": 4629
+    },
+    {
+        "ticker": "PSIX",
+        "filename": "PSIX-NASDAQ.csv",
+        "length": 2682
+    },
+    {
+        "ticker": "PSMT",
+        "filename": "PSMT-NASDAQ.csv",
+        "length": 6363
+    },
+    {
+        "ticker": "PSO",
+        "filename": "PSO-NASDAQ.csv",
+        "length": 6561
+    },
+    {
+        "ticker": "PTC",
+        "filename": "PTC-NASDAQ.csv",
+        "length": 8317
+    },
+    {
+        "ticker": "PTCT",
+        "filename": "PTCT-NASDAQ.csv",
+        "length": 2388
+    },
+    {
+        "ticker": "PTNR",
+        "filename": "PTNR-NASDAQ.csv",
+        "length": 5820
+    },
+    {
+        "ticker": "PTSI",
+        "filename": "PTSI-NASDAQ.csv",
+        "length": 9139
+    },
+    {
+        "ticker": "PWOD",
+        "filename": "PWOD-NASDAQ.csv",
+        "length": 7185
+    },
+    {
+        "ticker": "PXLW",
+        "filename": "PXLW-NASDAQ.csv",
+        "length": 5678
+    },
+    {
+        "ticker": "PYS",
+        "filename": "PYS-NASDAQ.csv",
+        "length": 3339
+    },
+    {
+        "ticker": "PZZA",
+        "filename": "PZZA-NASDAQ.csv",
+        "length": 7434
+    },
+    {
+        "ticker": "QBAK",
+        "filename": "QBAK-NASDAQ.csv",
+        "length": 5653
+    },
+    {
+        "ticker": "QCCO",
+        "filename": "QCCO-NASDAQ.csv",
+        "length": 4635
+    },
+    {
+        "ticker": "QCOM",
+        "filename": "QCOM-NASDAQ.csv",
+        "length": 7808
+    },
+    {
+        "ticker": "QCRH",
+        "filename": "QCRH-NASDAQ.csv",
+        "length": 7350
+    },
+    {
+        "ticker": "QDEL",
+        "filename": "QDEL-NASDAQ.csv",
+        "length": 8027
+    },
+    {
+        "ticker": "QIFTF",
+        "filename": "QIFTF-NASDAQ.csv",
+        "length": 1082
+    },
+    {
+        "ticker": "QKLS",
+        "filename": "QKLS-NASDAQ.csv",
+        "length": 5773
+    },
+    {
+        "ticker": "QLYS",
+        "filename": "QLYS-NASDAQ.csv",
+        "length": 2568
+    },
+    {
+        "ticker": "QNST",
+        "filename": "QNST-NASDAQ.csv",
+        "length": 3232
+    },
+    {
+        "ticker": "QRHC",
+        "filename": "QRHC-NASDAQ.csv",
+        "length": 3258
+    },
+    {
+        "ticker": "QRVO",
+        "filename": "QRVO-NASDAQ.csv",
+        "length": 2001
+    },
+    {
+        "ticker": "QTNT",
+        "filename": "QTNT-NASDAQ.csv",
+        "length": 2175
+    },
+    {
+        "ticker": "QUIK",
+        "filename": "QUIK-NASDAQ.csv",
+        "length": 5827
+    },
+    {
+        "ticker": "QUMU",
+        "filename": "QUMU-NASDAQ.csv",
+        "length": 7581
+    },
+    {
+        "ticker": "QURE",
+        "filename": "QURE-NASDAQ.csv",
+        "length": 2230
+    },
+    {
+        "ticker": "RADA",
+        "filename": "RADA-NASDAQ.csv",
+        "length": 9444
+    },
+    {
+        "ticker": "RAIL",
+        "filename": "RAIL-NASDAQ.csv",
+        "length": 4454
+    },
+    {
+        "ticker": "RAND",
+        "filename": "RAND-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "RARE",
+        "filename": "RARE-NASDAQ.csv",
+        "length": 2233
+    },
+    {
+        "ticker": "RAVE",
+        "filename": "RAVE-NASDAQ.csv",
+        "length": 7374
+    },
+    {
+        "ticker": "RBCAA",
+        "filename": "RBCAA-NASDAQ.csv",
+        "length": 6140
+    },
+    {
+        "ticker": "RBCN",
+        "filename": "RBCN-NASDAQ.csv",
+        "length": 3794
+    },
+    {
+        "ticker": "RCKY",
+        "filename": "RCKY-NASDAQ.csv",
+        "length": 7520
+    },
+    {
+        "ticker": "RCMT",
+        "filename": "RCMT-NASDAQ.csv",
+        "length": 9896
+    },
+    {
+        "ticker": "RCON",
+        "filename": "RCON-NASDAQ.csv",
+        "length": 3367
+    },
+    {
+        "ticker": "RDCM",
+        "filename": "RDCM-NASDAQ.csv",
+        "length": 6346
+    },
+    {
+        "ticker": "RDHL",
+        "filename": "RDHL-NASDAQ.csv",
+        "length": 2502
+    },
+    {
+        "ticker": "RDI",
+        "filename": "RDI-NASDAQ.csv",
+        "length": 9831
+    },
+    {
+        "ticker": "RDNT",
+        "filename": "RDNT-NASDAQ.csv",
+        "length": 6530
+    },
+    {
+        "ticker": "RDWR",
+        "filename": "RDWR-NASDAQ.csv",
+        "length": 5839
+    },
+    {
+        "ticker": "REFR",
+        "filename": "REFR-NASDAQ.csv",
+        "length": 9184
+    },
+    {
+        "ticker": "REGI",
+        "filename": "REGI-NASDAQ.csv",
+        "length": 2743
+    },
+    {
+        "ticker": "REGN",
+        "filename": "REGN-NASDAQ.csv",
+        "length": 7987
+    },
+    {
+        "ticker": "REIS",
+        "filename": "REIS-NASDAQ.csv",
+        "length": 2340
+    },
+    {
+        "ticker": "RELL",
+        "filename": "RELL-NASDAQ.csv",
+        "length": 9862
+    },
+    {
+        "ticker": "RELV",
+        "filename": "RELV-NASDAQ.csv",
+        "length": 1666
+    },
+    {
+        "ticker": "RENT",
+        "filename": "RENT-NASDAQ.csv",
+        "length": 284
+    },
+    {
+        "ticker": "RFIL",
+        "filename": "RFIL-NASDAQ.csv",
+        "length": 7224
+    },
+    {
+        "ticker": "RGCO",
+        "filename": "RGCO-NASDAQ.csv",
+        "length": 7268
+    },
+    {
+        "ticker": "RGEN",
+        "filename": "RGEN-NASDAQ.csv",
+        "length": 9232
+    },
+    {
+        "ticker": "RGLD",
+        "filename": "RGLD-NASDAQ.csv",
+        "length": 10468
+    },
+    {
+        "ticker": "RGLS",
+        "filename": "RGLS-NASDAQ.csv",
+        "length": 2561
+    },
+    {
+        "ticker": "RGS",
+        "filename": "RGS-NASDAQ.csv",
+        "length": 7930
+    },
+    {
+        "ticker": "RHDGF",
+        "filename": "RHDGF-NASDAQ.csv",
+        "length": 5273
+    },
+    {
+        "ticker": "RIBT",
+        "filename": "RIBT-NASDAQ.csv",
+        "length": 4834
+    },
+    {
+        "ticker": "RICK",
+        "filename": "RICK-NASDAQ.csv",
+        "length": 6839
+    },
+    {
+        "ticker": "RIGL",
+        "filename": "RIGL-NASDAQ.csv",
+        "length": 5544
+    },
+    {
+        "ticker": "RITT",
+        "filename": "RITT-NASDAQ.csv",
+        "length": 6391
+    },
+    {
+        "ticker": "RLJE",
+        "filename": "RLJE-NASDAQ.csv",
+        "length": 2941
+    },
+    {
+        "ticker": "RMBS",
+        "filename": "RMBS-NASDAQ.csv",
+        "length": 6439
+    },
+    {
+        "ticker": "RMCF",
+        "filename": "RMCF-NASDAQ.csv",
+        "length": 9285
+    },
+    {
+        "ticker": "RMGN",
+        "filename": "RMGN-NASDAQ.csv",
+        "length": 2892
+    },
+    {
+        "ticker": "RMTI",
+        "filename": "RMTI-NASDAQ.csv",
+        "length": 6262
+    },
+    {
+        "ticker": "RNST",
+        "filename": "RNST-NASDAQ.csv",
+        "length": 7717
+    },
+    {
+        "ticker": "RNWK",
+        "filename": "RNWK-NASDAQ.csv",
+        "length": 6305
+    },
+    {
+        "ticker": "ROCK",
+        "filename": "ROCK-NASDAQ.csv",
+        "length": 7328
+    },
+    {
+        "ticker": "ROIC",
+        "filename": "ROIC-NASDAQ.csv",
+        "length": 3300
+    },
+    {
+        "ticker": "ROST",
+        "filename": "ROST-NASDAQ.csv",
+        "length": 9413
+    },
+    {
+        "ticker": "ROYL",
+        "filename": "ROYL-NASDAQ.csv",
+        "length": 7225
+    },
+    {
+        "ticker": "RPRX",
+        "filename": "RPRX-NASDAQ.csv",
+        "length": 629
+    },
+    {
+        "ticker": "RRGB",
+        "filename": "RRGB-NASDAQ.csv",
+        "length": 5137
+    },
+    {
+        "ticker": "RSYS",
+        "filename": "RSYS-NASDAQ.csv",
+        "length": 6834
+    },
+    {
+        "ticker": "RTGN",
+        "filename": "RTGN-NASDAQ.csv",
+        "length": 201
+    },
+    {
+        "ticker": "RUSHA",
+        "filename": "RUSHA-NASDAQ.csv",
+        "length": 4830
+    },
+    {
+        "ticker": "RUTH",
+        "filename": "RUTH-NASDAQ.csv",
+        "length": 4367
+    },
+    {
+        "ticker": "RVNC",
+        "filename": "RVNC-NASDAQ.csv",
+        "length": 2229
+    },
+    {
+        "ticker": "RVSB",
+        "filename": "RVSB-NASDAQ.csv",
+        "length": 7337
+    },
+    {
+        "ticker": "RWLK",
+        "filename": "RWLK-NASDAQ.csv",
+        "length": 2078
+    },
+    {
+        "ticker": "RWMI",
+        "filename": "RWMI-NASDAQ.csv",
+        "length": 2427
+    },
+    {
+        "ticker": "RXDX",
+        "filename": "RXDX-NASDAQ.csv",
+        "length": 443
+    },
+    {
+        "ticker": "RYAAY",
+        "filename": "RYAAY-NASDAQ.csv",
+        "length": 6429
+    },
+    {
+        "ticker": "RYI",
+        "filename": "RYI-NASDAQ.csv",
+        "length": 2102
+    },
+    {
+        "ticker": "S",
+        "filename": "S-NASDAQ.csv",
+        "length": 367
+    },
+    {
+        "ticker": "SABR",
+        "filename": "SABR-NASDAQ.csv",
+        "length": 2180
+    },
+    {
+        "ticker": "SAFT",
+        "filename": "SAFT-NASDAQ.csv",
+        "length": 5048
+    },
+    {
+        "ticker": "SAGE",
+        "filename": "SAGE-NASDAQ.csv",
+        "length": 2117
+    },
+    {
+        "ticker": "SAIA",
+        "filename": "SAIA-NASDAQ.csv",
+        "length": 5100
+    },
+    {
+        "ticker": "SAL",
+        "filename": "SAL-NASDAQ.csv",
+        "length": 6116
+    },
+    {
+        "ticker": "SAMG",
+        "filename": "SAMG-NASDAQ.csv",
+        "length": 2383
+    },
+    {
+        "ticker": "SANM",
+        "filename": "SANM-NASDAQ.csv",
+        "length": 7472
+    },
+    {
+        "ticker": "SANW",
+        "filename": "SANW-NASDAQ.csv",
+        "length": 3148
+    },
+    {
+        "ticker": "SASR",
+        "filename": "SASR-NASDAQ.csv",
+        "length": 7223
+    },
+    {
+        "ticker": "SATS",
+        "filename": "SATS-NASDAQ.csv",
+        "length": 3764
+    },
+    {
+        "ticker": "SAVE",
+        "filename": "SAVE-NASDAQ.csv",
+        "length": 2907
+    },
+    {
+        "ticker": "SBAC",
+        "filename": "SBAC-NASDAQ.csv",
+        "length": 5913
+    },
+    {
+        "ticker": "SBCF",
+        "filename": "SBCF-NASDAQ.csv",
+        "length": 9796
+    },
+    {
+        "ticker": "SBFG",
+        "filename": "SBFG-NASDAQ.csv",
+        "length": 6026
+    },
+    {
+        "ticker": "SBGI",
+        "filename": "SBGI-NASDAQ.csv",
+        "length": 6929
+    },
+    {
+        "ticker": "SBLK",
+        "filename": "SBLK-NASDAQ.csv",
+        "length": 3784
+    },
+    {
+        "ticker": "SBNY",
+        "filename": "SBNY-NASDAQ.csv",
+        "length": 4715
+    },
+    {
+        "ticker": "SBRA",
+        "filename": "SBRA-NASDAQ.csv",
+        "length": 5213
+    },
+    {
+        "ticker": "SBSI",
+        "filename": "SBSI-NASDAQ.csv",
+        "length": 6188
+    },
+    {
+        "ticker": "SBUX",
+        "filename": "SBUX-NASDAQ.csv",
+        "length": 7673
+    },
+    {
+        "ticker": "SCHL",
+        "filename": "SCHL-NASDAQ.csv",
+        "length": 7759
+    },
+    {
+        "ticker": "SCHN",
+        "filename": "SCHN-NASDAQ.csv",
+        "length": 7321
+    },
+    {
+        "ticker": "SCOR",
+        "filename": "SCOR-NASDAQ.csv",
+        "length": 3894
+    },
+    {
+        "ticker": "SCSC",
+        "filename": "SCSC-NASDAQ.csv",
+        "length": 7236
+    },
+    {
+        "ticker": "SCTY",
+        "filename": "SCTY-NASDAQ.csv",
+        "length": 825
+    },
+    {
+        "ticker": "SCVL",
+        "filename": "SCVL-NASDAQ.csv",
+        "length": 7492
+    },
+    {
+        "ticker": "SCYT",
+        "filename": "SCYT-NASDAQ.csv",
+        "length": 6305
+    },
+    {
+        "ticker": "SCYX",
+        "filename": "SCYX-NASDAQ.csv",
+        "length": 2170
+    },
+    {
+        "ticker": "SDAD",
+        "filename": "SDAD-NASDAQ.csv",
+        "length": 7014
+    },
+    {
+        "ticker": "SEAC",
+        "filename": "SEAC-NASDAQ.csv",
+        "length": 6570
+    },
+    {
+        "ticker": "SEED",
+        "filename": "SEED-NASDAQ.csv",
+        "length": 4711
+    },
+    {
+        "ticker": "SEIC",
+        "filename": "SEIC-NASDAQ.csv",
+        "length": 10520
+    },
+    {
+        "ticker": "SEMI",
+        "filename": "SEMI-NASDAQ.csv",
+        "length": 177
+    },
+    {
+        "ticker": "SENEB",
+        "filename": "SENEB-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "SEV",
+        "filename": "SEV-NASDAQ.csv",
+        "length": 269
+    },
+    {
+        "ticker": "SFBC",
+        "filename": "SFBC-NASDAQ.csv",
+        "length": 3759
+    },
+    {
+        "ticker": "SFBS",
+        "filename": "SFBS-NASDAQ.csv",
+        "length": 2162
+    },
+    {
+        "ticker": "SFM",
+        "filename": "SFM-NASDAQ.csv",
+        "length": 2359
+    },
+    {
+        "ticker": "SFNC",
+        "filename": "SFNC-NASDAQ.csv",
+        "length": 9515
+    },
+    {
+        "ticker": "SFST",
+        "filename": "SFST-NASDAQ.csv",
+        "length": 5819
+    },
+    {
+        "ticker": "SGBI",
+        "filename": "SGBI-NASDAQ.csv",
+        "length": 6471
+    },
+    {
+        "ticker": "SGC",
+        "filename": "SGC-NASDAQ.csv",
+        "length": 12564
+    },
+    {
+        "ticker": "SGEN",
+        "filename": "SGEN-NASDAQ.csv",
+        "length": 5476
+    },
+    {
+        "ticker": "SGMA",
+        "filename": "SGMA-NASDAQ.csv",
+        "length": 7262
+    },
+    {
+        "ticker": "SGRP",
+        "filename": "SGRP-NASDAQ.csv",
+        "length": 6743
+    },
+    {
+        "ticker": "SHBI",
+        "filename": "SHBI-NASDAQ.csv",
+        "length": 5455
+    },
+    {
+        "ticker": "SHEN",
+        "filename": "SHEN-NASDAQ.csv",
+        "length": 5949
+    },
+    {
+        "ticker": "SHERF",
+        "filename": "SHERF-NASDAQ.csv",
+        "length": 4104
+    },
+    {
+        "ticker": "SHIP",
+        "filename": "SHIP-NASDAQ.csv",
+        "length": 3745
+    },
+    {
+        "ticker": "SHLD",
+        "filename": "SHLD-NASDAQ.csv",
+        "length": 529
+    },
+    {
+        "ticker": "SHLM",
+        "filename": "SHLM-NASDAQ.csv",
+        "length": 12593
+    },
+    {
+        "ticker": "SHOO",
+        "filename": "SHOO-NASDAQ.csv",
+        "length": 7303
+    },
+    {
+        "ticker": "SHPG",
+        "filename": "SHPG-NASDAQ.csv",
+        "length": 6222
+    },
+    {
+        "ticker": "SIEB",
+        "filename": "SIEB-NASDAQ.csv",
+        "length": 10777
+    },
+    {
+        "ticker": "SIEN",
+        "filename": "SIEN-NASDAQ.csv",
+        "length": 2045
+    },
+    {
+        "ticker": "SIFI",
+        "filename": "SIFI-NASDAQ.csv",
+        "length": 312
+    },
+    {
+        "ticker": "SIFY",
+        "filename": "SIFY-NASDAQ.csv",
+        "length": 5826
+    },
+    {
+        "ticker": "SIGI",
+        "filename": "SIGI-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "SILC",
+        "filename": "SILC-NASDAQ.csv",
+        "length": 7255
+    },
+    {
+        "ticker": "SIMO",
+        "filename": "SIMO-NASDAQ.csv",
+        "length": 4394
+    },
+    {
+        "ticker": "SIRI",
+        "filename": "SIRI-NASDAQ.csv",
+        "length": 7114
+    },
+    {
+        "ticker": "SIVB",
+        "filename": "SIVB-NASDAQ.csv",
+        "length": 8854
+    },
+    {
+        "ticker": "SIXD",
+        "filename": "SIXD-NASDAQ.csv",
+        "length": 3132
+    },
+    {
+        "ticker": "SKPI",
+        "filename": "SKPI-NASDAQ.csv",
+        "length": 4456
+    },
+    {
+        "ticker": "SKYAY",
+        "filename": "SKYAY-NASDAQ.csv",
+        "length": 7053
+    },
+    {
+        "ticker": "SKYS",
+        "filename": "SKYS-NASDAQ.csv",
+        "length": 2033
+    },
+    {
+        "ticker": "SKYW",
+        "filename": "SKYW-NASDAQ.csv",
+        "length": 9191
+    },
+    {
+        "ticker": "SLAB",
+        "filename": "SLAB-NASDAQ.csv",
+        "length": 5717
+    },
+    {
+        "ticker": "SLGN",
+        "filename": "SLGN-NASDAQ.csv",
+        "length": 6500
+    },
+    {
+        "ticker": "SLM",
+        "filename": "SLM-NASDAQ.csv",
+        "length": 9887
+    },
+    {
+        "ticker": "SLP",
+        "filename": "SLP-NASDAQ.csv",
+        "length": 6415
+    },
+    {
+        "ticker": "SLRC",
+        "filename": "SLRC-NASDAQ.csv",
+        "length": 3234
+    },
+    {
+        "ticker": "SLVM",
+        "filename": "SLVM-NASDAQ.csv",
+        "length": 308
+    },
+    {
+        "ticker": "SMBC",
+        "filename": "SMBC-NASDAQ.csv",
+        "length": 7220
+    },
+    {
+        "ticker": "SMCI",
+        "filename": "SMCI-NASDAQ.csv",
+        "length": 3956
+    },
+    {
+        "ticker": "SMIT",
+        "filename": "SMIT-NASDAQ.csv",
+        "length": 7188
+    },
+    {
+        "ticker": "SMLR",
+        "filename": "SMLR-NASDAQ.csv",
+        "length": 2219
+    },
+    {
+        "ticker": "SMMF",
+        "filename": "SMMF-NASDAQ.csv",
+        "length": 5770
+    },
+    {
+        "ticker": "SMRT",
+        "filename": "SMRT-NASDAQ.csv",
+        "length": 328
+    },
+    {
+        "ticker": "SMSI",
+        "filename": "SMSI-NASDAQ.csv",
+        "length": 6857
+    },
+    {
+        "ticker": "SMTC",
+        "filename": "SMTC-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "SNCR",
+        "filename": "SNCR-NASDAQ.csv",
+        "length": 4153
+    },
+    {
+        "ticker": "SNFCA",
+        "filename": "SNFCA-NASDAQ.csv",
+        "length": 8906
+    },
+    {
+        "ticker": "SNMX",
+        "filename": "SNMX-NASDAQ.csv",
+        "length": 4653
+    },
+    {
+        "ticker": "SNPS",
+        "filename": "SNPS-NASDAQ.csv",
+        "length": 7758
+    },
+    {
+        "ticker": "SNSGF",
+        "filename": "SNSGF-NASDAQ.csv",
+        "length": 5773
+    },
+    {
+        "ticker": "SODA",
+        "filename": "SODA-NASDAQ.csv",
+        "length": 3048
+    },
+    {
+        "ticker": "SOFO",
+        "filename": "SOFO-NASDAQ.csv",
+        "length": 6176
+    },
+    {
+        "ticker": "SOHO",
+        "filename": "SOHO-NASDAQ.csv",
+        "length": 4528
+    },
+    {
+        "ticker": "SOHU",
+        "filename": "SOHU-NASDAQ.csv",
+        "length": 5642
+    },
+    {
+        "ticker": "SONC",
+        "filename": "SONC-NASDAQ.csv",
+        "length": 8009
+    },
+    {
+        "ticker": "SP",
+        "filename": "SP-NASDAQ.csv",
+        "length": 4666
+    },
+    {
+        "ticker": "SPCB",
+        "filename": "SPCB-NASDAQ.csv",
+        "length": 4486
+    },
+    {
+        "ticker": "SPDC",
+        "filename": "SPDC-NASDAQ.csv",
+        "length": 7299
+    },
+    {
+        "ticker": "SPIL",
+        "filename": "SPIL-NASDAQ.csv",
+        "length": 5656
+    },
+    {
+        "ticker": "SPLK",
+        "filename": "SPLK-NASDAQ.csv",
+        "length": 2681
+    },
+    {
+        "ticker": "SPNS",
+        "filename": "SPNS-NASDAQ.csv",
+        "length": 6236
+    },
+    {
+        "ticker": "SPOK",
+        "filename": "SPOK-NASDAQ.csv",
+        "length": 4549
+    },
+    {
+        "ticker": "SPPI",
+        "filename": "SPPI-NASDAQ.csv",
+        "length": 6598
+    },
+    {
+        "ticker": "SPRO",
+        "filename": "SPRO-NASDAQ.csv",
+        "length": 1286
+    },
+    {
+        "ticker": "SPSC",
+        "filename": "SPSC-NASDAQ.csv",
+        "length": 3184
+    },
+    {
+        "ticker": "SPTN",
+        "filename": "SPTN-NASDAQ.csv",
+        "length": 5627
+    },
+    {
+        "ticker": "SPWH",
+        "filename": "SPWH-NASDAQ.csv",
+        "length": 2180
+    },
+    {
+        "ticker": "SPWR",
+        "filename": "SPWR-NASDAQ.csv",
+        "length": 4296
+    },
+    {
+        "ticker": "SPXX",
+        "filename": "SPXX-NASDAQ.csv",
+        "length": 4292
+    },
+    {
+        "ticker": "SRCE",
+        "filename": "SRCE-NASDAQ.csv",
+        "length": 9916
+    },
+    {
+        "ticker": "SRCL",
+        "filename": "SRCL-NASDAQ.csv",
+        "length": 6621
+    },
+    {
+        "ticker": "SRDX",
+        "filename": "SRDX-NASDAQ.csv",
+        "length": 6237
+    },
+    {
+        "ticker": "SRNE",
+        "filename": "SRNE-NASDAQ.csv",
+        "length": 3964
+    },
+    {
+        "ticker": "SRPT",
+        "filename": "SRPT-NASDAQ.csv",
+        "length": 6425
+    },
+    {
+        "ticker": "SSB",
+        "filename": "SSB-NASDAQ.csv",
+        "length": 6513
+    },
+    {
+        "ticker": "SSBI",
+        "filename": "SSBI-NASDAQ.csv",
+        "length": 4133
+    },
+    {
+        "ticker": "SSNC",
+        "filename": "SSNC-NASDAQ.csv",
+        "length": 3199
+    },
+    {
+        "ticker": "SSYS",
+        "filename": "SSYS-NASDAQ.csv",
+        "length": 7086
+    },
+    {
+        "ticker": "STAA",
+        "filename": "STAA-NASDAQ.csv",
+        "length": 7760
+    },
+    {
+        "ticker": "STBA",
+        "filename": "STBA-NASDAQ.csv",
+        "length": 7720
+    },
+    {
+        "ticker": "STBZ",
+        "filename": "STBZ-NASDAQ.csv",
+        "length": 3265
+    },
+    {
+        "ticker": "STEM",
+        "filename": "STEM-NASDAQ.csv",
+        "length": 549
+    },
+    {
+        "ticker": "STKL",
+        "filename": "STKL-NASDAQ.csv",
+        "length": 9301
+    },
+    {
+        "ticker": "STLD",
+        "filename": "STLD-NASDAQ.csv",
+        "length": 6557
+    },
+    {
+        "ticker": "STLY",
+        "filename": "STLY-NASDAQ.csv",
+        "length": 7559
+    },
+    {
+        "ticker": "STRA",
+        "filename": "STRA-NASDAQ.csv",
+        "length": 6642
+    },
+    {
+        "ticker": "STRL",
+        "filename": "STRL-NASDAQ.csv",
+        "length": 7916
+    },
+    {
+        "ticker": "STRM",
+        "filename": "STRM-NASDAQ.csv",
+        "length": 6710
+    },
+    {
+        "ticker": "STRN",
+        "filename": "STRN-NASDAQ.csv",
+        "length": 275
+    },
+    {
+        "ticker": "STRS",
+        "filename": "STRS-NASDAQ.csv",
+        "length": 7670
+    },
+    {
+        "ticker": "STX",
+        "filename": "STX-NASDAQ.csv",
+        "length": 5036
+    },
+    {
+        "ticker": "STXS",
+        "filename": "STXS-NASDAQ.csv",
+        "length": 4617
+    },
+    {
+        "ticker": "SUPN",
+        "filename": "SUPN-NASDAQ.csv",
+        "length": 2673
+    },
+    {
+        "ticker": "SURG",
+        "filename": "SURG-NASDAQ.csv",
+        "length": 1236
+    },
+    {
+        "ticker": "SVA",
+        "filename": "SVA-NASDAQ.csv",
+        "length": 4837
+    },
+    {
+        "ticker": "SVVC",
+        "filename": "SVVC-NASDAQ.csv",
+        "length": 2927
+    },
+    {
+        "ticker": "SWIR",
+        "filename": "SWIR-NASDAQ.csv",
+        "length": 5688
+    },
+    {
+        "ticker": "SWKS",
+        "filename": "SWKS-NASDAQ.csv",
+        "length": 9645
+    },
+    {
+        "ticker": "SWSH",
+        "filename": "SWSH-NASDAQ.csv",
+        "length": 5853
+    },
+    {
+        "ticker": "SYBT",
+        "filename": "SYBT-NASDAQ.csv",
+        "length": 7486
+    },
+    {
+        "ticker": "SYNA",
+        "filename": "SYNA-NASDAQ.csv",
+        "length": 5256
+    },
+    {
+        "ticker": "SYNT",
+        "filename": "SYNT-NASDAQ.csv",
+        "length": 6377
+    },
+    {
+        "ticker": "SYPR",
+        "filename": "SYPR-NASDAQ.csv",
+        "length": 7195
+    },
+    {
+        "ticker": "TACT",
+        "filename": "TACT-NASDAQ.csv",
+        "length": 6622
+    },
+    {
+        "ticker": "TAIT",
+        "filename": "TAIT-NASDAQ.csv",
+        "length": 6963
+    },
+    {
+        "ticker": "TAST",
+        "filename": "TAST-NASDAQ.csv",
+        "length": 4025
+    },
+    {
+        "ticker": "TATT",
+        "filename": "TATT-NASDAQ.csv",
+        "length": 8999
+    },
+    {
+        "ticker": "TAYD",
+        "filename": "TAYD-NASDAQ.csv",
+        "length": 10616
+    },
+    {
+        "ticker": "TBBK",
+        "filename": "TBBK-NASDAQ.csv",
+        "length": 4749
+    },
+    {
+        "ticker": "TBK",
+        "filename": "TBK-NASDAQ.csv",
+        "length": 2037
+    },
+    {
+        "ticker": "TBNK",
+        "filename": "TBNK-NASDAQ.csv",
+        "length": 3380
+    },
+    {
+        "ticker": "TBPH",
+        "filename": "TBPH-NASDAQ.csv",
+        "length": 2160
+    },
+    {
+        "ticker": "TCBI",
+        "filename": "TCBI-NASDAQ.csv",
+        "length": 4868
+    },
+    {
+        "ticker": "TCBK",
+        "filename": "TCBK-NASDAQ.csv",
+        "length": 7468
+    },
+    {
+        "ticker": "TCCO",
+        "filename": "TCCO-NASDAQ.csv",
+        "length": 9891
+    },
+    {
+        "ticker": "TCFC",
+        "filename": "TCFC-NASDAQ.csv",
+        "length": 4248
+    },
+    {
+        "ticker": "TCPC",
+        "filename": "TCPC-NASDAQ.csv",
+        "length": 2691
+    },
+    {
+        "ticker": "TCX",
+        "filename": "TCX-NASDAQ.csv",
+        "length": 6702
+    },
+    {
+        "ticker": "TEDU",
+        "filename": "TEDU-NASDAQ.csv",
+        "length": 2190
+    },
+    {
+        "ticker": "TEI",
+        "filename": "TEI-NASDAQ.csv",
+        "length": 7359
+    },
+    {
+        "ticker": "TENX",
+        "filename": "TENX-NASDAQ.csv",
+        "length": 7226
+    },
+    {
+        "ticker": "TESS",
+        "filename": "TESS-NASDAQ.csv",
+        "length": 7103
+    },
+    {
+        "ticker": "TGA",
+        "filename": "TGA-NASDAQ.csv",
+        "length": 9769
+    },
+    {
+        "ticker": "TGEN",
+        "filename": "TGEN-NASDAQ.csv",
+        "length": 2157
+    },
+    {
+        "ticker": "TGLS",
+        "filename": "TGLS-NASDAQ.csv",
+        "length": 2666
+    },
+    {
+        "ticker": "TGTX",
+        "filename": "TGTX-NASDAQ.csv",
+        "length": 3177
+    },
+    {
+        "ticker": "THFF",
+        "filename": "THFF-NASDAQ.csv",
+        "length": 7754
+    },
+    {
+        "ticker": "THRX",
+        "filename": "THRX-NASDAQ.csv",
+        "length": 298
+    },
+    {
+        "ticker": "TIGR",
+        "filename": "TIGR-NASDAQ.csv",
+        "length": 942
+    },
+    {
+        "ticker": "TILE",
+        "filename": "TILE-NASDAQ.csv",
+        "length": 10000
+    },
+    {
+        "ticker": "TITN",
+        "filename": "TITN-NASDAQ.csv",
+        "length": 3776
+    },
+    {
+        "ticker": "TLF",
+        "filename": "TLF-NASDAQ.csv",
+        "length": 7357
+    },
+    {
+        "ticker": "TLOG",
+        "filename": "TLOG-NASDAQ.csv",
+        "length": 2265
+    },
+    {
+        "ticker": "TNDM",
+        "filename": "TNDM-NASDAQ.csv",
+        "length": 2285
+    },
+    {
+        "ticker": "TNP",
+        "filename": "TNP-NASDAQ.csv",
+        "length": 5232
+    },
+    {
+        "ticker": "TNXP",
+        "filename": "TNXP-NASDAQ.csv",
+        "length": 2666
+    },
+    {
+        "ticker": "TOPS",
+        "filename": "TOPS-NASDAQ.csv",
+        "length": 4625
+    },
+    {
+        "ticker": "TORM",
+        "filename": "TORM-NASDAQ.csv",
+        "length": 8554
+    },
+    {
+        "ticker": "TOUR",
+        "filename": "TOUR-NASDAQ.csv",
+        "length": 2165
+    },
+    {
+        "ticker": "TOWN",
+        "filename": "TOWN-NASDAQ.csv",
+        "length": 5942
+    },
+    {
+        "ticker": "TREE",
+        "filename": "TREE-NASDAQ.csv",
+        "length": 3610
+    },
+    {
+        "ticker": "TRIB",
+        "filename": "TRIB-NASDAQ.csv",
+        "length": 7592
+    },
+    {
+        "ticker": "TRIP",
+        "filename": "TRIP-NASDAQ.csv",
+        "length": 2772
+    },
+    {
+        "ticker": "TRMK",
+        "filename": "TRMK-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "TRNS",
+        "filename": "TRNS-NASDAQ.csv",
+        "length": 11354
+    },
+    {
+        "ticker": "TROW",
+        "filename": "TROW-NASDAQ.csv",
+        "length": 9251
+    },
+    {
+        "ticker": "TRS",
+        "filename": "TRS-NASDAQ.csv",
+        "length": 3921
+    },
+    {
+        "ticker": "TRST",
+        "filename": "TRST-NASDAQ.csv",
+        "length": 9996
+    },
+    {
+        "ticker": "TRUE",
+        "filename": "TRUE-NASDAQ.csv",
+        "length": 2160
+    },
+    {
+        "ticker": "TRVN",
+        "filename": "TRVN-NASDAQ.csv",
+        "length": 2233
+    },
+    {
+        "ticker": "TSBK",
+        "filename": "TSBK-NASDAQ.csv",
+        "length": 6271
+    },
+    {
+        "ticker": "TSCO",
+        "filename": "TSCO-NASDAQ.csv",
+        "length": 7256
+    },
+    {
+        "ticker": "TSEM",
+        "filename": "TSEM-NASDAQ.csv",
+        "length": 7083
+    },
+    {
+        "ticker": "TSRI",
+        "filename": "TSRI-NASDAQ.csv",
+        "length": 11256
+    },
+    {
+        "ticker": "TSSI",
+        "filename": "TSSI-NASDAQ.csv",
+        "length": 4330
+    },
+    {
+        "ticker": "TTEC",
+        "filename": "TTEC-NASDAQ.csv",
+        "length": 6637
+    },
+    {
+        "ticker": "TTEK",
+        "filename": "TTEK-NASDAQ.csv",
+        "length": 7806
+    },
+    {
+        "ticker": "TTGT",
+        "filename": "TTGT-NASDAQ.csv",
+        "length": 3922
+    },
+    {
+        "ticker": "TTMI",
+        "filename": "TTMI-NASDAQ.csv",
+        "length": 5590
+    },
+    {
+        "ticker": "TTOO",
+        "filename": "TTOO-NASDAQ.csv",
+        "length": 2103
+    },
+    {
+        "ticker": "TWER",
+        "filename": "TWER-NASDAQ.csv",
+        "length": 4000
+    },
+    {
+        "ticker": "TWIN",
+        "filename": "TWIN-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "TWOU",
+        "filename": "TWOU-NASDAQ.csv",
+        "length": 2194
+    },
+    {
+        "ticker": "TXN",
+        "filename": "TXN-NASDAQ.csv",
+        "length": 12744
+    },
+    {
+        "ticker": "TXRH",
+        "filename": "TXRH-NASDAQ.csv",
+        "length": 4580
+    },
+    {
+        "ticker": "TYL",
+        "filename": "TYL-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "TZOO",
+        "filename": "TZOO-NASDAQ.csv",
+        "length": 5109
+    },
+    {
+        "ticker": "UBCP",
+        "filename": "UBCP-NASDAQ.csv",
+        "length": 7502
+    },
+    {
+        "ticker": "UBFO",
+        "filename": "UBFO-NASDAQ.csv",
+        "length": 5986
+    },
+    {
+        "ticker": "UBOH",
+        "filename": "UBOH-NASDAQ.csv",
+        "length": 6720
+    },
+    {
+        "ticker": "UBSI",
+        "filename": "UBSI-NASDAQ.csv",
+        "length": 8954
+    },
+    {
+        "ticker": "UCBA",
+        "filename": "UCBA-NASDAQ.csv",
+        "length": 4205
+    },
+    {
+        "ticker": "UCBI",
+        "filename": "UCBI-NASDAQ.csv",
+        "length": 5220
+    },
+    {
+        "ticker": "UCTT",
+        "filename": "UCTT-NASDAQ.csv",
+        "length": 4713
+    },
+    {
+        "ticker": "UEIC",
+        "filename": "UEIC-NASDAQ.csv",
+        "length": 7513
+    },
+    {
+        "ticker": "UFCS",
+        "filename": "UFCS-NASDAQ.csv",
+        "length": 10777
+    },
+    {
+        "ticker": "UFPI",
+        "filename": "UFPI-NASDAQ.csv",
+        "length": 7325
+    },
+    {
+        "ticker": "UFPT",
+        "filename": "UFPT-NASDAQ.csv",
+        "length": 7299
+    },
+    {
+        "ticker": "UHS",
+        "filename": "UHS-NASDAQ.csv",
+        "length": 10447
+    },
+    {
+        "ticker": "UIHC",
+        "filename": "UIHC-NASDAQ.csv",
+        "length": 3801
+    },
+    {
+        "ticker": "ULBI",
+        "filename": "ULBI-NASDAQ.csv",
+        "length": 7548
+    },
+    {
+        "ticker": "ULTR",
+        "filename": "ULTR-NASDAQ.csv",
+        "length": 850
+    },
+    {
+        "ticker": "UMBF",
+        "filename": "UMBF-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "UMPQ",
+        "filename": "UMPQ-NASDAQ.csv",
+        "length": 6174
+    },
+    {
+        "ticker": "UNAM",
+        "filename": "UNAM-NASDAQ.csv",
+        "length": 9001
+    },
+    {
+        "ticker": "UNB",
+        "filename": "UNB-NASDAQ.csv",
+        "length": 5876
+    },
+    {
+        "ticker": "UNFI",
+        "filename": "UNFI-NASDAQ.csv",
+        "length": 6572
+    },
+    {
+        "ticker": "UNTY",
+        "filename": "UNTY-NASDAQ.csv",
+        "length": 6523
+    },
+    {
+        "ticker": "UPLD",
+        "filename": "UPLD-NASDAQ.csv",
+        "length": 2039
+    },
+    {
+        "ticker": "URBN",
+        "filename": "URBN-NASDAQ.csv",
+        "length": 7326
+    },
+    {
+        "ticker": "USAP",
+        "filename": "USAP-NASDAQ.csv",
+        "length": 7049
+    },
+    {
+        "ticker": "USEG",
+        "filename": "USEG-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "USLM",
+        "filename": "USLM-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "UTHR",
+        "filename": "UTHR-NASDAQ.csv",
+        "length": 5912
+    },
+    {
+        "ticker": "UTMD",
+        "filename": "UTMD-NASDAQ.csv",
+        "length": 5983
+    },
+    {
+        "ticker": "UTSI",
+        "filename": "UTSI-NASDAQ.csv",
+        "length": 5732
+    },
+    {
+        "ticker": "UVSP",
+        "filename": "UVSP-NASDAQ.csv",
+        "length": 6207
+    },
+    {
+        "ticker": "V",
+        "filename": "V-NASDAQ.csv",
+        "length": 3711
+    },
+    {
+        "ticker": "VALU",
+        "filename": "VALU-NASDAQ.csv",
+        "length": 9982
+    },
+    {
+        "ticker": "VBFC",
+        "filename": "VBFC-NASDAQ.csv",
+        "length": 6722
+    },
+    {
+        "ticker": "VBIV",
+        "filename": "VBIV-NASDAQ.csv",
+        "length": 3182
+    },
+    {
+        "ticker": "VBLT",
+        "filename": "VBLT-NASDAQ.csv",
+        "length": 2065
+    },
+    {
+        "ticker": "VBTX",
+        "filename": "VBTX-NASDAQ.csv",
+        "length": 2059
+    },
+    {
+        "ticker": "VCEL",
+        "filename": "VCEL-NASDAQ.csv",
+        "length": 6508
+    },
+    {
+        "ticker": "VCYT",
+        "filename": "VCYT-NASDAQ.csv",
+        "length": 2296
+    },
+    {
+        "ticker": "VECO",
+        "filename": "VECO-NASDAQ.csv",
+        "length": 7060
+    },
+    {
+        "ticker": "VICR",
+        "filename": "VICR-NASDAQ.csv",
+        "length": 8238
+    },
+    {
+        "ticker": "VIDE",
+        "filename": "VIDE-NASDAQ.csv",
+        "length": 9555
+    },
+    {
+        "ticker": "VIEWF",
+        "filename": "VIEWF-NASDAQ.csv",
+        "length": 7078
+    },
+    {
+        "ticker": "VIVO",
+        "filename": "VIVO-NASDAQ.csv",
+        "length": 9169
+    },
+    {
+        "ticker": "VLGEA",
+        "filename": "VLGEA-NASDAQ.csv",
+        "length": 12564
+    },
+    {
+        "ticker": "VLNSF",
+        "filename": "VLNSF-NASDAQ.csv",
+        "length": 2399
+    },
+    {
+        "ticker": "VLY",
+        "filename": "VLY-NASDAQ.csv",
+        "length": 8245
+    },
+    {
+        "ticker": "VNDA",
+        "filename": "VNDA-NASDAQ.csv",
+        "length": 4197
+    },
+    {
+        "ticker": "VNET",
+        "filename": "VNET-NASDAQ.csv",
+        "length": 2931
+    },
+    {
+        "ticker": "VNOM",
+        "filename": "VNOM-NASDAQ.csv",
+        "length": 2138
+    },
+    {
+        "ticker": "VOD",
+        "filename": "VOD-NASDAQ.csv",
+        "length": 8595
+    },
+    {
+        "ticker": "VOXX",
+        "filename": "VOXX-NASDAQ.csv",
+        "length": 7745
+    },
+    {
+        "ticker": "VRA",
+        "filename": "VRA-NASDAQ.csv",
+        "length": 3057
+    },
+    {
+        "ticker": "VRNS",
+        "filename": "VRNS-NASDAQ.csv",
+        "length": 2214
+    },
+    {
+        "ticker": "VRNT",
+        "filename": "VRNT-NASDAQ.csv",
+        "length": 5181
+    },
+    {
+        "ticker": "VRSK",
+        "filename": "VRSK-NASDAQ.csv",
+        "length": 3319
+    },
+    {
+        "ticker": "VRSN",
+        "filename": "VRSN-NASDAQ.csv",
+        "length": 6259
+    },
+    {
+        "ticker": "VRTB",
+        "filename": "VRTB-NASDAQ.csv",
+        "length": 1372
+    },
+    {
+        "ticker": "VRTS",
+        "filename": "VRTS-NASDAQ.csv",
+        "length": 3511
+    },
+    {
+        "ticker": "VRTX",
+        "filename": "VRTX-NASDAQ.csv",
+        "length": 7908
+    },
+    {
+        "ticker": "VSAT",
+        "filename": "VSAT-NASDAQ.csv",
+        "length": 6551
+    },
+    {
+        "ticker": "VSEC",
+        "filename": "VSEC-NASDAQ.csv",
+        "length": 10120
+    },
+    {
+        "ticker": "VSTM",
+        "filename": "VSTM-NASDAQ.csv",
+        "length": 2738
+    },
+    {
+        "ticker": "VTNR",
+        "filename": "VTNR-NASDAQ.csv",
+        "length": 7592
+    },
+    {
+        "ticker": "VTR",
+        "filename": "VTR-NASDAQ.csv",
+        "length": 6446
+    },
+    {
+        "ticker": "WABC",
+        "filename": "WABC-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "WAFD",
+        "filename": "WAFD-NASDAQ.csv",
+        "length": 10108
+    },
+    {
+        "ticker": "WASH",
+        "filename": "WASH-NASDAQ.csv",
+        "length": 8952
+    },
+    {
+        "ticker": "WATT",
+        "filename": "WATT-NASDAQ.csv",
+        "length": 2194
+    },
+    {
+        "ticker": "WAYN",
+        "filename": "WAYN-NASDAQ.csv",
+        "length": 7422
+    },
+    {
+        "ticker": "WB",
+        "filename": "WB-NASDAQ.csv",
+        "length": 2180
+    },
+    {
+        "ticker": "WBA",
+        "filename": "WBA-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "WDC",
+        "filename": "WDC-NASDAQ.csv",
+        "length": 11125
+    },
+    {
+        "ticker": "WEB",
+        "filename": "WEB-NASDAQ.csv",
+        "length": 4307
+    },
+    {
+        "ticker": "WEN",
+        "filename": "WEN-NASDAQ.csv",
+        "length": 10743
+    },
+    {
+        "ticker": "WERN",
+        "filename": "WERN-NASDAQ.csv",
+        "length": 9195
+    },
+    {
+        "ticker": "WETF",
+        "filename": "WETF-NASDAQ.csv",
+        "length": 7079
+    },
+    {
+        "ticker": "WEYS",
+        "filename": "WEYS-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "WHF",
+        "filename": "WHF-NASDAQ.csv",
+        "length": 2522
+    },
+    {
+        "ticker": "WHLM",
+        "filename": "WHLM-NASDAQ.csv",
+        "length": 6639
+    },
+    {
+        "ticker": "WHLR",
+        "filename": "WHLR-NASDAQ.csv",
+        "length": 2534
+    },
+    {
+        "ticker": "WINA",
+        "filename": "WINA-NASDAQ.csv",
+        "length": 7379
+    },
+    {
+        "ticker": "WIRE",
+        "filename": "WIRE-NASDAQ.csv",
+        "length": 7660
+    },
+    {
+        "ticker": "WIX",
+        "filename": "WIX-NASDAQ.csv",
+        "length": 2291
+    },
+    {
+        "ticker": "WLDN",
+        "filename": "WLDN-NASDAQ.csv",
+        "length": 4042
+    },
+    {
+        "ticker": "WLFC",
+        "filename": "WLFC-NASDAQ.csv",
+        "length": 6604
+    },
+    {
+        "ticker": "WLKR",
+        "filename": "WLKR-NASDAQ.csv",
+        "length": 4397
+    },
+    {
+        "ticker": "WNDLF",
+        "filename": "WNDLF-NASDAQ.csv",
+        "length": 3060
+    },
+    {
+        "ticker": "WOOF",
+        "filename": "WOOF-NASDAQ.csv",
+        "length": 482
+    },
+    {
+        "ticker": "WRLD",
+        "filename": "WRLD-NASDAQ.csv",
+        "length": 7820
+    },
+    {
+        "ticker": "WSBC",
+        "filename": "WSBC-NASDAQ.csv",
+        "length": 8972
+    },
+    {
+        "ticker": "WSBF",
+        "filename": "WSBF-NASDAQ.csv",
+        "length": 4327
+    },
+    {
+        "ticker": "WSCI",
+        "filename": "WSCI-NASDAQ.csv",
+        "length": 12743
+    },
+    {
+        "ticker": "WSFS",
+        "filename": "WSFS-NASDAQ.csv",
+        "length": 9084
+    },
+    {
+        "ticker": "WSTG",
+        "filename": "WSTG-NASDAQ.csv",
+        "length": 6900
+    },
+    {
+        "ticker": "WSTL",
+        "filename": "WSTL-NASDAQ.csv",
+        "length": 6805
+    },
+    {
+        "ticker": "WTBA",
+        "filename": "WTBA-NASDAQ.csv",
+        "length": 5944
+    },
+    {
+        "ticker": "WTFC",
+        "filename": "WTFC-NASDAQ.csv",
+        "length": 6207
+    },
+    {
+        "ticker": "WVFC",
+        "filename": "WVFC-NASDAQ.csv",
+        "length": 7312
+    },
+    {
+        "ticker": "WVVI",
+        "filename": "WVVI-NASDAQ.csv",
+        "length": 7113
+    },
+    {
+        "ticker": "WWD",
+        "filename": "WWD-NASDAQ.csv",
+        "length": 7226
+    },
+    {
+        "ticker": "WWSG",
+        "filename": "WWSG-NASDAQ.csv",
+        "length": 5874
+    },
+    {
+        "ticker": "WYNN",
+        "filename": "WYNN-NASDAQ.csv",
+        "length": 5068
+    },
+    {
+        "ticker": "XCRA",
+        "filename": "XCRA-NASDAQ.csv",
+        "length": 10303
+    },
+    {
+        "ticker": "XENE",
+        "filename": "XENE-NASDAQ.csv",
+        "length": 2040
+    },
+    {
+        "ticker": "XNCR",
+        "filename": "XNCR-NASDAQ.csv",
+        "length": 2273
+    },
+    {
+        "ticker": "XNET",
+        "filename": "XNET-NASDAQ.csv",
+        "length": 2134
+    },
+    {
+        "ticker": "XOMA",
+        "filename": "XOMA-NASDAQ.csv",
+        "length": 9205
+    },
+    {
+        "ticker": "XONE",
+        "filename": "XONE-NASDAQ.csv",
+        "length": 61
+    },
+    {
+        "ticker": "XPLR",
+        "filename": "XPLR-NASDAQ.csv",
+        "length": 6411
+    },
+    {
+        "ticker": "XTLB",
+        "filename": "XTLB-NASDAQ.csv",
+        "length": 4350
+    },
+    {
+        "ticker": "YNDX",
+        "filename": "YNDX-NASDAQ.csv",
+        "length": 2909
+    },
+    {
+        "ticker": "YORW",
+        "filename": "YORW-NASDAQ.csv",
+        "length": 5944
+    },
+    {
+        "ticker": "YY",
+        "filename": "YY-NASDAQ.csv",
+        "length": 2532
+    },
+    {
+        "ticker": "Z",
+        "filename": "Z-NASDAQ.csv",
+        "length": 1855
+    },
+    {
+        "ticker": "ZAZA",
+        "filename": "ZAZA-NASDAQ.csv",
+        "length": 2000
+    },
+    {
+        "ticker": "ZBRA",
+        "filename": "ZBRA-NASDAQ.csv",
+        "length": 7892
+    },
+    {
+        "ticker": "ZEUS",
+        "filename": "ZEUS-NASDAQ.csv",
+        "length": 7242
+    },
+    {
+        "ticker": "ZION",
+        "filename": "ZION-NASDAQ.csv",
+        "length": 10778
+    },
+    {
+        "ticker": "ZOES",
+        "filename": "ZOES-NASDAQ.csv",
+        "length": 2184
+    },
+    {
+        "ticker": "ZUMZ",
+        "filename": "ZUMZ-NASDAQ.csv",
+        "length": 4432
+    }
+]
