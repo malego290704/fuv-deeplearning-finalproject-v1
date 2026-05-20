@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AAPL Predictor & Backtester</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pocketbase/0.21.1/pocketbase.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen p-4 md:p-10">
+
+    <div class="max-w-6xl mx-auto">
+        <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 gap-4">
+            <div>
+                <h1 class="text-4xl font-black text-indigo-400 tracking-tight">AAPL PREDICTOR</h1>
+                <p class="text-slate-400 italic text-sm">30d Log-Return Window | Multi-Class Classification</p>
+            </div>
+            
+            <div class="flex flex-wrap items-center gap-3 bg-slate-800 p-3 rounded-2xl border border-slate-700 shadow-xl">
+                <div class="flex flex-col">
+                    <label class="text-[10px] font-bold text-slate-500 uppercase ml-1">Prediction Start Date</label>
+                    <input type="date" id="startDate" class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500">
+                </div>
+                <button onclick="runInference()" class="bg-indigo-600 hover:bg-indigo-500 text-white px-6 py-3 rounded-xl font-bold transition-all shadow-lg shadow-indigo-500/20 self-end">
+                    Run Analysis
+                </button>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-4 gap-6">
+            <!-- Chart -->
+            <div class="lg:col-span-3 bg-slate-800 p-6 rounded-2xl border border-slate-700 shadow-xl">
+                <div class="h-[450px]">
+                    <canvas id="predictionChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Side Panel -->
+            <div class="space-y-6">
+                <div class="bg-slate-800 p-6 rounded-2xl border border-slate-700">
+                    <h3 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-4">Status</h3>
+                    <div id="statusIndicator" class="flex items-center gap-3">
+                        <div class="w-3 h-3 rounded-full bg-slate-600" id="statusDot"></div>
+                        <span id="statusText" class="text-slate-300 font-medium text-sm text-truncate">Idle</span>
+                    </div>
+                </div>
+
+                <div class="bg-slate-800 p-6 rounded-2xl border border-slate-700">
+                    <h3 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-4">7-Day Forecast</h3>
+                    <div id="predictionResults" class="space-y-2">
+                        <p class="text-slate-500 text-sm italic text-center">Select date to begin</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const PB_URL = '/'; 
+        const MODEL_API_URL = 'https://dlmdminh.cung.io.vn/predict'; 
+        const PB_COLLECTION = 'data_nasdaq_aapl'; 
+        const pb = new PocketBase(PB_URL);
+        let chart;
+
+        // Set default date to yesterday
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+        document.getElementById('startDate').value = yesterday.toISOString().split('T')[0];
+
+        function calculateLogReturns(records) {
+            const window = [];
+            for (let i = 1; i < records.length; i++) {
+                const current = records[i];
+                const prev = records[i-1];
+                window.push([
+                    Math.log(current.open / prev.open),
+                    Math.log(current.high / prev.high),
+                    Math.log(current.low / prev.low),
+                    Math.log(current.close / prev.close),
+                    Math.log((current.volume + 1) / (prev.volume + 1)) / 10,
+                    0,0,0,0,0,0,0,0 // Padding
+                ]);
+            }
+            return window;
+        }
+
+        function decodePrediction(arr) {
+            const maxIdx = arr.indexOf(Math.max(...arr));
+            const classes = [
+                { label: 'STRONG BEARISH', color: 'text-rose-600', multiplier: -0.025 },
+                { label: 'BEARISH', color: 'text-rose-400', multiplier: -0.01 },
+                { label: 'NEUTRAL', color: 'text-slate-400', multiplier: 0.00 },
+                { label: 'BULLISH', color: 'text-emerald-400', multiplier: 0.01 },
+                { label: 'STRONG BULLISH', color: 'text-emerald-600', multiplier: 0.025 }
+            ];
+            return classes[maxIdx];
+        }
+
+        async function runInference() {
+            const statusDot = document.getElementById('statusDot');
+            const statusText = document.getElementById('statusText');
+            const resultsEl = document.getElementById('predictionResults');
+            const selectedDate = document.getElementById('startDate').value;
+
+            if (!selectedDate) return alert("Please select a date");
+
+            try {
+                statusDot.className = "w-3 h-3 rounded-full bg-yellow-500 animate-pulse";
+                statusText.innerText = "Querying DB...";
+
+                // 1. Fetch Lookback (31 records up to selectedDate)
+                const lookbackRecords = await pb.collection(PB_COLLECTION).getList(1, 31, {
+                    filter: `date <= "${selectedDate} 23:59:59"`,
+                    sort: '-date',
+                });
+
+                if (lookbackRecords.items.length < 31) throw new Error("Not enough historical data for this date.");
+                
+                const history = lookbackRecords.items.reverse();
+                const preprocessedInput = calculateLogReturns(history);
+
+                // 2. Fetch ground truth (7 records AFTER selectedDate)
+                const actualFuture = await pb.collection(PB_COLLECTION).getList(1, 7, {
+                    filter: `date > "${selectedDate} 23:59:59"`,
+                    sort: 'date',
+                });
+
+                // 3. Call Model API
+                statusText.innerText = "Model Inference...";
+                const response = await fetch(MODEL_API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ data: preprocessedInput })
+                });
+
+                const responseData = await response.json();
+                const predictions = responseData.prediction[0];
+
+                // 4. Processing for Chart
+                statusDot.className = "w-3 h-3 rounded-full bg-emerald-500";
+                statusText.innerText = "Complete";
+                resultsEl.innerHTML = "";
+
+                const historyLabels = history.slice(1).map(r => new Date(r.date).toLocaleDateString());
+                const historyPrices = history.slice(1).map(r => r.close);
+                const lastPrice = historyPrices[historyPrices.length - 1];
+
+                // Build Predicted Line
+                let tempPrice = lastPrice;
+                const forecastPoints = [lastPrice];
+                predictions.forEach((pred, i) => {
+                    const decoded = decodePrediction(pred);
+                    tempPrice = tempPrice * (1 + decoded.multiplier);
+                    forecastPoints.push(tempPrice);
+                    
+                    resultsEl.innerHTML += `
+                        <div class="flex justify-between items-center bg-slate-900/50 p-2 rounded border border-slate-700 text-[11px]">
+                            <span class="text-slate-500 font-mono">D+${i+1}</span>
+                            <span class="${decoded.color} font-bold">${decoded.label}</span>
+                        </div>
+                    `;
+                });
+
+                // Build Actual Future Line
+                const actualPoints = [lastPrice, ...actualFuture.items.map(r => r.close)];
+                
+                // Labels for the future part
+                const futureLabels = [];
+                for(let i=1; i<=7; i++) {
+                    if (actualFuture.items[i-1]) {
+                        futureLabels.push(new Date(actualFuture.items[i-1].date).toLocaleDateString());
+                    } else {
+                        futureLabels.push(`Day +${i} (Future)`);
+                    }
+                }
+
+                updateChart(
+                    [...historyLabels, ...futureLabels], 
+                    historyPrices, 
+                    forecastPoints, 
+                    actualPoints
+                );
+
+            } catch (err) {
+                console.error(err);
+                statusDot.className = "w-3 h-3 rounded-full bg-rose-500";
+                statusText.innerText = err.message;
+            }
+        }
+
+        function updateChart(labels, history, forecast, actuals) {
+            const ctx = document.getElementById('predictionChart').getContext('2d');
+            
+            const historyData = [...history];
+            const forecastData = new Array(history.length - 1).fill(null).concat(forecast);
+            const actualsData = new Array(history.length - 1).fill(null).concat(actuals);
+
+            if (chart) chart.destroy();
+
+            chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'Historical',
+                            data: historyData,
+                            borderColor: '#6366f1',
+                            borderWidth: 2,
+                            pointRadius: 0,
+                            tension: 0.2
+                        },
+                        {
+                            label: 'Model Prediction',
+                            data: forecastData,
+                            borderColor: '#fbbf24',
+                            borderDash: [5, 5],
+                            pointRadius: 3,
+                            tension: 0.2
+                        },
+                        {
+                            label: 'Actual Reality',
+                            data: actualsData,
+                            borderColor: '#10b981',
+                            borderWidth: 3,
+                            pointRadius: 3,
+                            tension: 0.2
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    interaction: { mode: 'index', intersect: false },
+                    scales: {
+                        y: { grid: { color: '#334155' }, ticks: { color: '#94a3b8' } },
+                        x: { grid: { display: false }, ticks: { color: '#64748b', maxTicksLimit: 10 } }
+                    },
+                    plugins: {
+                        legend: { labels: { color: '#f8fafc' } }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

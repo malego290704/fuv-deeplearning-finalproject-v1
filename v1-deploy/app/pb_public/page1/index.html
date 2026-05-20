@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AAPL Log-Return Prediction</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pocketbase/0.21.1/pocketbase.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen p-4 md:p-10">
+
+    <div class="max-w-5xl mx-auto">
+        <div class="flex justify-between items-end mb-8">
+            <div>
+                <h1 class="text-4xl font-black text-indigo-400 tracking-tight">AAPL PREDICTOR</h1>
+                <p class="text-slate-400 italic">Preprocessing: Log-Returns | Input: 30d Window</p>
+            </div>
+            <button onclick="runInference()" class="bg-indigo-600 hover:bg-indigo-500 text-white px-6 py-3 rounded-xl font-bold transition-all shadow-lg shadow-indigo-500/20">
+                Generate Prediction
+            </button>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <!-- Chart -->
+            <div class="lg:col-span-2 bg-slate-800 p-6 rounded-2xl border border-slate-700 shadow-xl">
+                <div class="h-[400px]">
+                    <canvas id="predictionChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Side Panel -->
+            <div class="space-y-6">
+                <div class="bg-slate-800 p-6 rounded-2xl border border-slate-700">
+                    <h3 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-4">Inference Status</h3>
+                    <div id="statusIndicator" class="flex items-center gap-3">
+                        <div class="w-3 h-3 rounded-full bg-slate-600" id="statusDot"></div>
+                        <span id="statusText" class="text-slate-300 font-medium">Idle</span>
+                    </div>
+                </div>
+
+                <div class="bg-slate-800 p-6 rounded-2xl border border-slate-700">
+                    <h3 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-4">7-Day Forecast (One-Hot)</h3>
+                    <div id="predictionResults" class="space-y-3">
+                        <!-- JS Injection -->
+                        <p class="text-slate-500 text-sm">Waiting for inference...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- CONFIG ---
+        // --- CONFIGURATION ---
+        const PB_URL = '/'; // Your PocketBase URL
+        const MODEL_API_URL = 'https://dlmdminh.cung.io.vn/predict'; // Your Model API URL
+        const PB_COLLECTION = 'data_nasdaq_aapl'; // Your table name
+        const pb = new PocketBase(PB_URL);
+        let chart;
+
+        // --- PREPROCESSING LOGIC ---
+        function calculateLogReturns(records) {
+            // records is 31 items long, result will be 30 items long
+            const window = [];
+            
+            for (let i = 1; i < records.length; i++) {
+                const current = records[i];
+                const prev = records[i-1];
+
+                // Formula: ln(Price_t / Price_t-1)
+                const row = [
+                    Math.log(current.open / prev.open),
+                    Math.log(current.high / prev.high),
+                    Math.log(current.low / prev.low),
+                    Math.log(current.close / prev.close),
+                    Math.log((current.volume + 1) / prev.volume) / 1000,
+                    0.000001,0.000001,0.000001,0.000001,0.000001,0.000001,0.000001,0.000001,
+                ];
+                window.push(row);
+            }
+            return window;
+        }
+
+        function decodeOneHot(arr) {
+            // Assumes [1, 0, 0] = Down, [0, 1, 0] = Flat, [0, 0, 1] = Up
+            // Adjust indices based on your specific model training
+            const maxIdx = arr.indexOf(Math.max(...arr));
+            if (maxIdx === 2) return { label: 'BULLISH', color: 'text-emerald-400', val: 1 };
+            if (maxIdx === 0) return { label: 'BEARISH', color: 'text-rose-400', val: -1 };
+            return { label: 'NEUTRAL', color: 'text-slate-400', val: 0 };
+        }
+
+        async function runInference() {
+            const statusDot = document.getElementById('statusDot');
+            const statusText = document.getElementById('statusText');
+            const resultsEl = document.getElementById('predictionResults');
+
+            try {
+                statusDot.className = "w-3 h-3 rounded-full bg-yellow-500 animate-pulse";
+                statusText.innerText = "Fetching & Preprocessing...";
+
+                // 1. Fetch 31 records to get 30 returns
+                const resultList = await pb.collection(PB_COLLECTION).getList(1, 31, {
+                    sort: '-date',
+                });
+                
+                const rawRecords = resultList.items.reverse(); // Chronological order
+                const preprocessedInput = calculateLogReturns(rawRecords);
+                console.log(preprocessedInput)
+
+                // 2. Call Model API
+                statusText.innerText = "Running Model...";
+                const response = await fetch(MODEL_API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ data: preprocessedInput })
+                });
+
+                if (!response.ok) throw new Error("API Error");
+                const data = await response.json();
+                const predictions = data.prediction; // Expected: [[...], [...]] x 7
+
+                // 3. UI and Chart Update
+                statusDot.className = "w-3 h-3 rounded-full bg-emerald-500";
+                statusText.innerText = "Inference Complete";
+                resultsEl.innerHTML = "";
+
+                const historyLabels = rawRecords.slice(1).map(r => new Date(r.date).toLocaleDateString());
+                const historyPrices = rawRecords.slice(1).map(r => r.close);
+                
+                let lastPrice = historyPrices[historyPrices.length - 1];
+                const forecastData = new Array(historyPrices.length - 1).fill(null);
+                forecastData.push(lastPrice);
+
+                predictions
+                //// NEED UPDATE
+
+                updateChart(historyLabels, historyPrices, forecastData);
+
+            } catch (err) {
+                console.error(err);
+                statusDot.className = "w-3 h-3 rounded-full bg-rose-500";
+                statusText.innerText = "Error: Check Console";
+            }
+        }
+
+        function updateChart(labels, history, forecast) {
+            const ctx = document.getElementById('predictionChart').getContext('2d');
+            
+            // Create future labels
+            const fullLabels = [...labels];
+            for(let i=1; i<=7; i++) fullLabels.push(`Day +${i}`);
+
+            if (chart) chart.destroy();
+
+            chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: fullLabels,
+                    datasets: [
+                        {
+                            label: 'Actual Close',
+                            data: history,
+                            borderColor: '#6366f1',
+                            backgroundColor: 'transparent',
+                            borderWidth: 3,
+                            pointRadius: 0,
+                            tension: 0.2
+                        },
+                        {
+                            label: 'Predicted Trend',
+                            data: forecast,
+                            borderColor: '#10b981',
+                            borderDash: [6, 6],
+                            backgroundColor: 'transparent',
+                            pointRadius: 4,
+                            tension: 0.2
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: { grid: { color: '#334155' }, ticks: { color: '#94a3b8' } },
+                        x: { grid: { display: false }, ticks: { color: '#94a3b8' } }
+                    },
+                    plugins: {
+                        legend: { position: 'bottom', labels: { color: '#f8fafc' } }
+                    }
+                }
+            });
+        }
+
+        // Initial Load
+        runInference();
+    </script>
+</body>
+</html>
+
+
+
+
+        <!-- // --- CONFIGURATION ---
+        const PB_URL = '/'; // Your PocketBase URL
+        const MODEL_API_URL = 'https://dlmdminh.cung.io.vn/predict'; // Your Model API URL
+        const PB_COLLECTION = 'data_nasdaq_aapl'; // Your table name -->

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AAPL Log-Return Prediction</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pocketbase/0.21.1/pocketbase.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen p-4 md:p-10">
+
+    <div class="max-w-5xl mx-auto">
+        <div class="flex justify-between items-end mb-8">
+            <div>
+                <h1 class="text-4xl font-black text-indigo-400 tracking-tight">AAPL PREDICTOR</h1>
+                <p class="text-slate-400 italic">Preprocessing: Log-Returns | Input: 30d Window</p>
+            </div>
+            <button onclick="runInference()" class="bg-indigo-600 hover:bg-indigo-500 text-white px-6 py-3 rounded-xl font-bold transition-all shadow-lg shadow-indigo-500/20">
+                Generate Prediction
+            </button>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <!-- Chart -->
+            <div class="lg:col-span-2 bg-slate-800 p-6 rounded-2xl border border-slate-700 shadow-xl">
+                <div class="h-[400px]">
+                    <canvas id="predictionChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Side Panel -->
+            <div class="space-y-6">
+                <div class="bg-slate-800 p-6 rounded-2xl border border-slate-700">
+                    <h3 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-4">Inference Status</h3>
+                    <div id="statusIndicator" class="flex items-center gap-3">
+                        <div class="w-3 h-3 rounded-full bg-slate-600" id="statusDot"></div>
+                        <span id="statusText" class="text-slate-300 font-medium">Idle</span>
+                    </div>
+                </div>
+
+                <div class="bg-slate-800 p-6 rounded-2xl border border-slate-700">
+                    <h3 class="text-xs font-bold text-slate-500 uppercase tracking-widest mb-4">7-Day Forecast (One-Hot)</h3>
+                    <div id="predictionResults" class="space-y-3">
+                        <!-- JS Injection -->
+                        <p class="text-slate-500 text-sm">Waiting for inference...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- CONFIG ---
+        // --- CONFIGURATION ---
+        const PB_URL = '/'; // Your PocketBase URL
+        const MODEL_API_URL = 'https://dlmdminh.cung.io.vn/predict'; // Your Model API URL
+        const PB_COLLECTION = 'data_nasdaq_aapl'; // Your table name
+        const pb = new PocketBase(PB_URL);
+        let chart;
+
+// --- PREPROCESSING LOGIC ---
+function calculateLogReturns(records) {
+    const window = [];
+    for (let i = 1; i < records.length; i++) {
+        const current = records[i];
+        const prev = records[i-1];
+
+        const row = [
+            Math.log(current.open / prev.open),
+            Math.log(current.high / prev.high),
+            Math.log(current.low / prev.low),
+            Math.log(current.close / prev.close),
+            // Normalizing volume slightly and padding with 0.000001 for remaining features
+            Math.log((current.volume + 1) / (prev.volume + 1)) / 1000, 
+            0.000001, 0.000001, 0.000001, 0.000001, 0.000001, 0.000001, 0.000001, 0.000001,
+        ];
+        window.push(row);
+    }
+    return window;
+}
+
+function decodePrediction(arr) {
+    const maxIdx = arr.indexOf(Math.max(...arr));
+    
+    // Mapping indices to your specific split points:
+    // Index 0: x < -0.02
+    // Index 1: -0.02 <= x < -0.005
+    // Index 2: -0.005 <= x < 0.005
+    // Index 3: 0.005 <= x < 0.02
+    // Index 4: x >= 0.02
+    
+    const classes = [
+        { 
+            label: 'STRONG BEARISH', 
+            color: 'text-rose-600', 
+            multiplier: -0.025, // Representative value for < -2%
+            desc: '< -2.0%'
+        },
+        { 
+            label: 'BEARISH', 
+            color: 'text-rose-400', 
+            multiplier: -0.01,  // Representative value for -2% to -0.5%
+            desc: '-2.0% to -0.5%'
+        },
+        { 
+            label: 'NEUTRAL', 
+            color: 'text-slate-400', 
+            multiplier: 0.00,   // Representative value for -0.5% to 0.5%
+            desc: '± 0.5%'
+        },
+        { 
+            label: 'BULLISH', 
+            color: 'text-emerald-400', 
+            multiplier: 0.01,   // Representative value for 0.5% to 2%
+            desc: '+0.5% to +2.0%'
+        },
+        { 
+            label: 'STRONG BULLISH', 
+            color: 'text-emerald-600', 
+            multiplier: 0.025,  // Representative value for > 2%
+            desc: '> +2.0%'
+        }
+    ];
+
+    return classes[maxIdx];
+}
+
+async function runInference() {
+    const statusDot = document.getElementById('statusDot');
+    const statusText = document.getElementById('statusText');
+    const resultsEl = document.getElementById('predictionResults');
+
+    try {
+        statusDot.className = "w-3 h-3 rounded-full bg-yellow-500 animate-pulse";
+        statusText.innerText = "Fetching Data...";
+
+        // 1. Fetch 31 records to get 30 log-returns
+        const resultList = await pb.collection(PB_COLLECTION).getList(1, 31, {
+            sort: '-date',
+        });
+        
+        const rawRecords = resultList.items.reverse(); 
+        const preprocessedInput = calculateLogReturns(rawRecords);
+        console.log('inputs: ', preprocessedInput)
+        // 2. Call Model API
+        statusText.innerText = "Running Model...";
+        const response = await fetch(MODEL_API_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ data: preprocessedInput }) // Your model likely expects batch dimension [1, 30, 13]
+        });
+
+        if (!response.ok) throw new Error("API Error");
+        const responseData = await response.json();
+        
+        // Handling the nested response: prediction: [[[...]]]
+        const predictions = responseData.prediction[0]; 
+        console.log('output: ', predictions)
+
+
+        // 3. UI and Chart Update
+        statusDot.className = "w-3 h-3 rounded-full bg-emerald-500";
+        statusText.innerText = "Inference Complete";
+        resultsEl.innerHTML = "";
+
+        const historyLabels = rawRecords.slice(1).map(r => new Date(r.date).toLocaleDateString());
+        const historyPrices = rawRecords.slice(1).map(r => r.close);
+        
+        let lastPrice = historyPrices[historyPrices.length - 1];
+        const forecastData = new Array(historyPrices.length - 1).fill(null);
+        forecastData.push(lastPrice); 
+
+        predictions.forEach((predArr, i) => {
+            const decoded = decodePrediction(predArr);
+            
+            // Project the price using the bucket's representative multiplier
+            lastPrice = lastPrice * (1 + decoded.multiplier);
+            forecastData.push(lastPrice);
+
+            // Update Side Panel UI
+            resultsEl.innerHTML += `
+                <div class="flex flex-col bg-slate-700/30 p-3 rounded-xl border border-slate-600/50">
+                    <div class="flex justify-between items-center mb-1">
+                        <span class="text-[10px] text-slate-500 font-bold tracking-tighter">DAY +${i+1}</span>
+                        <span class="text-xs font-black ${decoded.color}">${decoded.label}</span>
+                    </div>
+                    <div class="text-[10px] text-slate-400 italic">${decoded.desc}</div>
+                </div>
+            `;
+        });
+
+        updateChart(historyLabels, historyPrices, forecastData);
+
+    } catch (err) {
+        console.error(err);
+        statusDot.className = "w-3 h-3 rounded-full bg-rose-500";
+        statusText.innerText = "Error: See Console";
+        resultsEl.innerHTML = `<p class="text-rose-400 text-sm">Failed to execute prediction.</p>`;
+    }
+}
+
+function updateChart(labels, history, forecast) {
+    const ctx = document.getElementById('predictionChart').getContext('2d');
+    
+    // Add 7 future dates to labels
+    const fullLabels = [...labels];
+    const lastDate = new Date(labels[labels.length - 1]);
+    for(let i=1; i<=7; i++) {
+        const nextDate = new Date(lastDate);
+        nextDate.setDate(lastDate.getDate() + i);
+        fullLabels.push(nextDate.toLocaleDateString());
+    }
+
+    if (chart) chart.destroy();
+
+    chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: fullLabels,
+            datasets: [
+                {
+                    label: 'Actual Close',
+                    data: history,
+                    borderColor: '#6366f1',
+                    backgroundColor: 'rgba(99, 102, 241, 0.1)',
+                    fill: true,
+                    borderWidth: 3,
+                    pointRadius: 2,
+                    tension: 0.3
+                },
+                {
+                    label: 'Predicted Trend',
+                    data: forecast,
+                    borderColor: '#10b981',
+                    borderDash: [5, 5],
+                    backgroundColor: 'transparent',
+                    pointRadius: 4,
+                    pointBackgroundColor: '#10b981',
+                    tension: 0.3
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            interaction: { intersect: false, mode: 'index' },
+            scales: {
+                y: { 
+                    grid: { color: '#334155' }, 
+                    ticks: { color: '#94a3b8' },
+                    title: { display: true, text: 'Price (USD)', color: '#64748b' }
+                },
+                x: { 
+                    grid: { display: false }, 
+                    ticks: { color: '#94a3b8', maxRotation: 45, minRotation: 45 } 
+                }
+            },
+            plugins: {
+                legend: { position: 'top', labels: { color: '#f8fafc', font: { weight: 'bold' } } },
+                tooltip: { backgroundColor: '#1e293b', titleColor: '#818cf8', bodyColor: '#f8fafc' }
+            }
+        }
+    });
+}
+    </script>
+</body>
+</html>
+
+
+
+
+        <!-- // --- CONFIGURATION ---
+        const PB_URL = '/'; // Your PocketBase URL
+        const MODEL_API_URL = 'https://dlmdminh.cung.io.vn/predict'; // Your Model API URL
+        const PB_COLLECTION = 'data_nasdaq_aapl'; // Your table name -->

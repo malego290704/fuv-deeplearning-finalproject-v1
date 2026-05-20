@@ -18,3 +18,12 @@ There is nothing need to run this project. You can interact at the website, or s
 ### Model Construction
 - Please read the project report or associated notebooks in the `./v1-files` folder
 ### Deployment
+There are 2 apps in the `./v1-deploy` folder:
+- The `app` folder is for the PocketBase backend serving the app as a webpage.
+- The `api` folder is for the Python backend serving the model as an endpoint.
+
+Guide:
+- Download the PocketBase executable for your respective OS and put in the `app` folder. Learn more about PocketBase [here](https://pocketbase.io/)
+- Run the PocketBase executable manually, or using the prepared `.service` file to register a systemd service for automatic execution and restart.
+- In the `api` folder, create a virtual environment (venv) for Python 3. Install the required libraries from `requirements.txt`
+- Run the Python script manually, or using the prepared `.service` file to register a systemd service for automatic execution and restart.

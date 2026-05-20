@@ -1,0 +1,13 @@
+[Unit]
+Description=Python Service for DL (Minh)
+
+[Service]
+ExecStart=/opt/s26dl/minh/api/.venv/bin/python3 /opt/s26dl/minh/api/main.py
+WorkingDirectory=/opt/s26dl/minh/api
+Restart=always
+User=root
+# StandardOutput   = append:/opt/s26dl/minh/api/std.log
+# StandardError    = append:/opt/s26dl/minh/api/std.log
+
+[Install]
+WantedBy=multi-user.target
